@@ -5,6 +5,7 @@
 
 
 ### Calendar
+
 |Date| Homework (Due that day)|
 |------------------|:----------------------------------------------:|
 |Monday, August 21 | |

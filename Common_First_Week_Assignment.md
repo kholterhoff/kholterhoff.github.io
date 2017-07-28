@@ -12,9 +12,9 @@ wcp-common-first-week-assignment-spring-2017
 
 <h3>Reflection</h3>
 
-    1. Reflect upon your strengths and weaknesses in completing the project.
-    1. Describe the methods and modes that were the focus of your communicative work in the project.
-    1. Articulate areas and strategies you would like to focus on for continued improvement
-    1. What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
-    1. Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
-    1. What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?
+1. Reflect upon your strengths and weaknesses in completing the project.
+2. Describe the methods and modes that were the focus of your communicative work in the project.
+3. Articulate areas and strategies you would like to focus on for continued improvement
+4. What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
+5. Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
+6. What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?

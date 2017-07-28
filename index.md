@@ -2,7 +2,7 @@
 	<h1>Victorians in Cyberspace</h1>
 	<nav>
   <ul>
-    <li><a href="/Common_First_Week_Assignment">Common First Week Assignment</a></li>
+    <li><a href="/Victorians_in_Cyberspace">Common First Week Assignment</a></li>
     <li><a href="/Artifact_1">Artifact #1</a></li>
     <li><a href="/Artifact_2">Artifact #2</a></li>
     <li><a href="/Artifact_3">Artifact #3</a></li>

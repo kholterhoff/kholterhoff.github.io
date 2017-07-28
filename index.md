@@ -3,13 +3,40 @@ layout: default
 title: Victorians in Cyberspace
 ---
 <div class="blurb">
-	<h1>Hi there, I'm Kate!</h1>
-	<p>stuff </a></p>
+	<h1>Victorians in Cyberspace</h1>
+	<p>In this section of ENGL 1102, students build on the critical thinking and composition strategies learned in ENGL 1101 by creating projects that use new media and digital technologies to study Victorian and Neo-Victorian literature, visual art, and culture. We will consider ideas about textual adaptation and interpretation in the discourses of nineteenth-century British and colonial literary and visual culture. Students will examine texts both written during and set in nineteenth-century Britain and the British Empire in order to identify and understand critical themes including imperialism, race, class, and gender. Addressing questions about why the period of Queen Victoria’s reign (1837-1901) has inspired so many twenty- and twenty-first-century films, novels, artworks, and video games, will enable students in this course to generate valuable insights regarding the persistence of Victoriana. What elements of Victorian texts seem particularly modern, and even prescient? What elements of the past do Neo-Victorian texts adopt, and what do they ignore? Does Steampunk offer a productive critique of the past or is it a merely an ornamental and corporatized style? How is the ideology of the nineteenth century inscribed on its imagery, and what strategies might contemporary scholars use to interpret visual culture? Why do some plots and authors from the nineteenth century remain popular and canonical, while others have passed into obscurity? Students enrolled in this course will be evaluated on their successful engagement with course outcomes in rhetoric, process, and multimodality through the completion of written assignments as well as multimodal and digital projects.</p>
 </div><!-- /.blurb -->
 
-## Victorians in Cyberspace
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
 
-In this section of ENGL 1102, students build on the critical thinking and composition strategies learned in ENGL 1101 by creating projects that use new media and digital technologies to study Victorian and Neo-Victorian literature, visual art, and culture. We will consider ideas about textual adaptation and interpretation in the discourses of nineteenth-century British and colonial literary and visual culture. Students will examine texts both written during and set in nineteenth-century Britain and the British Empire in order to identify and understand critical themes including imperialism, race, class, and gender. Addressing questions about why the period of Queen Victoria’s reign (1837-1901) has inspired so many twenty- and twenty-first-century films, novels, artworks, and video games, will enable students in this course to generate valuable insights regarding the persistence of Victoriana. What elements of Victorian texts seem particularly modern, and even prescient? What elements of the past do Neo-Victorian texts adopt, and what do they ignore? Does Steampunk offer a productive critique of the past or is it a merely an ornamental and corporatized style? How is the ideology of the nineteenth century inscribed on its imagery, and what strategies might contemporary scholars use to interpret visual culture? Why do some plots and authors from the nineteenth century remain popular and canonical, while others have passed into obscurity? Students enrolled in this course will be evaluated on their successful engagement with course outcomes in rhetoric, process, and multimodality through the completion of written assignments as well as multimodal and digital projects.
+<h2>Add a border to a table:</h2>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+  </tr>
+</table>
+
+</body>
+</html>
 
 ### Calendar
 |Date| Homework (Due that day)|

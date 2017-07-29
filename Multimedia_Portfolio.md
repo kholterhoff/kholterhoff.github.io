@@ -23,6 +23,6 @@ Mahara portfolios are collections of individual pages. You create individual pag
 > <li> Click “Save” once you’ve chosen a layout. Mahara will jump back to “Edit Content.” Note the list of types of content that can be included on the page. Drag and drop the different options where you want them on the page. Mahara differentiates between hosted media that can be uploaded directly to Mahara and external media that are linked to from within Mahara (such as Prezis, YouTube Videos, Google Docs, etc.). Note that the former options are listed under “Media” while the later is listed under “External.”
 > <li> Click “Done” when you have placed all the content you want on that page. Repeat until you’ve created all your pages.
 
-Detailed directions for Multimodal Reflection Portfolio and Mahara: portfolio-instructions-spring-2017
+<p>Detailed directions for Multimodal Reflection Portfolio and Mahara: portfolio-instructions-spring-2017</p>
 
 <a href="/index">Calendar</a>  |  <a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>

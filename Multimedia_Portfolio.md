@@ -28,3 +28,5 @@ Mahara portfolios are collections of individual pages. You create individual pag
 5. Click “Done” when you have placed all the content you want on that page. Repeat until you’ve created all your pages.
 
 Detailed directions for Multimodal Reflection Portfolio and Mahara: portfolio-instructions-spring-2017
+
+<a href="/index">Calendar</a>  |  <a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>

@@ -1,7 +1,7 @@
 <div class="blurb">
 	<h1>Victorians in Cyberspace</h1>
   <ul>
-    <li>[/Common_First_Week_Assignment.md"](Common First Week Assignment)</li>
+    <li><a href="/Common_First_Week_Assignment.md">Common First Week Assignment</li>
     <li>[/Artifact_1](Artifact #1)</li>
     <li>[/Artifact_2](Artifact #2)</li>
     <li>[/Artifact_3](Artifact #3)</li>

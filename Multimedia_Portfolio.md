@@ -17,15 +17,15 @@ Mahara portfolios are collections of individual pages. You create individual pag
 
 <p>To create your portfolio in Mahara, you first need to create an individual page for each artifact.</p>
 
-1. Under the “Portfolio” tab on the Mahara home page, click “Pages” and then select “Create Page” from the dropdown menu.
+> <li> Under the “Portfolio” tab on the Mahara home page, click “Pages” and then select “Create Page” from the dropdown menu.
 
-2. Give the page a title on the edit page screen, choose a display name (we recommend either your last name or student ID, but any of the options are fine). Click “save.”
+> <li> Give the page a title on the edit page screen, choose a display name (we recommend either your last name or student ID, but any of the options are fine). Click “save.”
    
-3. Click the “Edit Layout” tab. (Note that Mahara automatically jumps to “Edit Content” after you click “save” on the previous page, but you’ll want to modify the layout first.) Note that Mahara provides a selection of “Basic Layouts” and a link to “Advanced Layouts” on the edit layouts page. Under advanced layouts, you can create and modify your own layouts by deciding how many columns will be in a row and what percentage of the screen width each column will take. Mahara will limit each page to six rows and five columns per row.
+> <li> Click the “Edit Layout” tab. (Note that Mahara automatically jumps to “Edit Content” after you click “save” on the previous page, but you’ll want to modify the layout first.) Note that Mahara provides a selection of “Basic Layouts” and a link to “Advanced Layouts” on the edit layouts page. Under advanced layouts, you can create and modify your own layouts by deciding how many columns will be in a row and what percentage of the screen width each column will take. Mahara will limit each page to six rows and five columns per row.
   
-4. Click “Save” once you’ve chosen a layout. Mahara will jump back to “Edit Content.” Note the list of types of content that can be included on the page. Drag and drop the different options where you want them on the page. Mahara differentiates between hosted media that can be uploaded directly to Mahara and external media that are linked to from within Mahara (such as Prezis, YouTube Videos, Google Docs, etc.). Note that the former options are listed under “Media” while the later is listed under “External.”
+> <li> Click “Save” once you’ve chosen a layout. Mahara will jump back to “Edit Content.” Note the list of types of content that can be included on the page. Drag and drop the different options where you want them on the page. Mahara differentiates between hosted media that can be uploaded directly to Mahara and external media that are linked to from within Mahara (such as Prezis, YouTube Videos, Google Docs, etc.). Note that the former options are listed under “Media” while the later is listed under “External.”
  
-5. Click “Done” when you have placed all the content you want on that page. Repeat until you’ve created all your pages.
+> <li> Click “Done” when you have placed all the content you want on that page. Repeat until you’ve created all your pages.
 
 Detailed directions for Multimodal Reflection Portfolio and Mahara: portfolio-instructions-spring-2017
 

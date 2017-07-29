@@ -18,4 +18,5 @@ wcp-common-first-week-assignment-spring-2017
  > <li> What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
  > <li> Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
  > <li> What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?
-
+  
+<a href="/index">Calendar</a>  |  <a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>

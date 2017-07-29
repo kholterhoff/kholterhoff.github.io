@@ -30,3 +30,5 @@ For more on using Twitter for research see, Margaret Adolphus’s “How to…us
 
 For advice on Live Tweeting see, Juraj Holub’s “10 Easy Tips for Live Tweeting at Events”
 My thanks to Marion L. Brittain Fellow Rebekah Fitzsimmons for encouraging me to adopt her own Twitter assignment. I  credit her with many of these ideas, and much of the language.
+
+<a href="/index">Calendar</a> | <a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>

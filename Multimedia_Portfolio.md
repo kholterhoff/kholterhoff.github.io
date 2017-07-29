@@ -15,7 +15,7 @@ Mahara portfolios are collections of individual pages. You create individual pag
 
 <h3>Creating Pages</h3>
 
-<h4>To create your portfolio in Mahara, you first need to create an individual page for each artifact.</h4>
+<p>To create your portfolio in Mahara, you first need to create an individual page for each artifact.</p>
 
 1. Under the “Portfolio” tab on the Mahara home page, click “Pages” and then select “Create Page” from the dropdown menu.
 

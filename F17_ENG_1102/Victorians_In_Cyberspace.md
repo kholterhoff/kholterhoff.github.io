@@ -1,6 +1,6 @@
 <h1><a href="/Course_Description">Victorians in Cyberspace</a></h1>
 
-<a href="/index">Calendar</a>  |  <a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>
+<a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_In_Cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
 <h1>Calendar</h1>
 

@@ -1,5 +1,6 @@
-
 <h1>Twitter</h1>
+
+<a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_in_cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
 <h2>Course Hashtag: #1102VictoriansinCyberspace</h2>
 
@@ -30,5 +31,3 @@ For more on using Twitter for research see, Margaret Adolphus’s “How to…us
 
 For advice on Live Tweeting see, Juraj Holub’s “10 Easy Tips for Live Tweeting at Events”
 My thanks to Marion L. Brittain Fellow Rebekah Fitzsimmons for encouraging me to adopt her own Twitter assignment. I  credit her with many of these ideas, and much of the language.
-
-<a href="F17_ENG_1102/index">Calendar</a>  |  <a href="F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="F17_ENG_1102/Twitter">Twitter</a> | <a href="F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>

@@ -1,54 +1,94 @@
-<h1><a href="/Course_Description">Victorians in Cyberspace</a></h1>
+<h1>Dr. Kate Holterhoff's Teaching</h1>
 
-<a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>
+<h2>Courses</h2>
 
-<h1>Calendar</h1>
-
-|Date| Homework (Due that day)|
-|------------------|:----------------------------------------------:|
-|Monday, August 21 | |
-|Wednesday, August 23 | |
-|Friday, August 25 | |
-|Monday, August 28 | |
-|Wednesday, August 30 | 
-|Friday, September 1 | 
-|Monday, September 4	 |	No Class: Labor Day|
-|Wednesday, September 6 | 
-|Friday, September 8 | |
-|Monday, September 11 | |
-|Wednesday, September 13 | |
-|Friday, September 15 | |
-|Monday, September 18 | |
-|Wednesday, September 20 | |
-|Friday, September 22 || 
-|Monday, September 25 | |
-|Wednesday, September 27 || 
-|Friday, September 29 | |
-|Monday, October 2 | |
-|Wednesday, October 4 || 
-|Friday, October 6 | |
-|Monday, October 9	| No Class: Fall Recess|
-|Wednesday, October 11 | |
-|Friday, October 13 | |
-|Monday, October 16 | |
-|Wednesday, October 18 || 
-|Friday, October 20 | |
-|Monday, October 23 | |
-|Wednesday, October 25 || 
-|Friday, October 27 | |
-|Monday, October 30 | |
-|Wednesday, November 1 | |
-|Friday, November 3 | |
-|Monday, November 6 | |
-|Wednesday, November 8 || 
-|Friday, November 10	 |	No Class|
-|Monday, November 13 | |
-|Wednesday, November 15 || 
-|Friday, November 17 | |
-|Monday, November 20 | |
-|Wednesday, November 22 |	No Class: Thanksgiving Break|
-|Friday, November 24 |	No Class: Thanksgiving Break|
-|Monday, November 27	 | |
-|Wednesday, November 29 || 
-|Friday, November 31 | |
-|Monday, December 4 | |
+<td colspan="4"><h3>Georgia Institute of Technology</h3>
+  <tr>
+    <td>ENGL 1102</td>
+    <td>Visual Culture, Digital Archives and H. Rider Haggard</td>
+    <td>2017</td>
+    <td><a href="http://1102vcdahrh.wordpress.com/" class="Wordpress button">Course Website</a></td>
+  </tr>
+  <tr>
+    <td>ENGL 1102</td>
+    <td>The Literature of New Media</td>
+    <td>2016</td>
+    <td><a href="http://1102theliteratureofnewmedia.weebly.com/" class="Weebly button">Course Website</a></td>
+  </tr>
+  <td colspan="4"><h3>University of Massachusetts at Dartmouth</h3></td>
+<tr>
+    <td>ENL 684</td>
+    <td>Literary Studies and Theory</td>
+    <td>2016</td>
+    <td><a href="https://literarystudiesandtheoryspring2016.wordpress.com/" class="Wordpress button">Course Website</a></td>
+  </tr>
+  <tr>
+     <td>ENL 200</td>
+    <td>Studies in Literature: Victorian Romance and Realism</td>
+    <td>2016</td>
+    <td>&#32;</td>
+    </tr>
+    <tr>
+     <td>ENL 200</td>
+    <td>Studies in Literature: <span style="font-style:italic;">Fin de Si&#232;cle</span> Adventure Fiction</td>
+    <td>2016</td>
+    <td>&#32;</td>
+    </tr>
+<td colspan="4"><h3>Saint Anselm College</h3></td>
+<tr>
+     <td>EN 105</td>
+    <td>Freshman English</td>
+    <td>2014-15</td>
+    <td>&#32;</td>
+    </tr>
+    <tr>
+     <td>HU 101, 102, 201, 202</td>
+    <td>Portraits of Human Greatness</td>
+    <td>2012-14</td>
+    <td>&#32;</td>
+    </tr>
+  <td colspan="4"><h3>New Hampshire Institute of Art</h3></td>
+  <tr>
+  <td>AHT 399</td>
+    <td>Art and Identity</td>
+    <td>2015</td>
+    <td>&#32;</td>
+    </tr>
+      <tr>
+      <td>AHT 201</td>
+    <td>Survey of Art History</td>
+    <td>2015</td>
+    <td>&#32;</td>
+    </tr>
+<td colspan="4"><h3>Carnegie Mellon University</h3></td>
+  <tr>
+  <td>ENG 213</td>
+    <td>Victorian Women Writers</td>
+    <td>2012</td>
+    <td>&#32;</td>
+    </tr>
+      <tr>
+      <td>ENG 213</td>
+    <td>Victorian Detectives</td>
+    <td>2011</td>
+    <td>&#32;</td>
+    </tr>
+      <tr>
+      <td>ENG 101</td>
+    <td>Interpretation and Argument &#34;Achieving a Public Art&#34;</td>
+    <td>2010-11</td>
+    <td>&#32;</td>
+    </tr>
+        <td colspan="4"><h3>University of Cincinnati</h3></td>
+  <tr>
+  <td>15 ENGL 102H</td>
+    <td>Honors English Composition</td>
+    <td>2009</td>
+    <td>&#32;</td>
+    </tr>
+      <tr>
+      <td>15 ENGL 101,102</td>
+    <td>English Composition</td>
+    <td>2007-08</td>
+    <td>&#32;</td>
+    </tr>

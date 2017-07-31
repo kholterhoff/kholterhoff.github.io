@@ -19,4 +19,4 @@ wcp-common-first-week-assignment-spring-2017
  > <li> Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
  > <li> What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?
   
-<a href="F17_ENG_1102/index">Calendar</a>  |  <a href="F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="F17_ENG_1102/Twitter">Twitter</a> | <a href="F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
+<a href="/index">Calendar</a>  |  <a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>

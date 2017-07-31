@@ -1,6 +1,4 @@
-<h1>Dr. Kate Holterhoff's Teaching</h1>
-
-<h2>Courses</h2>
+<h1>Dr. Kate Holterhoff's Courses</h1>
 
 <h3>Georgia Institute of Technology</h3>
   
@@ -14,7 +12,7 @@
   |---|---|---|
   ENL 684 | <a href="https://literarystudiesandtheoryspring2016.wordpress.com/">Literary Studies and Theory<a> | 2016
   ENL 200 | Studies in Literature: Victorian Romance and Realism | 2016
-  ENL 200 | Studies in Literature: <span style="font-style:italic;">Fin de Si&#232;cle</span> Adventure Fiction</td> | 2016
+  ENL 200 | Studies in Literature: <span style="font-style:italic;">Fin de Si&#232;cle</span> Adventure Fiction | 2016
   
   <h3>Saint Anselm College</h3>
     

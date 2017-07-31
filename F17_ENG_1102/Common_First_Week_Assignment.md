@@ -1,5 +1,7 @@
 <h1>Common First Week Assignment</h1>
 
+<a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_in_cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
+
 Create a video (60-90 seconds) in which you articulate a challenge relating to one of the modes—written, oral, visual, electronic, or nonverbal communication—that you’ll be engaging with in class projects this semester.
 
 IMPORTANT: If you completed a similar video in a previous class (ENGL 1101 or ENGL 1102), you should create a new video that speaks to the class you are now in and the specific challenges you see in this course.
@@ -18,5 +20,3 @@ wcp-common-first-week-assignment-spring-2017
  > <li> What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
  > <li> Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
  > <li> What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?
-  
-<a href="/index">Calendar</a>  |  <a href="/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="/Artifact_1">Artifact #1</a> |  <a href="/Artifact_2">Artifact #2</a> |  <a href="/Artifact_3">Artifact #3</a> |  <a href="/Twitter">Twitter</a> | <a href="/Multimedia_Portfolio">Multimedia Portfolio</a>

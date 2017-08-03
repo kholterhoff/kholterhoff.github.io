@@ -3,8 +3,9 @@
 <h1><a href="http://kateholterhoff.com/">Kate Holterhoff</a></h1>
 
 <h2>Teaching Areas<h2>
-<p>|-----|-----|-------|
-| - 19th C. Culture - British Literature - Visual Culture | - Digital Humanities - Archives - Technical Communication | - History of Science - Gender, Race, and Class Studies - Critical Theory </p>
+
+|-----|-----|-------|
+| - 19th C. Culture - British Literature - Visual Culture | - Digital Humanities - Archives - Technical Communication | - History of Science - Gender, Race, and Class Studies - Critical Theory
 
 <h2>Courses<h2>
 

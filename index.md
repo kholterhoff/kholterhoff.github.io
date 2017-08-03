@@ -1,4 +1,6 @@
-<h1>Dr. Kate Holterhoff's Courses</h1>
+<h1>Kate Holterhoff</h1>
+
+![Holterhoff Pedagogy](/HolterhoffPedagogy.JPG)
 
 <h3>Georgia Institute of Technology</h3>
   

@@ -4,8 +4,15 @@
 
 <h2>Teaching Areas<h2>
 
-  <p>|-----|-----|-------|
-  | - 19th C. Culture - British Literature - Visual Culture | - Digital Humanities - Archives - Technical Communication | - History of      Science - Gender, Race, and Class Studies - Critical Theory</p>
+<p>- 19th C. Culture 
+- British Literature 
+- Visual Culture 
+- Digital Humanities 
+- Archives 
+- Technical Communication 
+- History of Science 
+- Gender, Race, and Class Studies 
+- Critical Theory</p>
 
 <h2>Courses<h2>
 

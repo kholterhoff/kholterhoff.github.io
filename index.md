@@ -2,7 +2,7 @@
 
 <h1><a href="http://kateholterhoff.com/">Kate Holterhoff</a></h1>
 
-  <h2>Teaching Areas<h2>
+<h2>Teaching Areas<h2>
 
     - 19th C. Culture 
     - British Literature 
@@ -14,7 +14,7 @@
     - Gender, Race, and Class Studies 
     - Critical Theory
 
-  <h2>Courses<h2>
+<h2>Courses<h2>
 
 <h3>Georgia Institute of Technology</h3>
   

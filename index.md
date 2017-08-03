@@ -1,7 +1,12 @@
 ![Holterhoff Pedagogy](/HolterhoffPedagogy.JPG)
 
-|-----|--------------------------------------------------|
-Kate Holterhoff | - 19th C. British literature - Visual culture - Digital Humanities - Archives| 
+<h1><a href="http://kateholterhoff.com/">Kate Holterhoff</a></h1>
+
+<h2>Teaching Areas<h2>
+<p>|-----|-----|-------|
+| - 19th C. Culture - British Literature - Visual Culture | - Digital Humanities - Archives - Technical Communication | - History of Science - Gender, Race, and Class Studies - Critical Theory </p>
+
+<h2>Courses<h2>
 
 <h3>Georgia Institute of Technology</h3>
   

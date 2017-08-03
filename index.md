@@ -1,6 +1,7 @@
-<h1>Kate Holterhoff</h1>
-
 ![Holterhoff Pedagogy](/HolterhoffPedagogy.JPG)
+
+|-----|--------------------------------------------------|
+Kate Holterhoff</h2> | * 19th C. British literature * Visual culture * Digital Humanities * Archives| 
 
 <h3>Georgia Institute of Technology</h3>
   

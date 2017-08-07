@@ -41,10 +41,10 @@
 |Friday, November 3 | |
 |Monday, November 6 | |
 |Wednesday, November 8 || 
-|Friday, November 10	 |	No Class|
+|Friday, November 10	 |	No Class: Research Day|
 |Monday, November 13 | |
 |Wednesday, November 15 || 
-|Friday, November 17 | |
+|Friday, November 17 |  No Class: Research Day|
 |Monday, November 20 | |
 |Wednesday, November 22 |	No Class: Thanksgiving Break|
 |Friday, November 24 |	No Class: Thanksgiving Break|

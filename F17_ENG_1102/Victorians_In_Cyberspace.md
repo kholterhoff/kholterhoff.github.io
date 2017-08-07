@@ -5,9 +5,9 @@
 <h1>Calendar</h1>
 
 |Week|Date| Homework (Due that day)|
-|----|--------------|:----------------------------------------------:|
+|----|--------------|----------------------------------------------|
 |**Week 1**|Monday, August 21 | |
-||Wednesday, August 23 |  Review syllabus. Sign and return syllabus form. Review _WOVEN_ 28-80. Read |
+||Wednesday, August 23 |  Review syllabus. Sign and return syllabus form. Review _WOVEN_ 28-80. Read <a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_</a> |
 ||Friday, August 25 | |
 |**Week 2**|Monday, August 28 | |
 ||Wednesday, August 30 | 

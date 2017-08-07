@@ -7,11 +7,11 @@
 |Week|Date| Homework (Due that day)|
 |----|--------------|:----------------------------------------------:|
 |**Week 1**|Monday, August 21 | |
-||Wednesday, August 23 | |
+||Wednesday, August 23 |  Review syllabus. Sign and return syllabus form. Review _WOVEN_ 28-80. Read |
 ||Friday, August 25 | |
 |**Week 2**|Monday, August 28 | |
 ||Wednesday, August 30 | 
-||Friday, September 1 | 
+||Friday, September 1 | Common First Week Assignment Due |
 |**Week 3**|Monday, September 4	 |	No Class: Labor Day|
 ||Wednesday, September 6 | 
 ||Friday, September 8 | |
@@ -48,9 +48,9 @@
 |**Week 14**|Monday, November 20 | |
 ||Wednesday, November 22 |	No Class: Thanksgiving Break|
 ||Friday, November 24 |	No Class: Thanksgiving Break|
-|**Week 15**|Monday, November 27	 | |
-||Wednesday, November 29 || 
-||Friday, November 31 | |
-|**Week 16**|Monday, December 4 | |
+|**Week 15**|Monday, November 27	 | Introduce Multimedia Portfolios|
+||Wednesday, November 29 | Multimedia Portfolios| 
+||Friday, November 31 | Multimedia Portfolios|
+|**Week 16**|Monday, December 4 | Peer Review of Reflective Introduction to the Portfolio|
 |**Exam Week**|Monday, December 11| **Section J Mahara Portfolio Due at 2:20 pm**|
 ||Wednesday, December 13| **Section A3 Mahara Portfolio Due at 10:50 am; Section G3 Due at 2:20 pm**|

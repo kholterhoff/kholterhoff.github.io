@@ -9,8 +9,8 @@
 |**Week 1**|Monday, August 21 | |
 ||Wednesday, August 23 |  Review syllabus. Sign and return syllabus form. Review _WOVEN_ 28-80. |
 ||Friday, August 25 | |
-|**Week 2**|Monday, August 28 | Read <a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_</a>|
-||Wednesday, August 30 | <a href="https://books.google.com/books?id=83xHAAAAYAAJ&dq=she%20is%20always%20the%20woman.%20I%20have%20seldom%20heard%20him%20mention%20her%20under%20any%20other%20name.%20In%20his%20eyes%20she%20eclipses%20and%20predominates%20the%20whole%20of%20her%20sex.%20It%20was%20not%20that%20he%20felt%20any%20emotion%20akin%20to%20love%20for%20Irene%20Adler.%20All%20emotions%2C&pg=PA61#v=onepage&q&f=false">Arthur Conan Doyle's "A Scandal in Bohemia" (1891)</a> |
+|**Week 2**|Monday, August 28 | <a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_ (1895) pp. 355-364</a>|
+||Wednesday, August 30 | <a href="https://books.google.com/books?id=83xHAAAAYAAJ&dq=she%20is%20always%20the%20woman.%20I%20have%20seldom%20heard%20him%20mention%20her%20under%20any%20other%20name.%20In%20his%20eyes%20she%20eclipses%20and%20predominates%20the%20whole%20of%20her%20sex.%20It%20was%20not%20that%20he%20felt%20any%20emotion%20akin%20to%20love%20for%20Irene%20Adler.%20All%20emotions%2C&pg=PA61#v=onepage&q&f=false">Arthur Conan Doyle's "A Scandal in Bohemia" (1891) pp. 61-75</a> |
 ||Friday, September 1 | Common First Week Assignment Due |
 |**Week 3**|Monday, September 4	 |	No Class: Labor Day|
 ||Wednesday, September 6 | Sherlock: "A Scandal in Belgravia" S02.E01 (Netflix) |

@@ -10,20 +10,20 @@
 ||Wednesday, August 23 |  Review syllabus. Sign and return syllabus form. Review _WOVEN_ 28-80. |
 ||Friday, August 25 | |
 |**Week 2**|Monday, August 28 | Read <a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_</a>|
-||Wednesday, August 30 | A Scandal in Bohemia |
+||Wednesday, August 30 | <a href="https://books.google.com/books?id=83xHAAAAYAAJ&dq=she%20is%20always%20the%20woman.%20I%20have%20seldom%20heard%20him%20mention%20her%20under%20any%20other%20name.%20In%20his%20eyes%20she%20eclipses%20and%20predominates%20the%20whole%20of%20her%20sex.%20It%20was%20not%20that%20he%20felt%20any%20emotion%20akin%20to%20love%20for%20Irene%20Adler.%20All%20emotions%2C&pg=PA61#v=onepage&q&f=false">Arthur Conan Doyle's "A Scandal in Bohemia" (1891)</a> |
 ||Friday, September 1 | Common First Week Assignment Due |
 |**Week 3**|Monday, September 4	 |	No Class: Labor Day|
 ||Wednesday, September 6 | Sherlock: "A Scandal in Belgravia" S02.E01 (Netflix) |
 ||Friday, September 8 | |
 |**Week 4**|Monday, September 11 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.001.xml">Chapter 1-4</a>|
-||Wednesday, September 13 | _String of Pearls_<a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.005.xml">Chapters 5-8</a>|
-||Friday, September 15 | _String of Pearls_<a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.009.xml"> Chapters 9-12</a>|
-|**Week 5**|Monday, September 18 | _String of Pearls_<a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.013.xml"> Chapters 13-17</a>|
-||Wednesday, September 20 | _String of Pearls_<a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.018.xmlChapters"> 18-22</a>|
-||Friday, September 22 |_String of Pearls_<a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.023.xml">Chapters 23-26</a>| 
-|**Week 6**|Monday, September 25 | _String of Pearls_<a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.027.xml">Chapters 27-31</a>|
-||Wednesday, September 27 | _String of Pearls_<a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_32_unknown.mp3">Chapters 32-35</a>| 
-||Friday, September 29 | _String of Pearls_<a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_36_unknown.mp3">Chapters 36-39</a>|
+||Wednesday, September 13 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.005.xml">Chapters 5-8</a>|
+||Friday, September 15 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.009.xml">Chapters 9-12</a>|
+|**Week 5**|Monday, September 18 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.013.xml">Chapters 13-17</a>|
+||Wednesday, September 20 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.018.xml">Chapters 18-22</a>|
+||Friday, September 22 |_String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.023.xml">Chapters 23-26</a>| 
+|**Week 6**|Monday, September 25 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.027.xml">Chapters 27-31</a>|
+||Wednesday, September 27 | _String of Pearls_ <a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_32_unknown.mp3">Chapters 32-35</a>| 
+||Friday, September 29 | _String of Pearls_ <a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_36_unknown.mp3">Chapters 36-39</a>|
 |**Week 7**|Monday, October 2 | |
 ||Wednesday, October 4 || 
 ||Friday, October 6 | |

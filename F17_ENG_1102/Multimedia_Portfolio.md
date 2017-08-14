@@ -31,4 +31,4 @@ Mahara portfolios are collections of individual pages. You create individual pag
   <li> Click “Done” when you have placed all the content you want on that page. Repeat until you’ve created all your pages.
 
 
-<p>Detailed directions for Multimodal Reflection Portfolio and Mahara: portfolio-instructions-spring-2017</p>
+<p><a href="https://kholterhoff.github.io/F17_ENG_1102/Portfolio Instructions 2017-2018 FINAL .pdf">Detailed directions for Multimodal Reflection Portfolio and Mahara</a></p>

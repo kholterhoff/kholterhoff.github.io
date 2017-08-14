@@ -34,7 +34,7 @@ All voice-overs must use a professional microphone. Do not use the built-in micr
 You can rent Audio/ Visual equipment on the GaTech campus through the Library's <a href="http://libguides.gatech.edu/gadgets">Gadgets</a>; <a href="https://design.gatech.edu/audiovisual-equipment">the College of Design</a>; or <a href="https://www.ssc.gatech.edu/node/38">the Bill Moore Student Success Center</a>.
 
 
-</h3>Considerations Before Selecting a Game</h3>
+<h3>Considerations Before Selecting a Game</h3>
 
 * How much time do you want to devote to gameplay? These games range in playtime between roughly two and ten hours, but this may vary depending on your familiarity with video games. If you are concerned about the time commitment, I highly recommend you choose a point-and-click game that requires no expertise.
 * What game rating and subject matter is your entire group comfortable with? Games like _Assassin's Creed Syndicate_ are rated M, for mature, owing to language, violence, and sexual explicitness.
@@ -43,95 +43,95 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
  
 <h3>Eligible Games</h3>
 
-80 Days
-Amnesia: A Machine for Pigs
-Aqua (Microsoft Game Studio, 2010)
-Arcanum: Of Steamworks and Magick Obscura
-Assassin's Creed Syndicate
-Aura: Fate of the Ages
-Bang! Howdy
-Banjo-Kazooie: Nuts & Bolts
-BioShock Infinite
-Blood Bros.
-Blood Omen 2
-The Chaos Engine
-Code Name: S.T.E.A.M.
-Cogs (Cogs and Cowboys)
-Compilation of Final Fantasy VII
-Damnation
-Darkwatch
-Dishonored (1 & 2)
-Divinity: Dragon Commander
-Earthlock: Festival of Magic
-Edge of Twilight (series)
-The Eidolon
-Epic Mickey (series)
-Fallen London
-Final Fantasy VI
-Flight of the Icarus
-Gadget Invention, Travel, & Adventure
-Gatling Gears
-The Gene Machine
-Greed Corp
-Gunbird (series)
-Gunman Chronicles
-Guns of Icarus Online
-Gyro13
-Ironcast
-Ironclad Tactics
-Jak and Daxter: The Precursor Legacy
-Jamestown: Legend of the Lost Colony
-Jeff Wayne's The War of the Worlds (1998, 1999)
-The Legend of Zelda (Phantom Hourglass; Spirit Tracks)
-Lemony Snicket's A Series of Unfortunate Events
-Lighthouse: The Dark Being
-Machinarium
-Maximo vs. Army of Zin
-MediEvil 2
-The Misadventures of P.B. Winterbottom
-Nostalgia
-O.D.T.
-Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness
-Perils of Man
-Professor Layton
-Progear
-Project Nomads
-Rayman (series)
-Redcon
-Resonance of Fate
-Rise of Nations: Rise of Legends
-Rise of Nightmares
-Rocket Knight & Rocket Knight Adventures
-Sakura Wars (series)
-Sengoku Blade
-Shifters
-Shikkoku no Sharnoth: What a Beautiful Tomorrow
-Shining Force
-Skies of Arcadia
-SkyGunner
-Slouching Towards Bedlam
-Snoopy Flying Ace
-Solatorobo: Red the Hunter
-Space: 1889
-Sparkster (series)
-Spiral Knights
-Steam Bandits: Outpost
-Steambot Chronicles
-SteamWorld (series: Dig, Dig 2, Heist, Tower Defense)
-Steel Empire
-Sunless Sea
-Syberia 3
-Tail Concerto
-Thief (series)
-Torchlight (series I, II)
-Ty the Tasmanian Tiger
-Ultima: Worlds of Adventure 2: Martian Dreams
-Van Helsing
-Vessel
-Virgin Fleet
-Voyage: Inspired by Jules Verne
-Wild Arms
-Wild Guns
+* _80 Days
+* Amnesia: A Machine for Pigs
+* Aqua (Microsoft Game Studio, 2010)
+* Arcanum: Of Steamworks and Magick Obscura
+* Assassin's Creed Syndicate
+* Aura: Fate of the Ages
+* Bang! Howdy
+* Banjo-Kazooie: Nuts & Bolts
+* BioShock Infinite
+* Blood Bros.
+* Blood Omen 2
+* The Chaos Engine
+* Code Name: S.T.E.A.M.
+* Cogs (Cogs and Cowboys)
+* Compilation of Final Fantasy VII
+* Damnation
+* Darkwatch
+* Dishonored (1 & 2)
+* Divinity: Dragon Commander
+* Earthlock: Festival of Magic
+* Edge of Twilight (series)
+* The Eidolon
+* Epic Mickey (series)
+* Fallen London
+* Final Fantasy VI
+* Flight of the Icarus
+* Gadget Invention, Travel, & Adventure
+* Gatling Gears
+* The Gene Machine
+* Greed Corp
+* Gunbird (series)
+* Gunman Chronicles
+* Guns of Icarus Online
+* Gyro13
+* Ironcast
+* Ironclad Tactics
+* Jak and Daxter: The Precursor Legacy
+* Jamestown: Legend of the Lost Colony
+* Jeff Wayne's The War of the Worlds (1998, 1999)
+* The Legend of Zelda (Phantom Hourglass; Spirit Tracks)
+* Lemony Snicket's A Series of Unfortunate Events
+* Lighthouse: The Dark Being
+* Machinarium
+* Maximo vs. Army of Zin
+* MediEvil 2
+* The Misadventures of P.B. Winterbottom
+* Nostalgia
+* O.D.T.
+* Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness
+* Perils of Man
+* Professor Layton
+* Progear
+* Project Nomads
+* Rayman (series)
+* Redcon
+* Resonance of Fate
+* Rise of Nations: Rise of Legends
+* Rise of Nightmares
+* Rocket Knight & Rocket Knight Adventures
+* Sakura Wars (series)
+* Sengoku Blade
+* Shifters
+* Shikkoku no Sharnoth: What a Beautiful Tomorrow
+* Shining Force
+* Skies of Arcadia
+* SkyGunner
+* Slouching Towards Bedlam
+* Snoopy Flying Ace
+* Solatorobo: Red the Hunter
+* Space: 1889
+* Sparkster (series)
+* Spiral Knights
+* Steam Bandits: Outpost
+* Steambot Chronicles
+* SteamWorld (series: Dig, Dig 2, Heist, Tower Defense)
+* Steel Empire
+* Sunless Sea
+* Syberia 3
+* Tail Concerto
+* Thief (series)
+* Torchlight (series I, II)
+* Ty the Tasmanian Tiger
+* Ultima: Worlds of Adventure 2: Martian Dreams
+* Van Helsing
+* Vessel
+* Virgin Fleet
+* Voyage: Inspired by Jules Verne
+* Wild Arms
+* Wild Guns_
 
 
 <h4>Alternate Games</h4>
@@ -140,19 +140,19 @@ If your group would like to suggest a narrative-driven game I am open to other g
  
 <h3>TIME LINE</h3>
 
-October TBD at 1:00 PM: Submit Proposals for Alternative Games if desired. I will respond that evening.
-October TBD at 1:00 PM: Video Games Form Released. Select a game no later than Sunday, October 30 at 11:59 PM.
-November TBD: Each group should record a small section of your team's video game (30-60 seconds). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
-November TBD: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
-November TBD: <a href="http://info.catme.org/">Login to CATME to complete your  Artifact #3 Peer Assessment.</a> <a href="https://www.youtube.com/watch?v=mLTBtksrTFY">Here is a helpful video guide for student users  explaining CATME Online Peer Assessment.</a>
-November TBD: Video Essay Due at 11:59 PM.
-November TBD: Watch videos in class
+* October TBD at 1:00 PM: Submit Proposals for Alternative Games if desired. I will respond that evening.
+* October TBD at 1:00 PM: Video Games Form Released. Select a game no later than Sunday, October 30 at 11:59 PM.
+* November TBD: Each group should record a small section of your team's video game (30-60 seconds). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
+* November TBD: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
+* November TBD: <a href="http://info.catme.org/">Login to CATME to complete your  Artifact #3 Peer Assessment.</a> <a href="https://www.youtube.com/watch?v=mLTBtksrTFY">Here is a helpful video guide for student users  explaining CATME Online Peer Assessment.</a>
+* November TBD: Video Essay Due at 11:59 PM.
+* November TBD: Watch videos in class
 
 <h3>Reflection</h3>
 
-1) Reflect upon your strengths and weaknesses in completing the project.
-2) What part of this project did you enjoy most and least?
-3) What was the most challenging aspect of completing Artifact #3.
-4) What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
-5) What modes does your artifact incorporate? Does one take precedence over the others?
-6) If you had more time for revision, what would you change and why?
+* 1) Reflect upon your strengths and weaknesses in completing the project.
+* 2) What part of this project did you enjoy most and least?
+* 3) What was the most challenging aspect of completing Artifact #3.
+* 4) What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
+* 5) What modes does your artifact incorporate? Does one take precedence over the others?
+* 6) If you had more time for revision, what would you change and why?

@@ -1,3 +1,77 @@
-<h1>Artifact #2</h1>
+<h1>Artifact #2: Poster Presentation</h1>
 
 <a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_In_Cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
+
+Students will create posters evaluating an adaptation of one Victorian text into a new medium. Individuals will read and compare one nineteenth-century fiction with a twenty or twenty-first century adaptation. Posters will present significant similarities and differences and argue about the thematic significance of these choices. For instance, in a poster comparing Arthur Conan Doyle’s “A Scandal in Bohemia” (1891) to the _Sherlock_ episode “A Scandal in Belgravia” (2012), I might argue that both offer interrogations of the role of women in British culture. Your research the history and significance of a as it relates to their assigned book, and present their findings to the class.
+
+Posters must include some background about the book’s author, the book itself, as well as the illustration type  (wood cut, lithograph) and content (diagram, graph, map). Posters should not only summarize a selection of specific illustrations from this book, but also the print history of this type of illustration. Identify the book’s purpose and address the question of what graphical illustrations contribute to achieving this aim. For instance, teams might address the question of why pastoral landscapes were included in a book about constructing rail roads. Think critically about the value (financial, educational) of graphics in books. Students will conduct outside research to contextualize their specific illustrated book. Focus on one or two points to avoid confusing your audience by including too many ideas in your poster.
+
+<h3>Goals</h3>
+
+This assignment challenges students in four ways:
+
+* First, it asks students to summarize information and create a compelling visual narrative that will inform or persuade an audience.
+* Second, it asks students to demonstrate an awareness of and ability to use basic principles of visual design.
+* Third, it asks students to 
+* Fourth, it asks students to generate and distill substantive research on a topic.
+
+<h3>Technology/Logistics</h3>
+
+Students should select from several different software options to create their posters:
+
+* PowerPoint
+* Adobe InDesign (available in the multimedia lab), see Lynda.com tutorials.
+* Adobe Illustrator (There are tutorials at Lynda, and also on the web. See, for example, this one, which has a focused emphasis on posters)
+* GIMP (free) or Adobe Photoshop (Again, see Lynda for tutorials)
+* An online tool, such as Piktochart or Canva.
+
+I suggest you review the section in WOVEN Text covering “Charts/ Infographics” (pp. 357-364).
+Poster
+
+
+<h3>Submission/ printing for gallery style viewing</h3>
+
+Each student will print their poster so that we can do a gallery style viewing in class. These posters will be collected and assessed by the instructor. There are plotters in the Multimedia Studio and at Paper and Clay in the Student Center (3rd floor) that will allow you to print your poster. The large format plotter can print 24”, 36”, and 42” inches wide and any length. The pricing is per linear foot $2.50, $2.75, and $3.00, respectively. Choose your size accordingly. You may orient your poster either vertically or horizontally.
+
+Give yourself plenty of time to print your poster. Students often discover that there’s a line at the plotter and that it actually takes a long time to print even when it is their turn. Also, if you were to use a print shop (such as Paper and Clay), some require you to submit your file 48 hours in advance. You may wish to print extra copies at the time you print to keep copies for yourself.
+Tips
+
+* You should choose a size for your poster based on your reactions to other posters you find on the web. Many poster are tall images; others go for something wider. It’s not important that the image be any specific size: more important is what it can do for a viewer in a short timespan (you should anticipate that viewers will spend 1-2 minutes with your poster.
+* Include a clear title somewhere in your poster. It should be specific and attention-grabbing.
+* Somewhere in the poster, include your name
+* Cite all sources using MLA at the bottom of the poster.
+
+<h3>Gallery Presentations</h3>
+
+In class, each student will give a short presentation that walks the class through the poster and points to 3 specific, interesting visual choices and/or research and data in the design (which may be the same as the specific parts of the images discussed in the group supporting document).
+
+<h3>Annotated Bibliography</h3>
+
+Students must research and write annotated bibliographies for at least five secondary sources (do not include your selected book from the archive). This is a joint, co-authored bibliography. You should use these annotations to determine what belongs in your poster, and what doesn’t.
+
+I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating and Documenting Sources” (pp. 776-796).
+
+<h3> Supporting Document </h3>
+
+Along with your poster, you will submit a 2-3 page (1,000 word) supporting document that addresses, explains, and supports the choices you have made in your poster. This is a joint, co-authored paper. You should consider using Google Docs or a similar web-based program in which to write your document; a “co-authored paper” means creating a unified, blended, single voice from many voices.
+
+You should address not only the argument that your poster engages but also why you’ve chosen this particular topic. You should also address/explain your choice of style, font, color, images, size, etc., How do your choices of design elements work together to convey your topic/argument/point? Why did you choose these particular elements as opposed to something else? Why did you choose this topic? Who or what organization might use your poster in a real world setting?
+
+
+<h3>Timeline</h3>
+
+    Wednesday 1/18- Friday 1/20: Meet in the special collections at Tech
+    Monday 1/30: Tutorial with Allison Valk
+    Wednesday 2/8- Friday 2/10: Presentations & Gallery Viewing (bring printed posters to class for viewing)
+    Monday 2/13: Revised Digital version of poster (use JPG, PDF, or TIFF), Annotated Bibliography, and Supporting Document Due on T-Square at midnight. Email is also an acceptable way to submit these documents.
+    Monday 2/13-Wednesday 2/15: Login to CATME to complete your Artifact #1 Peer Assessment.
+        Here is a helpful video guide for student users  explaining CATME Online Peer Assessment.
+
+Reflection
+
+* Reflect upon your strengths and weaknesses in completing the project.
+* Describe the methods and modes that were the focus of your communicative work in the project.
+* Articulate areas and strategies you would like to focus on for continued improvement.
+* What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
+* Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
+* What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?

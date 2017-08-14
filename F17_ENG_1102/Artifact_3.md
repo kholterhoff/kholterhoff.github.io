@@ -138,7 +138,7 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 If your group would like to suggest a narrative-driven game I am open to other games. Email proposals for different games to me by October the 25th at midnight. Proposals must offer a compelling argument for why you feel it fulfills the goals of this assignment. If I reject your proposal you will still have an opportunity to select from the provided list of games at the same time as your peers.
 
  
-<h3>TIME LINE</h3>
+<h3>Time Line</h3>
 
 * October TBD at 1:00 PM: Submit Proposals for Alternative Games if desired. I will respond that evening.
 * October TBD at 1:00 PM: Video Games Form Released. Select a game no later than Sunday, October 30 at 11:59 PM.
@@ -148,11 +148,12 @@ If your group would like to suggest a narrative-driven game I am open to other g
 * November TBD: Video Essay Due at 11:59 PM.
 * November TBD: Watch videos in class
 
+
 <h3>Reflection</h3>
 
-* 1) Reflect upon your strengths and weaknesses in completing the project.
-* 2) What part of this project did you enjoy most and least?
-* 3) What was the most challenging aspect of completing Artifact #3.
-* 4) What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
-* 5) What modes does your artifact incorporate? Does one take precedence over the others?
-* 6) If you had more time for revision, what would you change and why?
+* Reflect upon your strengths and weaknesses in completing the project.
+* What part of this project did you enjoy most and least?
+* What was the most challenging aspect of completing Artifact #3.
+* What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
+* What modes does your artifact incorporate? Does one take precedence over the others?
+* If you had more time for revision, what would you change and why?

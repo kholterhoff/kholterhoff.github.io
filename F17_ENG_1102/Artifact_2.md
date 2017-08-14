@@ -4,7 +4,7 @@
 
 Students will create posters evaluating an adaptation of one Victorian text into a new medium. Individuals will read and compare one nineteenth-century fiction with a twenty or twenty-first century adaptation. Posters will present significant similarities and differences and argue about the thematic significance of these choices. For instance, in a poster comparing Arthur Conan Doyle’s “A Scandal in Bohemia” (1891) to the _Sherlock_ episode “A Scandal in Belgravia” (2012), I might argue that both offer interrogations of the role of women in British culture. Your research the history and significance of a as it relates to their assigned book, and present their findings to the class.
 
-Posters must include some background about the book’s author, the book itself, as well as the illustration type  (wood cut, lithograph) and content (diagram, graph, map). Posters should not only summarize a selection of specific illustrations from this book, but also the print history of this type of illustration. Identify the book’s purpose and address the question of what graphical illustrations contribute to achieving this aim. For instance, teams might address the question of why pastoral landscapes were included in a book about constructing rail roads. Think critically about the value (financial, educational) of graphics in books. Students will conduct outside research to contextualize their specific illustrated book. Focus on one or two points to avoid confusing your audience by including too many ideas in your poster.
+Posters must highlight the mediums deployed in each text. How does an illustrated text compare to a Television show? How does a triple-decker novel include some background about the 19th century text and author. Posters should not only summarize a selection of specific illustrations from this book, but also the print history of this type of illustration. Identify the book’s purpose and address the question of what graphical illustrations contribute to achieving this aim. For instance, teams might address the question of why pastoral landscapes were included in a book about constructing rail roads. Think critically about the value (financial, educational) of graphics in books. Students will conduct outside research to contextualize their specific illustrated book. Focus on one or two points to avoid confusing your audience by including too many ideas in your poster.
 
 <h3>Goals</h3>
 
@@ -43,13 +43,7 @@ Tips
 
 <h3>Gallery Presentations</h3>
 
-In class, each student will give a short presentation that walks the class through the poster and points to 3 specific, interesting visual choices and/or research and data in the design (which may be the same as the specific parts of the images discussed in the group supporting document).
-
-<h3>Annotated Bibliography</h3>
-
-Students must research and write annotated bibliographies for at least five secondary sources (do not include your selected book from the archive). This is a joint, co-authored bibliography. You should use these annotations to determine what belongs in your poster, and what doesn’t.
-
-I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating and Documenting Sources” (pp. 776-796).
+In class, students will hang their posters for their peers to review.
 
 <h3> Supporting Document </h3>
 

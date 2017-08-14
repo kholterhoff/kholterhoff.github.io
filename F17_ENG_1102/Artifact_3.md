@@ -157,3 +157,4 @@ If your group would like to suggest a narrative-driven game I am open to other g
 * What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
 * What modes does your artifact incorporate? Does one take precedence over the others?
 * If you had more time for revision, what would you change and why?
+* What was your role or title in this group assignment? How did you contribute to completing this project? What could you have done better to support your team? Do you want to share anything about your experience working in this group?

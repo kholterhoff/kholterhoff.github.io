@@ -137,6 +137,13 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 <h4>Alternate Games</h4>
 If your group would like to suggest a narrative-driven game I am open to other games. Email proposals for different games to me by October the 25th at midnight. Proposals must offer a compelling argument for why you feel it fulfills the goals of this assignment. If I reject your proposal you will still have an opportunity to select from the provided list of games at the same time as your peers.
 
+
+<h3>Annotated Bibliography</h3>
+
+Students must research and write annotated bibliographies for at least five secondary sources. This is a joint, co-authored bibliography. You should use these annotations to determine what belongs in your video essay, and what doesn’t.
+
+I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating and Documenting Sources” (pp. 776-796).
+
  
 <h3>Time Line</h3>
 

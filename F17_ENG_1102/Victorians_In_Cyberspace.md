@@ -24,9 +24,9 @@
 |**Week 6**|Monday, September 25 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.027.xml">Chapters 27-31</a>|
 ||Wednesday, September 27 | _String of Pearls_ <a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_32_unknown.mp3">Chapters 32-35</a>| 
 ||Friday, September 29 | _String of Pearls_ <a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_36_unknown.mp3">Chapters 36-39</a>|
-|**Week 7**|Monday, October 2 | |
-||Wednesday, October 4 |a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_ (1895) pp. 355-364</a>| 
-||Friday, October 6 | |
+|**Week 7**|Monday, October 2 |  |
+||Wednesday, October 4 | **Artifact #2 Presentation** | 
+||Friday, October 6 | **Artifact #2 Presentation** |
 |**Week 8**|Monday, October 9	| No Class: Fall Recess|
 ||Wednesday, October 11 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/down-the-rabbit-hole-ee1794d9b469">Chapter 1</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-pool-of-tears-e03f2076c406">Chapter 2</a> |
 ||Friday, October 13 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-caucus-race-and-a-long-tail-7bc3cc92d256">Chapter 3</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-rabbit-sends-in-a-little-bill-fd0caec820e1">Chapter 4</a>|
@@ -34,9 +34,9 @@
 ||Wednesday, October 18 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-mad-tea-party-8486f3a303f7">Chapter 7</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-queen-s-croquet-ground-de004f31fa8d">Chapter 8</a> | 
 ||Friday, October 20 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/the-mock-turtle-s-story-760eafd5ad45">Chapter 9</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-lobster-quadrille-6d129c903040">Chapter 10</a> |
 |**Week 10**|Monday, October 23 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/who-stole-the-tarts-d077429f96ce">Chapter 11</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/alice-s-evidence-bfc80520c524">Chapter 12</a> |
-||Wednesday, October 25 | **Artifact #2 Presentation** | 
-||Friday, October 27 | **Artifact #2 Presentation** |
-|**Week 11**|Monday, October 30 | |
+||Wednesday, October 25 | | 
+||Friday, October 27 |  |
+|**Week 11**|Monday, October 30 |<a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_ (1895) pp. 355-364</a> |
 ||Wednesday, November 1 | |
 ||Friday, November 3 | |
 |**Week 12**|Monday, November 6 | |

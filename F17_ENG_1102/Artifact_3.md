@@ -57,7 +57,6 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 * The Chaos Engine
 * Code Name: S.T.E.A.M.
 * Cogs (Cogs and Cowboys)
-* Compilation of Final Fantasy VII
 * Damnation
 * Darkwatch
 * Dishonored (1 & 2)
@@ -79,7 +78,6 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 * Gyro13
 * Ironcast
 * Ironclad Tactics
-* Jak and Daxter: The Precursor Legacy
 * Jamestown: Legend of the Lost Colony
 * Jeff Wayne's The War of the Worlds (1998, 1999)
 * The Legend of Zelda (Phantom Hourglass; Spirit Tracks)

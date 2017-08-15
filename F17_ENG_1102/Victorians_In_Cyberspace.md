@@ -16,7 +16,7 @@
 ||Wednesday, September 6 |  |
 ||Friday, September 8 | _Sherlock_: "A Scandal in Belgravia" S02.E01 (Netflix) |
 |**Week 4**|Monday, September 11 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.001.xml">Chapter 1-4</a>|
-||Wednesday, September 13 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.005.xml">Chapters 5-8</a>|
+||Wednesday, September 13 | In-Design Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.005.xml">Chapters 5-8</a>|
 ||Friday, September 15 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.009.xml">Chapters 9-12</a>|
 |**Week 5**|Monday, September 18 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.013.xml">Chapters 13-17</a>|
 ||Wednesday, September 20 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.018.xml">Chapters 18-22</a>|
@@ -32,9 +32,9 @@
 ||Friday, October 13 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-caucus-race-and-a-long-tail-7bc3cc92d256">Chapter 3</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-rabbit-sends-in-a-little-bill-fd0caec820e1">Chapter 4</a>|
 |**Week 9**|Monday, October 16 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/advice-from-a-caterpillar-88f45e718420">Chapter 5</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/pig-and-pepper-712a110b2371">Chapter 6</a>|
 ||Wednesday, October 18 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-mad-tea-party-8486f3a303f7">Chapter 7</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-queen-s-croquet-ground-de004f31fa8d">Chapter 8</a> | 
-||Friday, October 20 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/the-mock-turtle-s-story-760eafd5ad45">Chapter 9</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-lobster-quadrille-6d129c903040">Chapter 10</a> |
-|**Week 10**|Monday, October 23 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/who-stole-the-tarts-d077429f96ce">Chapter 11</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/alice-s-evidence-bfc80520c524">Chapter 12</a> |
-||Wednesday, October 25 | | 
+||Friday, October 20 | iMovie Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |
+|**Week 10**|Monday, October 23 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/the-mock-turtle-s-story-760eafd5ad45">Chapter 9</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-lobster-quadrille-6d129c903040">Chapter 10</a> |
+||Wednesday, October 25 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/who-stole-the-tarts-d077429f96ce">Chapter 11</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/alice-s-evidence-bfc80520c524">Chapter 12</a> | 
 ||Friday, October 27 |  |
 |**Week 11**|Monday, October 30 |<a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_ (1895) pp. 355-364</a> |
 ||Wednesday, November 1 | |

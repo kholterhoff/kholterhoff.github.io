@@ -14,7 +14,7 @@
 ||Friday, September 1 | <a href="https://books.google.com/books?id=83xHAAAAYAAJ&pg=PA61#v=onepage&q&f=false">Arthur Conan Doyle's "A Scandal in Bohemia" (1891) pp. 61-75</a> |
 |**Week 3**|Monday, September 4	 |	No Class: Labor Day|
 ||Wednesday, September 6 |  |
-||Friday, September 8 | _Sherlock_: "A Scandal in Belgravia" S02.E01 (Netflix) |
+||Friday, September 8 | _Sherlock_: "A Scandal in Belgravia" S02.E01 (Netflix, <a href="https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01GALI_GIT_ALMA21132234930002947&context=L&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US">GaTech Library</a>) |
 |**Week 4**|Monday, September 11 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.001.xml">Chapter 1-4</a>|
 ||Wednesday, September 13 | In-Design Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |
 ||Friday, September 15 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.005.xml">Chapters 5-8</a>|

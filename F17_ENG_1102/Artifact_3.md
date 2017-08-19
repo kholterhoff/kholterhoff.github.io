@@ -77,7 +77,7 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 * Ironclad Tactics
 * Jamestown: Legend of the Lost Colony
 * Jeff Wayne's The War of the Worlds (Windows, 1998)
-* Lemony Snicket's A Series of Unfortunate Events (Windows 2004)
+* Lemony Snicket's A Series of Unfortunate Events (Windows, 2004)
 * Lighthouse: The Dark Being (Multimple platforms, 1996)
 * Machinarium
 * The Misadventures of P.B. Winterbottom

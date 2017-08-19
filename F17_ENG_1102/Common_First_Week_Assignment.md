@@ -9,7 +9,7 @@ IMPORTANT: If you completed a similar video in a previous class (ENGL 1101 or EN
 <a href="https://kholterhoff.github.io/F17_ENG_1102/Common First Week Assignment.pdf">Detailed directions for Common First Week Assignment</a>
 
 
-Timeline
+<h3>Timeline</h3>
 
 Friday 8/28: Assignment due on T-Square
 

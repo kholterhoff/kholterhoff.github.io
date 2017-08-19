@@ -43,7 +43,7 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
  
 <h3>Eligible Games</h3>
 
-* _80 Days
+* 80 Days
 * Amnesia: A Machine for Pigs
 * Aqua (Microsoft Game Studio, 2010)
 * Arcanum: Of Steamworks and Magick Obscura
@@ -93,7 +93,7 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 * Sengoku Blade
 * Shikkoku no Sharnoth: What a Beautiful Tomorrow (Windows, 2008)
 * Shining Force
-* Slouching Towards Bedlam (<a href="http://textadventures.co.uk/games/view/d9nrq5dokkqzr8-ainf9mq/slouching-towards-bedlam">Text Adventure</a>
+* Slouching Towards Bedlam (<a href="http://textadventures.co.uk/games/view/d9nrq5dokkqzr8-ainf9mq/slouching-towards-bedlam">Web Browser</a>)
 * Space: 1889 (<a href="http://www.heliograph.com/space1889/">RPG</a>)
 * Spiral Knights
 * Steam Bandits: Outpost
@@ -107,7 +107,7 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 * The Incredible Adventures of Van Helsing
 * Vessel
 * Voyage: Inspired by Jules Verne (Windows, 2005)
-* Wild Guns_
+* Wild Guns
 
 
 <h4>Alternate Games</h4>

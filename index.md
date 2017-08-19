@@ -1,3 +1,6 @@
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 ![Holterhoff Pedagogy](/HolterhoffPedagogy.JPG)
 
 <h1><a href="http://kateholterhoff.com/">Kate Holterhoff</a></h1>

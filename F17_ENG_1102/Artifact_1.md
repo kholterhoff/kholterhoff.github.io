@@ -2,20 +2,25 @@
 
 <a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_In_Cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-All students will be assigned to a group for this artifact, and will present on a secondary source related to our primary text. Your instructor will provide access to this source. Groups will sit in the front of the class and teach the secondary source and aspects of the day’s assigned reading for approximately 30 minutes. 
+For this artifact all students will be assigned to a group and will present on a secondary source related to our primary text. Your instructor will provide access to this source. Groups will sit in the front of the class and teach the secondary source and aspects of the day’s assigned reading for approximately 30 minutes. 
 
-Presentations will explain how this source opens up 19th century culture and literature. Remember: only your group will read this source, so be sure to exlain important keywords and concepts in a manner that everyone will understand. Groups do not need to become an expert on their secondary source, but they must be able to speak about it in a thoughtful manner for the context of our course. 
+Presentations will explain how this source opens up new ideas about history, culture, and literature. Remember: only your group will read this source, so be sure to exlain important keywords and concepts in a manner that everyone will understand. Groups do not need to become an expert on their secondary source, but they must be able to speak about it in a thoughtful manner for the context of our course. 
 
-Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of the presentation the class should have a clear understanding of how this secondary source opens up new ways of thinking about WOVEN, fiction, and Victorians in Cyberspace. Presenters must generate thought-provoking questions to make their assigned reading accessible to peers. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
+Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of this presentation your peers should have a clear understanding of this secondary source's thesis an significance. Presenters must generate thought-provoking questions to make their assigned reading accessible to peers. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
+
+**Questions for Presenters**
+* Does the presentation use best prctices from Lynda.com and _WOVENText_ to insure that the handout and presentation are easy to understand and follow?
+* Was the class engaged with your group's presentation? 
+* Is the summary of the secondary source accurate and complete?
 
 
 <h3>Slides & Handout</h3>
 <h4>Post slides & handout to our course management site 24-hours AFTER your presentation (T-Square -> Resources -> Artifact #1 Presentations).</h4>
 
-Presentations must include a digital slide presentation (Google Sliades, Power Point, Keynote) that will inspire and guide your audience. Groups must also design a handout that summarizes the assigned secondary source in a concise and clear manner, relates the source to overarching course themes and texts, and lists at least three questions they identify as emerging from the text. Be sure to print enough copies for the class.
+Presentations must include a digital slide presentation (Google Slides, Power Point, Keynote) that will inspire and guide your audience. Groups must also design a handout that summarizes the assigned secondary source in a concise and clear manner, relates the source to overarching course themes and texts, and lists at least three questions they identify as emerging from the text. Be sure to print enough copies for the class.
 
 **Items you may want to include**
-* Definition of inportant keywords and concepts
+* Definition of important keywords and concepts
 * Brief history of the author
 * Outline of the article
 * Relevent images
@@ -28,15 +33,6 @@ This assignment challenges students in three ways:
 * First, it asks students to summarize information and create a compelling visual narrative that will inform or persuade an audience.
 * Second, it asks students to demonstrate an awareness of and ability to use basic principles of visual design.
 * Third, it asks students to synthesize multiple texts and distill an argument about what connects them.
-
-
-<h3>Student Presentations will be graded on the following criteria:</h3>
-
-1)	Is the handout and presentation easy to understand and follow using the principles of WOVEN?
-
-2)	Was the class engaged with your group's presentation? 
-
-3)	Is the summary of the secondary source accurate and complete?
 
 
 <h3>Reflection</h3>

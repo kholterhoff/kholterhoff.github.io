@@ -26,7 +26,7 @@ Students should select from several different software options to create their p
 * GIMP (free) or Adobe Photoshop (Again, see Lynda for tutorials)
 * An online tool, such as Piktochart or Canva.
 
-I suggest you review the section in WOVEN Text covering “Charts/ Infographics” (pp. 357-364).
+I suggest you review the section in WOVEN Text covering “Charts/ Infographics” (pp. 355-358).
 
 
 <h3>Submission/ printing for gallery style viewing</h3>

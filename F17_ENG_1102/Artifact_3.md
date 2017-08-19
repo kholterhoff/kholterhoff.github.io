@@ -20,9 +20,9 @@ A video essay is a brief video created by joining video footage and slides on a 
 
 This assignment challenges you four ways:
 
-* First, it asks you to analyze themes in a new media source and generate a compelling argument that will persuade an audience.
+* First, it asks you to analyze critical and historical themes in a new media source and generate a compelling argument that will persuade an audience.
 * Second, it asks you to demonstrate your awareness of and ability to use basic principles of written, oral, visual, electronic, and non-verbal communication and design.
-* Third, it asks you to coordinate decisions and execute them as a group. Review Chapter 8, "Collaborating Cooperatively" of WOVENText (159-177).
+* Third, it asks you to coordinate decisions and execute them as a group. Review Chapter 8, "Collaborating Cooperatively" of WOVENText (165-175).
 * Fourth, it requires you to generate and distill substantive research on a topic.
 
  
@@ -50,90 +50,68 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 * Assassin's Creed Syndicate
 * Aura: Fate of the Ages
 * Bang! Howdy
-* Banjo-Kazooie: Nuts & Bolts
 * BioShock Infinite
-* Blood Bros.
 * Blood Omen 2
 * The Chaos Engine
-* Code Name: S.T.E.A.M.
 * Cogs (Cogs and Cowboys)
 * Damnation
-* Darkwatch
 * Dishonored (1 & 2)
 * Divinity: Dragon Commander
 * Earthlock: Festival of Magic
 * Edge of Twilight (series)
 * The Eidolon
 * Epic Mickey (series)
-* Fallen London
+* Fallen London (<a href="http://fallenlondon.storynexus.com/">Web Browser</a>)
 * Final Fantasy VI
 * Flight of the Icarus
-* Gadget Invention, Travel, & Adventure
+* Gadget Invention, Travel, & Adventure (Windows, iOS, 1993)
 * Gatling Gears
-* The Gene Machine
+* The Gene Machine (DOS 1996)
 * Greed Corp
-* Gunbird (series)
+* Gunbird (Windows 1994)
 * Gunman Chronicles
 * Guns of Icarus Online
 * Gyro13
+* The House of Many Doors
 * Ironcast
 * Ironclad Tactics
 * Jamestown: Legend of the Lost Colony
-* Jeff Wayne's The War of the Worlds (1998, 1999)
-* The Legend of Zelda (Phantom Hourglass; Spirit Tracks)
-* Lemony Snicket's A Series of Unfortunate Events
-* Lighthouse: The Dark Being
+* Jeff Wayne's The War of the Worlds (Windows, 1998)
+* Lemony Snicket's A Series of Unfortunate Events (Windows 2004)
+* Lighthouse: The Dark Being (Multimple platforms, 1996)
 * Machinarium
-* Maximo vs. Army of Zin
-* MediEvil 2
 * The Misadventures of P.B. Winterbottom
-* Nostalgia
-* O.D.T.
 * Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness
-* Perils of Man
-* Professor Layton
-* Progear
-* Project Nomads
+* The Perils of Man
+* Professor Layton and the Eternal Diva
+* Project Nomads (multiple platforms, 2002)
 * Rayman (series)
 * Redcon
-* Resonance of Fate
 * Rise of Nations: Rise of Legends
-* Rise of Nightmares
 * Rocket Knight & Rocket Knight Adventures
 * Sakura Wars (series)
 * Sengoku Blade
-* Shifters
-* Shikkoku no Sharnoth: What a Beautiful Tomorrow
+* Shikkoku no Sharnoth: What a Beautiful Tomorrow (Windows, 2008)
 * Shining Force
-* Skies of Arcadia
-* SkyGunner
-* Slouching Towards Bedlam
-* Snoopy Flying Ace
-* Solatorobo: Red the Hunter
-* Space: 1889
-* Sparkster (series)
+* Slouching Towards Bedlam (<a href="http://textadventures.co.uk/games/view/d9nrq5dokkqzr8-ainf9mq/slouching-towards-bedlam">Text Adventure</a>
+* Space: 1889 (<a href="http://www.heliograph.com/space1889/">RPG</a>)
 * Spiral Knights
 * Steam Bandits: Outpost
-* Steambot Chronicles
 * SteamWorld (series: Dig, Dig 2, Heist, Tower Defense)
-* Steel Empire
 * Sunless Sea
 * Syberia 3
 * Tail Concerto
+* Tesla vs. Lovecraft
 * Thief (series)
 * Torchlight (series I, II)
-* Ty the Tasmanian Tiger
-* Ultima: Worlds of Adventure 2: Martian Dreams
-* Van Helsing
+* The Incredible Adventures of Van Helsing
 * Vessel
-* Virgin Fleet
-* Voyage: Inspired by Jules Verne
-* Wild Arms
+* Voyage: Inspired by Jules Verne (Windows, 2005)
 * Wild Guns_
 
 
 <h4>Alternate Games</h4>
-If your group would like to suggest a narrative-driven game I am open to other games. Email proposals for different games to me by October the 25th at midnight. Proposals must offer a compelling argument for why you feel it fulfills the goals of this assignment. If I reject your proposal you will still have an opportunity to select from the provided list of games at the same time as your peers.
+If your group would like to suggest a narrative-driven game I am open to other games. Email proposals for different games to me by TBD at midnight. Proposals must offer a compelling argument for why you feel it fulfills the goals of this assignment. If I reject your proposal you will still have an opportunity to select from the provided list of games at the same time as your peers.
 
 
 <h3>Annotated Bibliography</h3>
@@ -146,7 +124,7 @@ I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating a
 <h3>Time Line</h3>
 
 * October TBD at 1:00 PM: Submit Proposals for Alternative Games if desired. I will respond that evening.
-* October TBD at 1:00 PM: Video Games Form Released. Select a game no later than Sunday, October 30 at 11:59 PM.
+* October TBD at 1:00 PM: Video Games Form Released. Select a game no later than TBD at 11:59 PM.
 * November TBD: Each group should record a small section of your team's video game (30-60 seconds). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
 * November TBD: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
 * November TBD: <a href="http://info.catme.org/">Login to CATME to complete your  Artifact #3 Peer Assessment.</a> <a href="https://www.youtube.com/watch?v=mLTBtksrTFY">Here is a helpful video guide for student users  explaining CATME Online Peer Assessment.</a>

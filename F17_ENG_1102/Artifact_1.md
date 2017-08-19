@@ -30,9 +30,9 @@ Presentations must include a digital slide presentation (Google Slides, Power Po
 
 This assignment challenges students in three ways:
 
-* First, it asks students to summarize information and create a compelling visual narrative that will inform or persuade an audience.
-* Second, it asks students to demonstrate an awareness of and ability to use basic principles of visual design.
-* Third, it asks students to synthesize multiple texts and distill an argument about what connects them.
+* First, it asks students to summarize and convey information using WOVEN.
+* Second, it asks students to practice speaking publicly.
+* Third, it asks students to understand complex arguments by scholars, and make new connections between primary and secondary sources.
 
 
 <h3>Reflection</h3>

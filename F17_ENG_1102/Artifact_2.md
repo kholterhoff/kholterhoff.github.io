@@ -2,7 +2,9 @@
 
 <a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_In_Cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-Students will create posters evaluating an adaptation of one Victorian text into a new medium. Individuals will read and compare one 19th century fiction with a 20 or 21st century adaptation. Posters will highlight one or two significant similarities and differences and use these specific examples to support a claim about the thematic significance of these adaptations. For instance, a poster comparing Charlotte Bronte's _Jane Eyre_ (1847) to <a href="http://theautobiographyofja.wixsite.com/jane-eyre">_The Autobiography of Jane Eyre: a web series_</a> might suggest that Jane's relationship to literature is essential to this _bildungsroman_. In a poster comparing Arthur Conan Doyle’s “A Scandal in Bohemia” (1891) to the _Sherlock_ episode “A Scandal in Belgravia” (2012), students might argue that both texts offer interrogations of the role of women in British culture. By juxtaposing screen caps of Irene Adler from <a href="http://www.imdb.com/title/tt1942612/mediaviewer/rm1463989248">_Sherlock_</a> with the illustration <a href="https://books.google.com/books?id=83xHAAAAYAAJ&pg=PA74#v=onepage&q&f=false">"The Photograph"</a> by Sidney Paget.
+Students will create posters evaluating an adaptation of one Victorian text into a new medium. Individuals will read and compare one 19th century fiction with a 20 or 21st century adaptation. Posters will highlight one or two significant similarities and differences and use these specific examples to support a claim about the thematic significance of these adaptations. 
+
+For instance, a poster comparing Charlotte Bronte's _Jane Eyre_ (1847) to <a href="http://theautobiographyofja.wixsite.com/jane-eyre">_The Autobiography of Jane Eyre: a web series_</a> might suggest that Jane's relationship to literature is essential to this _bildungsroman_. In a poster comparing Arthur Conan Doyle’s “A Scandal in Bohemia” (1891) to the _Sherlock_ episode “A Scandal in Belgravia” (2012), students might argue that both texts offer interrogations of the role of women in British culture. By juxtaposing screen caps of Irene Adler from <a href="http://www.imdb.com/title/tt1942612/mediaviewer/rm1463989248">_Sherlock_</a> with the illustration <a href="https://books.google.com/books?id=83xHAAAAYAAJ&pg=PA74#v=onepage&q&f=false">"The Photograph"</a> by Sidney Paget.
 
 Posters must highlight the mediums deployed in each text. How do viewers relate to the visual elements in an illustrated text as compared to a Television show? How does the Victorians' experience reading triple-decker novels borrowed from Mudie's Lending Library differ from a contemporary viewer's experience watching a webseries? Posters should include some background about the author and summary about the 19th century text as well a broad history of the adaptation of this text. Students should conduct outside research to support their claim. 
 
@@ -47,14 +49,14 @@ Give yourself plenty of time to print your poster. Students often discover that 
 
 <h3> Supporting Document </h3>
 
-Along with your poster, you will submit a 2-3 page (1,000 word) supporting document that addresses, explains, and supports the choices you have made in your poster. You should address not only the argument that your poster engages but also why you’ve chosen this particular topic. You should also address/explain your choice of style, font, color, images, size, etc., How do your choices of design elements work together to convey your topic/argument/point? Why did you choose these particular elements as opposed to something else? Why did you choose this topic? Who or what organization might use your poster in a real world setting?
+Along with your poster, you will submit a 2-page (1,000 word) supporting document that addresses, explains, and supports the choices you have made in your poster. You should address not only the argument that your poster engages but also why you’ve chosen this particular topic. You should also address/explain your choice of style, font, color, images, size, etc., How do your choices of design elements work together to convey your topic/argument/point? Why did you choose these particular elements as opposed to something else? Why did you choose this topic? Who or what organization might use your poster in a real world setting?
 
 
 <h3>Timeline</h3>
 
-* Monday TBD: Tutorial with Allison Valk
-* Wednesday 2/8- Friday 2/10: Presentations & Gallery Viewing (bring printed posters to class for viewing)
-* Monday 2/13: Revised Digital version of poster (use JPG, PDF, or TIFF), Annotated Bibliography, and Supporting Document Due on T-Square at midnight. Email is also an acceptable way to submit these documents.
+* Wednesday 9/13: In-Design Tutorial. Meet in Homer Rice Room
+* Wednesday 10/4- Friday 10/6: Presentations & Gallery Viewing (bring printed posters to class for viewing)
+* Friday 10/13: Revised Digital version of poster (use JPG, PDF, or TIFF) and Supporting Document Due on T-Square at midnight. Email is also an acceptable way to submit these documents.
 
 
 <h3>Reflection</h3>

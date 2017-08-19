@@ -30,7 +30,7 @@ Presentations must include a digital slide presentation (Google Slides, Power Po
 
 This assignment challenges students in three ways:
 
-* First, it asks students to summarize and convey information using WOVEN.
+* First, it asks students to demonstrate their awareness of and ability to use basic principles of written, oral, visual, electronic, and non-verbal communication and design.
 * Second, it asks students to practice speaking publicly.
 * Third, it asks students to understand complex arguments by scholars, and make new connections between primary and secondary sources.
 

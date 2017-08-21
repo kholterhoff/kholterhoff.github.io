@@ -25,7 +25,7 @@
 |Week|Date| Homework (Due that day)|
 |----|--------------|----------------------------------------------|
 |**Week 1**|Monday, August 21 | |
-||Wednesday, August 23 |  Review syllabus. Sign and return syllabus form. Review _WOVENText_ 28-80. |
+||Wednesday, August 23 |  Review syllabus. Sign and return syllabus form. Review _WOVENText_ "Part 2: How Can I Use WOVEN Communication?" 29-83. |
 ||Friday, August 25 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). |
 |**Week 2**|Monday, August 28 | Simon Joyce's "The Victorians in the Rearview Mirror" (T-Square). **Common First Week Assignment Due**|
 ||Wednesday, August 30 | <a href="http://bakerstreet.wikia.com/wiki/A_Study_in_Scarlet/Chapter_1">Arthur Conan Doyle's _A Study in Scarlet_ Chapters 1 & 2</a> |

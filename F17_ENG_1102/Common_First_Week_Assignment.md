@@ -8,6 +8,11 @@ IMPORTANT: If you completed a similar video in a previous class (ENGL 1101 or EN
 
 <a href="https://kholterhoff.github.io/F17_ENG_1102/Common First Week Assignment.pdf">Detailed directions for Common First Week Assignment</a>
 
+<h3>Technology</h3>
+* Video Editors For <a href="http://www.techradar.com/news/software/applications/the-best-free-video-editor-1330136">Linux, Windows</a>, & <a href="https://www.apple.com/imovie/">Mac</a>
+* You can rent Audio/ Visual equipment on the GaTech campus through the Library's <a href="http://libguides.gatech.edu/gadgets">Gadgets</a>; <a href="https://design.gatech.edu/audiovisual-equipment">the College of Design</a>; or <a href="https://www.ssc.gatech.edu/node/38">the Bill Moore Student Success Center</a>.
+
+
 
 <h3>Timeline</h3>
 

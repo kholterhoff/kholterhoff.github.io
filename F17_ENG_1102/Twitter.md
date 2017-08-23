@@ -18,16 +18,18 @@ Remember that all Tweets are public and must follow the Georgia Tech codes of co
 
 How do I know when I have tweeted enough for the week? Answering yes to each of these questions for most weeks (10 or more) during the semester would constitute excellent work in Twitter participation.
 
-    * Did I tweet a discussion question or observation about Monday’s reading?
-    * Did I tweet a discussion question or observation about Wednesday’s reading?
-    * Did I tweet a discussion question or observation about Friday’s reading?
-    * Did I tweet about my artifact project?
-    * Did I read through my Twitter timeline to find a source or new person to follow? Did I retweet anything relevant to the course?
-    * Did I respond to classmates, either to engage in a discussion, share sources, or to help brainstorm ideas?
+* Did I tweet a discussion question or observation about Monday’s reading?
+* Did I tweet a discussion question or observation about Wednesday’s reading?
+* Did I tweet a discussion question or observation about Friday’s reading?
+* Did I tweet about my artifact project?
+* Did I read through my Twitter timeline to find a source or new person to follow? Did I retweet anything relevant to the course?
+* Did I respond to classmates, either to engage in a discussion, share sources, or to help brainstorm ideas?
 
 Your Twitter feed will act as detailed notes and journal entries concerning the readings, class discussion, and your research. Peers, instructors, and possibly outside experts will annotate your tweets in a constructive manner. Your Twitter account will enable you to locate scholarly and popular sources and to participate in existing online scholarly discussions about literature and new media. Tweeting will streamline the process of locating reliable, relevant, and useful sources. Twitter will enable your to interact with your peers to brainstorm, both individually and collaboratively, on your research projects.
 
-For more on using Twitter for research see, Margaret Adolphus’s “How to…use Twitter for academic research” 
+For more on using Twitter for research see, <a href="http://www.emeraldgrouppublishing.com/research/guides/management/twitter.htm">Margaret Adolphus’s “How to…use Twitter for academic research"</a>
 
-For advice on Live Tweeting see, Juraj Holub’s “10 Easy Tips for Live Tweeting at Events”
-My thanks to Marion L. Brittain Fellow Rebekah Fitzsimmons for encouraging me to adopt her own Twitter assignment. I  credit her with many of these ideas, and much of the language.
+For advice on Live Tweeting see, <a href="https://blog.sli.do/10-easy-tips-for-tweeting-from-live-events/">Juraj Holub’s “10 Easy Tips for Live Tweeting at Events”</a>
+
+
+My thanks to Marion L. Brittain Fellow <a href="https://rebekahfitzsimmons.wordpress.com/">Rebekah Fitzsimmons</a> for encouraging me to adopt her own Twitter assignment. I  credit her with many of these ideas, and much of the language.

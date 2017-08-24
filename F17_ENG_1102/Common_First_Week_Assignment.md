@@ -20,7 +20,7 @@ IMPORTANT: If you completed a similar video in a previous class (ENGL 1101 or EN
 
 <h3>Timeline</h3>
 
-Monday 8/28: Assignment due on T-Square
+Monday 8/28 at 9:00 AM: Assignment due on T-Square
 
 
 <h3>Reflection</h3>

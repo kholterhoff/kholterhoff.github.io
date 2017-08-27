@@ -7,12 +7,12 @@
 
 For this artifact all students will be assigned to a group and will present on a secondary source related to our primary text. Your instructor will provide access to this source. Groups will sit in the front of the class and teach the secondary source and aspects of the day’s assigned reading for approximately 30 minutes. 
 
-Presentations will explain how this source opens up new ideas about history, culture, and literature. Remember: only your group will read this source, so be sure to exlain important keywords and concepts in a manner that everyone will understand. Groups do not need to become an expert on their secondary source, but they must be able to speak about it in a thoughtful manner for the context of our course. 
+Presentations will explain how this source opens up new ideas about history, culture, and literature. Remember: only your group will read this source, so be sure to exlain important keywords and concepts in a manner that everyone will understand. Your instructor has selected this text because it opens up important ideas, so endeavor to tease out these larger more thematic ideas. Groups do not need to become an expert on their secondary source, but they must be able to speak about it in a thoughtful manner for the context of our course. 
 
-Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of this presentation your peers should have a clear understanding of this secondary source's thesis an significance. Presenters must generate thought-provoking questions to make their assigned reading accessible to peers. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
+Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of this presentation your peers should have a clear understanding of this secondary source's thesis and significance. Presenters must generate thought-provoking questions to make their assigned reading accessible to peers. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
 
 **Questions for Presenters**
-* Does the presentation use best prctices from Lynda.com and _WOVENText_ to insure that the handout and presentation are easy to understand and follow?
+* Does your presentation use best prctices from Lynda.com and _WOVENText_ to ensure that the handout and presentation are easy to understand and follow?
 * Was the class engaged with your group's presentation? 
 * Is the summary of the secondary source accurate and complete?
 
@@ -23,9 +23,9 @@ Presentations must use the course themes and key words to summarize, explain, an
 Presentations must include a digital slide presentation (Google Slides, Power Point, Keynote) that will inspire and guide your audience. Groups must also design a handout that summarizes the assigned secondary source in a concise and clear manner, relates the source to overarching course themes and texts, and lists at least three questions they identify as emerging from the text. Be sure to print enough copies for the class.
 
 **Items you may want to include**
-* Definition of important keywords and concepts
-* Brief history of the author
-* Outline of the article
+* Definitions of important keywords and concepts
+* A brief history of the author
+* An outline of the article
 * Relevent images
 
 

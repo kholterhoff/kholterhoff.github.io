@@ -12,7 +12,7 @@ Presentations will explain how this source opens up new ideas about history, cul
 Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of this presentation your peers should have a clear understanding of this secondary source's thesis and significance. Presenters must generate thought-provoking questions to make their assigned reading accessible to peers. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
 
 **Questions for Presenters**
-* Does your presentation use best prctices from Lynda.com and _WOVENText_ to ensure that the handout and presentation are easy to understand and follow?
+* Does your presentation use best practices from Lynda.com and _WOVENText_ to ensure that the handout and presentation are easy to understand and follow?
 * Was the class engaged with your group's presentation? 
 * Is the summary of the secondary source accurate and complete?
 
@@ -26,7 +26,7 @@ Presentations must include a digital slide presentation (Google Slides, Power Po
 * Definitions of important keywords and concepts
 * A brief history of the author
 * An outline of the article
-* Relevent images
+* Relevant images
 
 
 <h3>Goals</h3>

@@ -27,7 +27,7 @@ Monday 8/28 at 9:00 AM: Assignment due on T-Square
 
 * Reflect upon your strengths and weaknesses in completing the project.
 * What part of this project did you enjoy most and least?
-* What was the most challenging aspect of completing Artifact #3.
+* What was the most challenging aspect of completing the Common First Week Assignment.
 * What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
 * What modes does your artifact incorporate? Does one take precedence over the others?
 * If you had more time for revision, what would you change and why?

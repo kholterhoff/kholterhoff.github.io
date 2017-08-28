@@ -33,15 +33,15 @@
 |**Week 8**|Monday, October 9	| No Class: Fall Recess|
 ||Wednesday, October 11 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/down-the-rabbit-hole-ee1794d9b469">Chapter 1</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-pool-of-tears-e03f2076c406">Chapter 2</a> |
 ||Friday, October 13 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-caucus-race-and-a-long-tail-7bc3cc92d256">Chapter 3</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-rabbit-sends-in-a-little-bill-fd0caec820e1">Chapter 4</a>|
-|**Week 9**|Monday, October 16 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/advice-from-a-caterpillar-88f45e718420">Chapter 5</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/pig-and-pepper-712a110b2371">Chapter 6</a>|
-||Wednesday, October 18 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-mad-tea-party-8486f3a303f7">Chapter 7</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-queen-s-croquet-ground-de004f31fa8d">Chapter 8</a> | 
+|**Week 9**|Monday, October 16 | Effective Team Dynamics Workshop with <a href="http://www.mse.gatech.edu/faculty/realff">Dr. Realff</a>|
+||Wednesday, October 18 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/advice-from-a-caterpillar-88f45e718420">Chapter 5</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/pig-and-pepper-712a110b2371">Chapter 6</a> | 
 ||Friday, October 20 | iMovie Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |
-|**Week 10**|Monday, October 23 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/the-mock-turtle-s-story-760eafd5ad45">Chapter 9</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-lobster-quadrille-6d129c903040">Chapter 10</a> |
-||Wednesday, October 25 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/who-stole-the-tarts-d077429f96ce">Chapter 11</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/alice-s-evidence-bfc80520c524">Chapter 12</a> | 
-||Friday, October 27 | _Hatter M: Far From Wonder_ (T-Square) |
-|**Week 11**|Monday, October 30 |<a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_ (1895) pp. 355-364</a> |
-||Wednesday, November 1 | |
-||Friday, November 3 | |
+|**Week 10**|Monday, October 23 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-mad-tea-party-8486f3a303f7">Chapter 7</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-queen-s-croquet-ground-de004f31fa8d">Chapter 8</a> |
+||Wednesday, October 25 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/the-mock-turtle-s-story-760eafd5ad45">Chapter 9</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-lobster-quadrille-6d129c903040">Chapter 10</a> | 
+||Friday, October 27 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/who-stole-the-tarts-d077429f96ce">Chapter 11</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/alice-s-evidence-bfc80520c524">Chapter 12</a>|
+|**Week 11**|Monday, October 30 |  _Hatter M: Far From Wonder_ (T-Square)|
+||Wednesday, November 1 | <a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_ (1895) pp. 355-364</a>|
+||Friday, November 3 | Crucial Conversations Workshop with Dr. Realff |
 |**Week 12**|Monday, November 6 | |
 ||Wednesday, November 8 || 
 ||Friday, November 10	 |	No Class: Research Day|

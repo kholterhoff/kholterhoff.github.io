@@ -12,7 +12,7 @@ Presentations will explain how this source opens up new ideas about history, cul
 Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of this presentation your peers should have a clear understanding of this secondary source's thesis and significance. Presenters must generate thought-provoking questions to make their assigned reading accessible to peers. Your presentation may inspire your peers to read the article and cite it in Artifact #2 or Artifact #3. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
 
 **Questions for Presenters**
-* Does your presentation use best practices from Lynda.com and _WOVENText_ ("Presentations" p. 547-551) to ensure that the handout and presentation are easy to understand and follow?
+* Does your presentation use best practices from Lynda.com ("Creating and Giving Business Presentations") and _WOVENText_ ("Presentations" p. 547-551) to ensure that the handout and presentation are easy to understand and follow?
 * Was the class engaged with your group's presentation? 
 * Is the summary of the secondary source accurate and complete?
 

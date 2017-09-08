@@ -7,20 +7,24 @@
 
 For this artifact all students will be assigned to a group and will present on a secondary source related to our primary text and a broader theme (Feminism, Gritty London, _etcetera_). Your instructor will provide access to this source (T-Square -> Resources -> Artifact #1 -> Artifact #1 Articles) and you will conduct some general outside research (Dictionary, Encyclopedia) to tie this article to the course themes, your specific theme, and the assigned text. Groups will sit or stand in the front of the class and teach the secondary source and aspects of the day’s assigned reading for at least 30 minutes, but presentations can last the full class time. 
 
-Presentations will explain how this source opens up new ideas about history, culture, and literature. Remember: only your group will read this source, so be sure to explain important keywords and concepts in a manner that everyone will understand. Your instructor has selected these particular texts because they illuminate larger more thematic ideas, so endeavor to tease these out. Groups do not need to become experts on their secondary sources, but they must be able to speak about these challenging texts in a thoughtful manner for the context of our course. 
+Presentations will explain how this source opens up new ideas about history, culture, and literature. Remember: only your group will read this source, so be sure to explain important keywords and concepts in a manner that everyone will understand. However, your presentation may inspire your peers to read the article and cite it in Artifact #2 or Artifact #3. Your instructor has selected these particular texts because they illuminate larger more thematic ideas, so endeavor to tease these out. Groups do not need to become experts on their secondary sources, but they must be able to speak about these challenging texts in a thoughtful manner for the context of our course. 
 
-Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of this presentation your peers should have a clear understanding of this secondary source's thesis and significance. Don't feel obligated to include everything in the article. For instance, rather than listing all examples of an idea mentioned in your secondary source, select a few representative examples and explain why the are important to demonstrating the author's major ideas. Presenters must generate thought-provoking questions to make their assigned reading accessible to peers. Your presentation may inspire your peers to read the article and cite it in Artifact #2 or Artifact #3. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
+Presentations must use the course themes and key words to summarize, explain, and contextualize the secondary source for the class. By the end of this presentation your peers should have a clear understanding of this secondary source's thesis and significance. Don't feel obligated to include everything in the article. For instance, rather than listing all examples of an idea mentioned in your secondary source, select a few representative examples and explain why the are important to demonstrating the author's major ideas. 
 
-**Checklist for Presenters**
+Presenters must generate thought-provoking questions intended to make their assigned reading accessible to peers. It is generally better to integrate questions into the body of the presentation rather than relegating all audience participation to the presentation's end. Although grades depend on the quality of the presenter’s exposition and handout, an excellent presentation should engage the class through a lively and creative discussion.
+
+
+**Questions and Checklist for Presenters**
+
 * Does your presentation use best practices from Lynda.com ("Creating and Giving Business Presentations") and _WOVENText_ ("Presentations" p. 547-551) to ensure that the handout and presentation are easy to understand and follow?
-* Was the class engaged with your group's presentation? 
+* Have you endeavored to engage the class with your group's presentation? 
 * Is the summary of the secondary source accurate and complete?
 * Does your handout, slides, and your Oral and Nonverbal presentation all work together in a balanced and unified way?
-* Has your team anticipated how  the class will answer your questions? This is tricky, but if you practice answering your 3 questions as a group this will give your team a better sense of whether your audience will be able to answer them too.
+* Has your team anticipated how the class will answer your questions? This is tricky, but if you practice answering your 3 questions as a group this will give your team a better sense of whether your audience will be able to answer them too.
 * Have you devoted adequate focus to your theme? Make sure to give a basic dictionary and/or encyclopedic definition and history of this idea.
-* Does your presentation intersect with the day's assignment? Some articles intersect in obvious ways with the assigned reading, and others less so. Draw connections between this and other texts covered in the course
-* Are you having fun and being creative? If you're not having fun, your audience won't either.
+* Does your presentation intersect with the day's assignment? Some articles intersect in obvious ways with the assigned reading, and others less so. Draw connections between this and other texts covered in the course. For instance, the team presenting on the theme of Video Games you may want to draw connections between this topic and the primary texts _String of Pearls_ and _Alice's Adventures in Wonderland_.
 * Have you practiced projecting your slides in one of the Skiles classrooms to ensure that your media works and your audience can read them from all parts of the classroom.
+* Are you having fun and being creative? If you're not having fun, your audience probably isn't either.
 
 
 <h3>Slides & Handout</h3>

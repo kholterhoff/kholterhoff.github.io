@@ -18,7 +18,7 @@ Presentations must use the course themes and key words to summarize, explain, an
 
 
 <h3>Slides & Handout</h3>
-<h4>Post slides & handout to our course management site 24-hours AFTER your presentation (T-Square -> Resources -> Artifact #1 Presentations).</h4>
+<h4>Post slides & handout to our course management site 24-hours AFTER your presentation (T-Square -> Resources -> Artifact #1 -> Artifact #1 Presentations -> Appropriate Section # [A3, J, G3]). Please make a folder for your materials (title with the date and theme of your presentation. For example: "9-8 Feminism") and be sure that the file titles include the last names of your team members</h4>
 
 Presentations must include a digital slide presentation (Google Slides, Power Point, Keynote) that will inspire and guide your audience. Groups must also design a handout that summarizes the assigned secondary source in a concise and clear manner, relates the source to overarching course themes and texts, and lists at least three questions they identify as emerging from the text. Be sure to print enough copies for the class.
 

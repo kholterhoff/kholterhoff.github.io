@@ -18,9 +18,9 @@
 |**Week 3**|Monday, September 4	 |	No Class: Labor Day|
 ||Wednesday, September 6 | _Elementary_: "The Woman/ Heroine" S01.23-24 (T-Square; Hulu; <a href="https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01GALI_GIT_ALMA21145328300002947&context=L&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US">GaTech Library</a>)<a href="https://kholterhoff.github.io/F17_ENG_1102/Quiz">Quiz</a> |
 ||Friday, September 8 | _Sherlock_: "A Scandal in Belgravia" S02.E01 (T-Square; Netflix; <a href="https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01GALI_GIT_ALMA21132234930002947&context=L&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US">GaTech Library</a>) |
-|**Week 4**|Monday, September 11 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.001.xml">Chapter 1-4</a>|
+|**Week 4**|Monday, September 11 | No Class: Irma |
 ||Wednesday, September 13 | In-Design Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |
-||Friday, September 15 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.005.xml">Chapters 5-8</a>|
+||Friday, September 15 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.001.xml">Chapters 1-8</a>|
 |**Week 5**|Monday, September 18 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.009.xml">Chapters 9-12</a>|
 ||Wednesday, September 20 |_String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.013.xml">Chapters 13-17</a> |
 ||Friday, September 22 |_String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.018.xml">Chapters 18-22</a>| 

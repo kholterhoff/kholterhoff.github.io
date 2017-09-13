@@ -54,7 +54,7 @@ Give yourself plenty of time to print your poster. Students often discover that 
 
 <h3> Supporting Document </h3>
 
-Along with your poster, you will submit a 2-page (1,000 word) supporting document that addresses, explains, and supports the choices you have made in your poster. You should address not only the argument that your poster engages but also why you’ve chosen this particular topic. You should also address/explain your choice of style, font, color, images, size, etc., How do your choices of design elements work together to convey your topic/argument/point? Why did you choose these particular elements as opposed to something else? Why did you choose this topic? Who or what organization might use your poster in a real world setting?
+Along with your poster, you will submit a 2-page (approximately 1,000 word) supporting document that addresses, explains, and supports the choices you have made in your poster. You should address not only the argument that your poster engages but also why you’ve chosen this particular topic. You should also address/explain your choice of style, font, color, images, size, etc., How do your choices of design elements work together to convey your topic/argument/point? Why did you choose these particular elements as opposed to something else? Why did you choose this topic? Who or what organization might use your poster in a real world setting?
 
 
 <h3>Timeline</h3>

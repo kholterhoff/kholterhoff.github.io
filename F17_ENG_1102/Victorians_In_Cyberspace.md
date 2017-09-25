@@ -25,8 +25,8 @@
 ||Wednesday, September 20 |_String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.013.xml">Chapters 13-17</a> |
 ||Friday, September 22 | No Class | 
 |**Week 6**|Monday, September 25 |_String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.018.xml">Chapters 18-26</a> |
-||Wednesday, September 27 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.027.xml">Chapters 27-31</a>| 
-||Friday, September 29 |_String of Pearls_ <a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_32_unknown.mp3">Chapters 32-35</a> |
+||Wednesday, September 27 | _String of Pearls_ <a href="http://www.salisburysquare.com/TSOP/content/TSOP.1850.UNC.chap.027.xml">Chapters 27-31</a>; <a href="https://archive.org/stream/stringofpearlsor00ryme#page/n139/mode/2up/">Illustrated edition</a> | 
+||Friday, September 29 | _String of Pearls_ <a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_32_unknown.mp3">Chapters 32-35</a>; <a href="" |
 |**Week 7**|Monday, October 2 | _String of Pearls_ <a href="http://ia801407.us.archive.org/8/items/stringofpearls_0809_librivox/stringofpearls_36_unknown.mp3">Chapters 36-39</a> |
 ||Wednesday, October 4 | **Artifact #2 Presentation** | 
 ||Friday, October 6 | **Artifact #2 Presentation** |

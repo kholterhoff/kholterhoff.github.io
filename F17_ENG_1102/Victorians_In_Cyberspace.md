@@ -32,7 +32,7 @@
 ||Friday, October 6 | **Artifact #2 Presentation** |
 |**Week 8**|Monday, October 9	| No Class: Fall Recess|
 ||Wednesday, October 11 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/down-the-rabbit-hole-ee1794d9b469">Chapter 1</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-pool-of-tears-e03f2076c406">Chapter 2</a> |
-||Friday, October 13 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-caucus-race-and-a-long-tail-7bc3cc92d256">Chapter 3</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-rabbit-sends-in-a-little-bill-fd0caec820e1">Chapter 4</a>|
+||Friday, October 13 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-caucus-race-and-a-long-tail-7bc3cc92d256">Chapter 3</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-rabbit-sends-in-a-little-bill-fd0caec820e1">Chapter 4</a>; **Artifact #2 Due**|
 |**Week 9**|Monday, October 16 | Effective Team Dynamics Workshop with <a href="http://www.mse.gatech.edu/faculty/realff">Dr. Realff</a>|
 ||Wednesday, October 18 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/advice-from-a-caterpillar-88f45e718420">Chapter 5</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/pig-and-pepper-712a110b2371">Chapter 6</a> | 
 ||Friday, October 20 | iMovie Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |

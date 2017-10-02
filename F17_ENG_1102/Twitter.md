@@ -5,7 +5,7 @@
 
 <a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_In_Cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/F17_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/F17_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-<h2>Course Hashtag: #1102VictoriansinCyberspace</h2>
+<h2>Course Hashtags: #1102ViC ; #1102VictoriansinCyberspace</h2>
 
 Due: Weekly (week ends on Sunday at midnight)
 

@@ -52,10 +52,10 @@ Give yourself plenty of time to print your poster. Students often discover that 
 * Somewhere in the poster, include your name
 * Cite all sources using MLA at the bottom of the poster.
 * Make sure all parts of the poster relate to the thesis. This includes your summary. Much like an annotated bibliography, by relating your summary of the story to the theme specifically you explain why it matters.
-* Use specific and clear subheadings to clarify the hierarchy of information within your poster. 
-* Left justify, don't center, paragraphs.
+* Use specific and clear subheadings to explain the hierarchy of information within your poster. 
+* Left justify paragraphs; avoid centering large blocks of text.
 * Show, don't tell. Use the visual and written evidence from your texts to demonstrate your claims.
-* Don't just drop in images; explain how they help demonstration your thesis.
+* Don't just drop in images; explain how they support your thesis.
 
 
 <h3> Supporting Document </h3>

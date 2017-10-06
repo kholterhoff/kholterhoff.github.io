@@ -48,9 +48,13 @@ Give yourself plenty of time to print your poster. Students often discover that 
 
 * You should choose a size for your poster based on your reactions to other posters you find on the web. Many poster are tall images; others go for something wider. It’s not important that the image be any specific size: more important is what it can do for a viewer in a short timespan (you should anticipate that viewers will spend 1-2 minutes with your poster.
 * For design advice see <a href="http://www.nuigalway.ie/remedi/poster/media/Posters_Good_and_bad.pdf">"How to Distinguish a Good Poster Design from a Bad One"</a>
-* Include a clear title somewhere in your poster. It should be specific and attention-grabbing.
+* Include a clear title somewhere in your poster. It should be specific and attention-grabbing. Include title of texts and publication years.
 * Somewhere in the poster, include your name
 * Cite all sources using MLA at the bottom of the poster.
+* Make sure all parts of the poster relate to the thesis. This includes your summary. Like an annotated bibliography, relate to the theme specifically.
+* Use specific and clear subheadings.
+* Left-align, don't center, paragraphs.
+* Show, don't tell. Use the visual and written evidence from your texts to demonstrate your claims.
 
 
 <h3> Supporting Document </h3>

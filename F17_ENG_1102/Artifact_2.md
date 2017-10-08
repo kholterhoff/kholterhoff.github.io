@@ -72,7 +72,7 @@ Along with your poster, you will submit a 2-page (approximately 1,000 word) supp
 * Friday 10/13: Revised Digital version of poster (use JPG, PDF, or TIFF) and Supporting Document Due on T-Square at midnight. Email is also an acceptable way to submit these documents.
 
 
-<h3>Reflection</h3>
+<h3>Reflection (Due in December)</h3>
 
 * Reflect upon your strengths and weaknesses in completing the project.
 * Describe the methods and modes that were the focus of your communicative work in the project.

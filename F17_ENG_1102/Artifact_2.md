@@ -57,6 +57,7 @@ Give yourself plenty of time to print your poster. Students often discover that 
 * Left justify paragraphs; avoid centering large blocks of text.
 * Show, don't tell. Use the visual and written evidence from your texts to demonstrate your claims.
 * Don't just drop in images; explain how they support your thesis.
+* If a few words can accurately and briefly capture your main idea, I recommend using bullet points. However, it is not appropriate to break up a paragraph into bullet points arbitrarily. Using bullet points does not mean that you don't need transitions or topic sentences. It simply permits you to use a graphic structure of headings, subheadings, and indenting to structure information differently. See <a href="http://www.businesswritingblog.com/business_writing/2005/12/the_best_of_bul.html">"Best Practices for Bullet Points."</a>
 
 
 <h3> Supporting Document </h3>

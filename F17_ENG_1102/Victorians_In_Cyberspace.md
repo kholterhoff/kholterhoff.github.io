@@ -16,7 +16,7 @@
 ||Wednesday, August 30 | <a href="http://bakerstreet.wikia.com/wiki/A_Study_in_Scarlet/Chapter_1">Arthur Conan Doyle's _A Study in Scarlet_ Chapters 1 & 2</a> |
 ||Friday, September 1 | <a href="https://books.google.com/books?id=83xHAAAAYAAJ&pg=PA61#v=onepage&q&f=false">Arthur Conan Doyle's "A Scandal in Bohemia" (1891) pp. 61-75</a> <a href="https://docs.google.com/spreadsheets/d/1Y3o3NYwUXWXAh_YQOOkNyaL_BOOV3so-W6JMv9JJljU/edit?usp=sharing">CliftonStrengths</a> |
 |**Week 3**|Monday, September 4	 |	No Class: Labor Day|
-||Wednesday, September 6 | _Elementary_: "The Woman/ Heroine" S01.23-24 (T-Square; Hulu; <a href="https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01GALI_GIT_ALMA21145328300002947&context=L&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US">GaTech Library</a>)<a href="https://kholterhoff.github.io/F17_ENG_1102/Quiz">Quiz</a> |
+||Wednesday, September 6 | _Elementary_: "The Woman/ Heroine" S01.23-24 (T-Square; Hulu; <a href="https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01GALI_GIT_ALMA21145328300002947&context=L&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US">GaTech Library</a>) |
 ||Friday, September 8 | _Sherlock_: "A Scandal in Belgravia" S02.E01 (T-Square; Netflix; <a href="https://gatech-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01GALI_GIT_ALMA21132234930002947&context=L&vid=01GALI_GIT&search_scope=Everything&tab=default_tab&lang=en_US">GaTech Library</a>) |
 |**Week 4**|Monday, September 11 | No Class: Irma |
 ||Wednesday, September 13 | In-Design Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |
@@ -31,7 +31,7 @@
 ||Wednesday, October 4 | **Artifact #2 Presentation** | 
 ||Friday, October 6 | **Artifact #2 Presentation** |
 |**Week 8**|Monday, October 9	| No Class: Fall Recess|
-||Wednesday, October 11 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/down-the-rabbit-hole-ee1794d9b469">Chapter 1</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-pool-of-tears-e03f2076c406">Chapter 2</a> |
+||Wednesday, October 11 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/down-the-rabbit-hole-ee1794d9b469">Chapter 1</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-pool-of-tears-e03f2076c406">Chapter 2</a> <a href="https://kholterhoff.github.io/F17_ENG_1102/Quiz">Quiz</a> |
 ||Friday, October 13 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-caucus-race-and-a-long-tail-7bc3cc92d256">Chapter 3</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-rabbit-sends-in-a-little-bill-fd0caec820e1">Chapter 4</a>; **Artifact #2 Due**|
 |**Week 9**|Monday, October 16 | Effective Team Dynamics Workshop with <a href="http://www.mse.gatech.edu/faculty/realff">Dr. Realff</a>|
 ||Wednesday, October 18 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/advice-from-a-caterpillar-88f45e718420">Chapter 5</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/pig-and-pepper-712a110b2371">Chapter 6</a> | 

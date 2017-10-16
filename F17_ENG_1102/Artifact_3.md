@@ -9,7 +9,7 @@ Students, in groups of 5 or 6, will select one Steampunk video game from the lis
  
  
 <h3>Video Essay</h3>
-A video essay is a brief video created by joining video footage and slides on a specific topic and narrating the connections in order to generate novel insights. Like a written essay, these videos should have a clearly stated thesis, strong and well-argued sections, logical transitions, and a Works Cited (at least five scholarly sources). The film footage in your project must come predominantly from your game. Groups must conduct outside research and cite a minimum of five secondary sources in addition to the primary source of the selected game. Each team member should narrate some portion of the video. In short, I want to hear every group member's voice. Final videos may be uploaded to Vimeo or YouTube, or T-Square.
+A video essay is a brief video created by joining video footage and slides on a specific topic and narrating the connections in order to generate novel insights. Like a written essay, these videos should have a clearly stated thesis, strong and well-argued sections, logical transitions, and a Works Cited (at least five scholarly sources). The film footage in your project must come predominantly from your game. Groups must conduct outside research and cite a minimum of five secondary sources in addition to the primary source of the selected game. Each team member should narrate some portion of the video. In short, I want to hear every group member's voice. Final videos must be uploaded to Vimeo or YouTube. Links to these projects, as well as supporting material, should be submitted through T-Square. Pick one team member to submit your team's materials.
  
 <h4>Examples of Video Essays of the topic of Video Games</h4>
 
@@ -114,7 +114,7 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 
 
 <h4>Alternate Games</h4>
-If your group would like to suggest a narrative-driven game I am open to other games. Email proposals for different games to me by TBD at midnight. Proposals must offer a compelling argument for why you feel it fulfills the goals of this assignment. If I reject your proposal you will still have an opportunity to select from the provided list of games at the same time as your peers.
+If your group would like to suggest a narrative-driven game I am open to other games. Email proposals for different games to me by October 18th. Proposals must offer a compelling argument for why you feel it fulfills the goals of this assignment. If I reject your proposal you will still have an opportunity to select from the provided list of games at the same time as your peers.
 
 
 <h3>Annotated Bibliography</h3>
@@ -126,13 +126,12 @@ I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating a
  
 <h3>Time Line</h3>
 
-* October TBD at 1:00 PM: Submit Proposals for Alternative Games if desired. I will respond that evening.
-* October TBD at 1:00 PM: Video Games Form Released. Select a game no later than TBD at 11:59 PM.
-* November TBD: Each group should record a small section of your team's video game (30-60 seconds). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
-* November TBD: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
+* October 18 at 1:00 PM: Submit Proposals for Alternative Games if desired. I will respond that evening.
+* October 20 at 1:00 PM: Video Games Form Released. Select a game no later than TBD at 11:59 PM.
+* October 27: Each group should record a small section of your team's video game (30-60 seconds). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
+* November 6: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
 * November TBD: <a href="http://info.catme.org/">Login to CATME to complete your  Artifact #3 Peer Assessment.</a> <a href="https://www.youtube.com/watch?v=mLTBtksrTFY">Here is a helpful video guide for student users  explaining CATME Online Peer Assessment.</a>
-* November TBD: Video Essay Due at 11:59 PM.
-* November TBD: Watch videos in class
+* November 20: Watch videos in class
 
 
 <h3>Reflection</h3>

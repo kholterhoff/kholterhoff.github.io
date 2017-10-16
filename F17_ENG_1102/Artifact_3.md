@@ -130,7 +130,7 @@ I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating a
 * October 20 at 1:00 PM: Video Games Form Released. Select a game no later than TBD at 11:59 PM.
 * October 27: Each group should record a small section of your team's video game (30-60 seconds). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
 * November 6: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
-* November TBD: <a href="http://info.catme.org/">Login to CATME to complete your  Artifact #3 Peer Assessment.</a> <a href="https://www.youtube.com/watch?v=mLTBtksrTFY">Here is a helpful video guide for student users  explaining CATME Online Peer Assessment.</a>
+* November 13: Bring in copy of Annotated Bibliography to class
 * November 20: Watch videos in class
 
 

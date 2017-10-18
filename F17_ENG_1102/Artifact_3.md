@@ -127,7 +127,7 @@ I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating a
 <h3>Time Line</h3>
 
 * October 18 at 1:00 PM: Submit Proposals for Alternative Games if desired. I will respond that evening.
-* October 20 at 1:00 PM: Video Games Form Released. Select a game no later than TBD at 11:59 PM.
+* October 20 at 1:00 PM: Video Games Form Released. Select a game no later than 10/21 at 11:59 PM.
 * October 27: Each group should record a small section of your team's video game (30-60 seconds). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
 * November 6: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
 * November 13: Bring in copy of Annotated Bibliography to class

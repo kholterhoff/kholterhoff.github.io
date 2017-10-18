@@ -117,7 +117,10 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 If your group would like to suggest a narrative-driven game I am open to other games. Email proposals for different games to me by October 18th. Proposals must offer a compelling argument for why you feel it fulfills the goals of this assignment. If I reject your proposal you will still have an opportunity to select from the provided list of games at the same time as your peers.
 
 
-<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJTTy_sJ9aQrSyA6cDQJKZG3aH_4Pw1jcnJYHGY5qayTFDNQ/viewform?usp=sf_link">SELECT GAMES HERE Section A3</a> -- <a href="https://docs.google.com/forms/d/e/1FAIpQLSelsO2HuqmT5QxZRt9Q_Rjqsg7QCtkqU8HX-25a6rcnVRaEZQ/viewform?usp=sf_link">SELECT GAMES HERE Section G3</a> -- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPCfsFsP7rOkn4xxGiq0Rkv_KjOA1S6cR3ZxtziUU98g1QVA/viewform?usp=sf_link">SELECT GAMES HERE Section J</a><h2>
+<h2>Links to Select Games</h2>
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJTTy_sJ9aQrSyA6cDQJKZG3aH_4Pw1jcnJYHGY5qayTFDNQ/viewform?usp=sf_link">Steampunk Video Game Selection Form A3</a> 
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSelsO2HuqmT5QxZRt9Q_Rjqsg7QCtkqU8HX-25a6rcnVRaEZQ/viewform?usp=sf_link">Steampunk Video Game Selection Form G3</a> 
+* <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPCfsFsP7rOkn4xxGiq0Rkv_KjOA1S6cR3ZxtziUU98g1QVA/viewform?usp=sf_link">Steampunk Video Game Selection Form J</a>
 
 <h3>Annotated Bibliography</h3>
 

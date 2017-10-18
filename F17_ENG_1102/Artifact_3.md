@@ -46,6 +46,8 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
  
 <h3>Eligible Games</h3>
 
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJTTy_sJ9aQrSyA6cDQJKZG3aH_4Pw1jcnJYHGY5qayTFDNQ/viewform?usp=sf_link">SELECT GAMES HERE Section A3</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSelsO2HuqmT5QxZRt9Q_Rjqsg7QCtkqU8HX-25a6rcnVRaEZQ/viewform?usp=sf_link">SELECT GAMES HERE Section G3</a> -- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPCfsFsP7rOkn4xxGiq0Rkv_KjOA1S6cR3ZxtziUU98g1QVA/viewform?usp=sf_link">SELECT GAMES HERE Section J</a><h2>
+
 * 80 Days
 * Amnesia: A Machine for Pigs
 * Aqua (Microsoft Game Studio, 2010)

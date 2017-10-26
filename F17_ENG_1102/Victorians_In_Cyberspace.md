@@ -38,7 +38,7 @@
 ||Friday, October 20 | iMovie Tutorial: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |
 |**Week 10**|Monday, October 23 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/a-mad-tea-party-8486f3a303f7">Chapter 7</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-queen-s-croquet-ground-de004f31fa8d">Chapter 8</a> |
 ||Wednesday, October 25 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/the-mock-turtle-s-story-760eafd5ad45">Chapter 9</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/the-lobster-quadrille-6d129c903040">Chapter 10</a> | 
-||Friday, October 27 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/who-stole-the-tarts-d077429f96ce">Chapter 11</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/alice-s-evidence-bfc80520c524">Chapter 12</a>|
+||Friday, October 27 | _AAiW_ <a href="https://medium.com/alice-s-adventures-in-wonderland/who-stole-the-tarts-d077429f96ce">Chapter 11</a> & <a href="https://medium.com/alice-s-adventures-in-wonderland/alice-s-evidence-bfc80520c524">Chapter 12</a>; Supplemental: <a href="https://hdrussellcom.wordpress.com/british-fantasy-in-remediation/alices-adventures-in-wonderland/#content-wrapper">H. D. Russell's _Alice’s Adventures in Wonderland_ Project</a>|
 |**Week 11**|Monday, October 30 |  _Hatter M: Far From Wonder_ (T-Square)|
 ||Wednesday, November 1 | <a href="https://books.google.com/books?id=lsohAQAAIAAJ&pg=PA355#v=onepage&q&f=false">Mary Howarth's _The Telegram_ (1895) pp. 355-364</a>|
 ||Friday, November 3 | Crucial Conversations Workshop with Dr. Realff |

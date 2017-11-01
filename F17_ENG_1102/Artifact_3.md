@@ -128,7 +128,7 @@ If your group would like to suggest a narrative-driven game I am open to other g
 
 <h3>Annotated Bibliography</h3>
 
-Students must research and write annotated bibliographies for at least five secondary sources. This is a joint, co-authored bibliography. You should use these annotations to determine what belongs in your video essay, and what doesn’t.
+Students must research and write annotated bibliographies for at least five secondary sources. At least three of these sources should be academic, meaning that they are published in peer-reviewed journals or books. This is a joint, co-authored bibliography. You should use these annotations to determine what belongs in your video essay, and what doesn’t.
 
 I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating and Documenting Sources” (pp. 776-796).
 

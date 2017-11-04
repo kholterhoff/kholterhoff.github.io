@@ -126,6 +126,16 @@ If your group would like to suggest a narrative-driven game I am open to other g
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSelsO2HuqmT5QxZRt9Q_Rjqsg7QCtkqU8HX-25a6rcnVRaEZQ/viewform?usp=sf_link">Steampunk Video Game Selection Form G3</a> 
 * <a href="https://docs.google.com/forms/d/e/1FAIpQLSfPCfsFsP7rOkn4xxGiq0Rkv_KjOA1S6cR3ZxtziUU98g1QVA/viewform?usp=sf_link">Steampunk Video Game Selection Form J</a>
 
+<h3>Video Essay Script</h3>
+On Monday, 11/6, every group will bring a completed copy of their Video Essay script to class. Scripts should be written in polished prose, and not in outline form. This draft should be at least 4-pages in length (12 pt font, 1 inch margins, double spaced). Bring 6 print copies (enough for every person in your group, plus one for your instructor).
+
+Although this script may be written as a regular essay, you may also want to include images and storyboard slides to indicate the visual evidence your group plans to pair with your words. If your team intends to have multiple speakers rather than one, consider identifying which team member will speak each section in the script.
+
+Your essay should incorporate some preliminary research (2 secondary sources minimum). At the very least every team should Google their game to see what the game’s developers have to say about their intentions (if anything), and to get some sense of its reviews from gamers. You should also Google important keywords and new media ideas about interactivity, remediation, SteamPunk, etc. I suggest using Lister and Bolters books (linked above), as well as sources from Artifact #1 (sources from Artifact #1 are not eligible for the annotated bibliography).
+
+The script due Monday, 11/6, is a first draft. Your peers and your instructor will review this script, and your team will implement revision suggestions before recording your final project. Seeing this script will afford your instructor with the opportunity to critique the quality your thesis, evidence, organization, and mechanics, so that you know what to improve before submitting your final video essay on 11/20. I will be able to give the best feedback to those groups that bring in the most polished scripts.
+
+
 <h3>Annotated Bibliography</h3>
 
 Students must research and write annotated bibliographies for at least five secondary sources. At least three of these sources should be academic, meaning that they are published in peer-reviewed journals or books. This is a joint, co-authored bibliography. You should use these annotations to determine what belongs in your video essay, and what doesn’t.

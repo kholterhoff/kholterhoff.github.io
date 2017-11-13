@@ -20,7 +20,7 @@ A video essay is a brief video created by joining video footage and slides on a 
 * Jamin Warren's <a href="https://www.youtube.com/user/pbsgameshow">PBS Game/Show</a>
 * Samuel Gronseth II and Boyd Trolinger's <a href="https://www.youtube.com/user/gamesasliterature/featured">Games as Lit. 101</a>
 
-<h4>Examples of Video Essays</a>
+<h4>Examples of Video Essays</h4>
 
 * Gatech student Sean Gedorio's <a href="https://www.youtube.com/watch?v=UM7SibjbWNw">"Black Swan Video Essay Analysis"</a>
  

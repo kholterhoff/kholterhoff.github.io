@@ -22,7 +22,7 @@ A video essay is a brief video created by joining video footage and slides on a 
 
 <h4>Examples of Video Essays</a>
 
-* <a href="https://www.youtube.com/watch?v=UM7SibjbWNw">Gatech student Sean Gedorio's "Black Swan Video Essay Analysis"</a>
+* Gatech student Sean Gedorio's <a href="https://www.youtube.com/watch?v=UM7SibjbWNw">"Black Swan Video Essay Analysis"</a>
  
 <h3>Goals</h3>
 

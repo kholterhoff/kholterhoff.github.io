@@ -47,7 +47,7 @@
 ||Friday, November 10	 |	No Class: Research Day|
 |**Week 13**|Monday, November 13 | |
 ||Wednesday, November 15 || 
-||Friday, November 17 | Workshop Artifact #3: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a> |
+||Friday, November 17 | Workshop Artifact #3: Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>. Office hours cancelled. |
 |**Week 14**|Monday, November 20 | **Artifact #3 Presentation** |
 ||Wednesday, November 22 |	No Class: Thanksgiving Break|
 ||Friday, November 24 |	No Class: Thanksgiving Break|

@@ -154,7 +154,7 @@ I suggest you review Chapter 20 in WOVEN Text covering “Process: Integrating a
 * October 27: Each group should record a small section of your team's video game (30-60 seconds; one clip per group). Bring this video clip of your game to discuss during class. Think of this segment as an opportunity for close reading.
 * November 6: Script for Video due in class. Bring 6-7 print copies (enough for every person in your group, plus one for your instructor).
 * November 13: Bring in a copy of your group's Annotated Bibliography to class
-* November 20: Watch videos in class
+* November 20: Watch videos in class. One team member should upload a copy of the annotated bibliography and paste a link to the video onto T-Square before classtime.
 
 
 <h3>Reflection</h3>

@@ -16,6 +16,7 @@ Gender, Race, and Class Studies   -   Critical Theory
 <h3>Georgia Institute of Technology</h3>
   
   |-----|--------------------------------------------------|----:|
+  ENGL 1102 | <a href="https://kholterhoff.github.io/S18_ENG_1102/Victorian_Digital_Humanities">Victorian Digital Humanities</a> | 2018
   ENGL 1102 | <a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_In_Cyberspace">Victorians in Cyberspace</a> | 2017
   ENGL 1102 | <a href="http://1102vcdahrh.wordpress.com/">Visual Culture, Digital Archives and H. Rider Haggard</a> | 2017
   ENGL 1102 | <a href="http://1102theliteratureofnewmedia.weebly.com/">The Literature of New Media</a> | 2016

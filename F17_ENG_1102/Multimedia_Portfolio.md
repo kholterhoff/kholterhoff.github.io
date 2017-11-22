@@ -15,3 +15,5 @@
 1. State in the first paragraph, preferably the first sentence, whether the assignment was an Individual or a Group project.
 
 2. Contain Process Documents (with the exception of the Common First Week Assignment). The more of these documents you provide, the better. Process documents might include informal sketches, rough drafts, planning documents, or brain storming notes.
+
+3. State the title of the assignment hyperlinked to the appropriate course website page (for example, <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Poster Presentation</a>).

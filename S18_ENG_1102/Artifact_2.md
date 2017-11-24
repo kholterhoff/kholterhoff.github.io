@@ -42,22 +42,22 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
  
 <h3>Eligible Films</h3>
 
+* _The Mummy_ (2017)
 * _The Mummy_ (1999)
 * _The Mummy Returns_ (2001)
 * _The Mummy: Tomb of the Dragon Emperor_ (2008)
-* _The Mummy_ (2017)
 * _The League of Extraordinary Gentlemen_ (2003)
 * _Raiders of the Lost Ark_ (1981)
 * _Indiana Jones and the Temple of Doom_ (1984)
-* _Indiana Jones and the Last Crusade_ (1989)
 * _Indiana Jones and the Kingdom of the Crystal Skull_ (2008)
 * _Secret of the Incas_ (1954)
-* _National Treasure_ (2007)
+* _National Treasure: Book of Secrets_ (2007)
 * _Romancing the Stone_ (1984)
 * _The Treasure Hunter_ (2009)
 * _Lara Croft: Tomb Raider_ (2001)
 * _Lara Croft: Tomb Raider – The Cradle of Life_ (2003)
 * _Treasure Planet_ (2002)
+* _Atlantis: The Lost Empire_ (2001) 
 * _The Jewel of the Nile_ (1985)
 * _Sahara_ (2005)
 * _The Librarian: Return to King Solomon's Mines_ (2006)
@@ -84,6 +84,16 @@ You can rent Audio/ Visual equipment on the GaTech campus through the Library's 
 * _Apocalypse Now_ (1979)
 * _Aguirre, the Wrath of God_ (1972)
 * _Angels and Insects_ (1995)
+* _Congo_ (1995)
+* _Joe versus the Volcano_ (1990)
+* _Dances with Wolves_ (1990)
+* _The Last Samurai_ (2003)
+* _Master and Commander: The Far Side of the World_ (2003)
+* _Predator_ (1987)
+* _Predators_ (2010)
+* _The Gods Must Be Crazy_ (1980)
+* _Jungle 2 Jungle_ (1997)
+* _George of the Jungle_ (1997) 
 
 
 <h5>Alternate Films</h5>

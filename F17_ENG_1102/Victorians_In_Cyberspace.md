@@ -53,7 +53,7 @@
 ||Friday, November 24 |	No Class: Thanksgiving Break|
 |**Week 15**|Monday, November 27	 | Introduce Multimedia Portfolios|
 ||Wednesday, November 29 | Multimedia Portfolios| 
-||Friday, November 31 | Multimedia Portfolios|
+||Friday, November 31 | Multimedia Portfolios, Complete <a href="https://docs.google.com/forms/d/e/1FAIpQLScObWC-v6R5kfiJHj0I5LSImJYQ2cdRYBKjnH9t1etoj9Bo2w/viewform?usp=sf_link">Participation Form</a>|
 |**Week 16**|Monday, December 4 | Peer Review of Reflective Introduction to the Portfolio|
 |**Exam Week**|Monday, December 11| **Section J Mahara Portfolio Due at 2:20 pm**|
 ||Wednesday, December 13| **Section A3 Mahara Portfolio Due at 10:50 am; Section G3 Due at 2:20 pm**|

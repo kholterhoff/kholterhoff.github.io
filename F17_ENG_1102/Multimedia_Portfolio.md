@@ -17,3 +17,21 @@
 2. Contain Process Documents (with the exception of the Common First Week Assignment). The more of these documents you provide, the better. Process documents might include informal sketches, rough drafts, planning documents, or brain storming notes.
 
 3. State the title of the assignment hyperlinked to the appropriate course website page (for example, <a href="https://kholterhoff.github.io/F17_ENG_1102/Artifact_2">Poster Presentation</a>).
+
+
+<h3>Troubleshooting</h3>
+
+**Problem:** Mahara's zip files are too large to upload to T-Square. 
+
+**Solutions:**
+If the zip file is too large for T-Square, then you are likely embedding video files, rather than using YouTube links. One solution is to to include the link, rather than the full video file.
+
+You can also upload your Mahara files to cloud storage (OneDrive, Dropbox, Drive, etc.) and submit the link to the folder.
+
+If all else fails, make sure that you have submitted a secret URL that works correctly (check on your browser's private window).
+
+
+**Problem:** When Mahara produces the zip file, your computer automatically unzips it, making it difficult/impossible to upload the zip file to T-Square.
+
+**Solution:** 
+If your aren't sure how to make your computer not automatically unzip files, then simply re-compress that file. This should work for uploading to T-Square. Again, if all else fails, make sure that you have submitted a secret URL that works correctly.

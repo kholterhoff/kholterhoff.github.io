@@ -28,7 +28,7 @@ If the zip file is too large for T-Square, then you are likely embedding video f
 
 You can also upload your Mahara files to cloud storage (OneDrive, Dropbox, Drive, etc.) and submit the link to the folder.
 
-If all else fails, make sure that you have submitted a secret URL that works correctly (check on your browser's private window).
+If all else fails, make sure that you have submitted a secret URL that works correctly (check it on your browser's private window).
 
 
 **Problem:** When Mahara produces the zip file, your computer automatically unzips it, making it difficult/impossible to upload the zip file to T-Square.

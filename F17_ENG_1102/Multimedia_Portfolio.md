@@ -35,3 +35,9 @@ If all else fails, make sure that you have submitted a secret URL that works cor
 
 **Solution:** 
 If your aren't sure how to make your computer not automatically unzip files, then simply re-compress that file. This should work for uploading to T-Square. Again, if all else fails, make sure that you have submitted a secret URL that works correctly.
+
+
+**Problem:** Unable to copy-and-paste the Mahara secret URL into the portfolio assignment text box in T-Square.
+
+**Solution:** 
+The T-Square text box will not be usable for anyone accessing T-Square through Buzzport. You should access T-Square through t-square.gatech.edu (not Buzzport).

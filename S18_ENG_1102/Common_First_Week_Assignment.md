@@ -20,14 +20,13 @@ IMPORTANT: If you completed a similar video in a previous class (ENGL 1101 or EN
 
 <h3>Timeline</h3>
 
-Monday 8/28 at 9:00 AM: Assignment due on T-Square
+Monday 1/15 at 9:00 AM: Assignment due on Canvas
 
 
 <h3>Reflection</h3>
 
-* Reflect upon your strengths and weaknesses in completing the project.
-* What part of this project did you enjoy most and least?
-* What was the most challenging aspect of completing the Common First Week Assignment.
-* What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
-* What modes does your artifact incorporate? Does one take precedence over the others?
+* What were the main intellectual goals of the assignment? Please situate these goals in terms of the course theme and in terms of the communication strategies you were to learn or practice.
+* What is your argument or purpose? How did you make the argument or purpose visible and persuasive in your artifact?
+* Who is the intended audience for your artifact? Why is this an appropriate audience? How is your choice of audience reflected in your artifact?
+* What are the defining features of the genre or media that you are using in this project? How do you makeuse of these features?
 * If you had more time for revision, what would you change and why?

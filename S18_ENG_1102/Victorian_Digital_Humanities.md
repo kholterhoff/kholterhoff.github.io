@@ -14,16 +14,16 @@
 ||Friday, January 12 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). |
 |**Week 2**|Monday, January 15 | No Class: MLK Day **Common First Week Assignment Due** |
 ||Wednesday, January 17 |  |
-||Friday, January 19 |  |
-|**Week 3**|Monday, January 22	 |	|
-||Wednesday, January 24 | |
-||Friday, January 26 | |
-|**Week 4**|Monday, January 29 | |
-||Wednesday, January 31 | |
-||Friday, February 2 |  |
-|**Week 5**|Monday, February 5 | |
-||Wednesday, February 7 | |
-||Friday, February 9 |  | 
+||Friday, January 19 | _She_ Introduction & Chapters 1-3 |
+|**Week 3**|Monday, January 22	 |	_She_ Chapters 4-6 |
+||Wednesday, January 24 | _She_ Appendix B |
+||Friday, January 26 | _She_ Chapters 7-9 |
+|**Week 4**|Monday, January 29 | _She_  Chapters 10-15 |
+||Wednesday, January 31 | _She_ Appendix C |
+||Friday, February 2 | _She_ Chapters 16-18 |
+|**Week 5**|Monday, February 5 | _She_ Chapters 19-24 |
+||Wednesday, February 7 | _She_ Appendix D |
+||Friday, February 9 | _She_ Chapters 25-28 | 
 |**Week 6**|Monday, February 12 | |
 ||Wednesday, February 14 |  | 
 ||Friday, February 16 |  |

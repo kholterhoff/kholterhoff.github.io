@@ -7,7 +7,7 @@
 
 <p>In lieu of a final exam, ENGL 1101 and 1102 require you complete a final multimodal portfolio due during your section’s scheduled final exam time. The portfolio will include examples of your WOVEN work products, a substantial reflective essay, and brief introductions to each artifact.</p>
 
-<a href="https://kholterhoff.github.io/S18_ENG_1102/Portfolio Instructions 2017-2018 FINAL.pdf">Detailed directions for Multimodal Reflection Portfolio and Mahara</a>
+<a href="https://kholterhoff.github.io/F17_ENG_1102/Portfolio Instructions 2017-2018 FINAL.pdf">Detailed directions for Multimodal Reflection Portfolio and Mahara</a>
 
 
 <h3>Every web page of your portfolio MUST:</h3>

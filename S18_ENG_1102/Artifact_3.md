@@ -65,8 +65,7 @@ As a group, reflect on the process of creating your visualizations in a 2-3 page
 <h3>Timeline</h3>
 
 * Wednesday TBD: In-Design Tutorial. Meet in Homer Rice Room.
-* Friday TBD: Pick your Victorian text <a href="">Section A4</a>; <a href="">Section B7</a>; <a href="">Section HP2</a>.
-* Monday TBD during class: Have your spreadsheet list of illustration tags completed for class.
+* Friday TBD: Pick your Victorian periodical <a href="">Section A4</a>; <a href="">Section B7</a>; <a href="">Section HP2</a>.
 * Wednesday TBD during class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally.
 * Friday, 4/13: Complete Project due.
 

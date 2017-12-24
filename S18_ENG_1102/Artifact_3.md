@@ -7,7 +7,7 @@
 
 Students in groups of 4 or 5 will formulate a research question and create a data visualization using a periodical from <a href="https://www.hathitrust.org/">HathiTrust</a>. With the help of Georgia Tech's Data Visualization Librarian <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> (<a href="mailto:ximin.mi@library.gatech.edu">ximin.mi@library.gatech.edu</a>), students will build upon the skills gained in Artifact #2 by using data sets to make arguments about literary history and culture. Unlike the close reading assignments practiced in Artifacts #1 and #2, students will practice distant reading numerous Victorian periodicals in order to make claims. Students will present their findings in the form of a coherent, well-designed, and easily comprehensible data visualization.
 
-This assignment is an exercise in <a href="https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature#_edn6">**Distant Reading**</a>, a phrase coined by Franco Moretti to distinguish a way of studying literature that privilidges quantitative rather than qualitative research. As Moretti explains, "the trouble with close reading (in all of its incarnations, from the new criticism to deconstruction) is that it necessarily depends on an extremely small canon...you invest so much in individual texts only if you think that very few of them really matter...Distant reading: where distance, let me repeat it, _is a condition of knowledge_: it allows you to focus on units that are much smaller or much larger than the text: devices, themes, tropes—or genres and systems. And if, between the very small and the very large, the text itself disappears, well, it is one of those cases when one can justifiably say, Less is more. If we want to understand the system in its entirety, we must accept losing something."
+This assignment is an exercise in <a href="https://newleftreview.org/II/1/franco-moretti-conjectures-on-world-literature#_edn6">**Distant Reading**</a>, a phrase coined by Franco Moretti to distinguish a way of studying literature that privileges quantitative rather than qualitative research. As Moretti explains, "the trouble with close reading (in all of its incarnations, from the new criticism to deconstruction) is that it necessarily depends on an extremely small canon...you invest so much in individual texts only if you think that very few of them really matter...Distant reading: where distance, let me repeat it, _is a condition of knowledge_: it allows you to focus on units that are much smaller or much larger than the text: devices, themes, tropes—or genres and systems. And if, between the very small and the very large, the text itself disappears, well, it is one of those cases when one can justifiably say, Less is more. If we want to understand the system in its entirety, we must accept losing something."
 
 
 <h3>What is Data Visualization?</h3>
@@ -36,8 +36,8 @@ Because descriptive metadata tags are always subjective interpretations, each gr
 
 Visualizations must include:
 
-Header (mention illustration, title of book, and possibly Haggard and the illustrator’s name)
-Legend stating pertinent explanatory information; the data’s source (Visual Haggard, others?); and creators (names of group members).
+* Header (mention illustration, title of book, and possibly Haggard and the illustrator’s name)
+* Legend stating pertinent explanatory information; the data’s source (HathiTrust, others?); and creators (names of group members)
 
 
 <h3>Supporting Document </h3>

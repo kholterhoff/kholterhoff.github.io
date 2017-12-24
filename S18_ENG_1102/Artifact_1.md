@@ -5,7 +5,7 @@
 
 <a href="https://kholterhoff.github.io/S18_ENG_1102/Victorian_Digital_Humanities">Calendar</a>  |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-For this artifact all students will be assigned to a group and will present on a secondary source related to our primary text and a broader theme (Imperialism, the Woman Question, _etcetera_). Your instructor will provide access to this source (Canvas -> Resources -> Artifact #1 -> Artifact #1 Articles) and you will conduct some general outside research (Dictionary, Encyclopedia) to tie this article to the course themes, your specific theme, and the assigned text. Groups will sit or stand in the front of the class and teach the secondary source and aspects of the day’s assigned reading for at least 30 minutes, but presentations can last the full class time. 
+For this artifact all students will be assigned to a group and will present on a secondary source related to our primary text and a broader theme (Imperialism, the Woman Question, _etcetera_). Your instructor will provide access to this source (Canvas -> Files -> Artifact #1 -> Artifact #1 Articles) and you will conduct some general outside research (Dictionary, Encyclopedia) to tie this article to the course themes, your specific theme, and the assigned text. Groups will sit or stand in the front of the class and teach the secondary source and aspects of the day’s assigned reading for at least 30 minutes, but presentations can last the full class time. 
 
 Presentations will explain how this source opens up new ideas about history, culture, and literature. Remember: only your group will read this source, so be sure to explain important keywords and concepts in a manner that everyone will understand. However, your presentation may inspire your peers to read the article and cite it in later Artifacts. Your instructor has selected these particular texts because they illuminate larger more thematic ideas, so endeavor to tease these out. Groups do not need to become experts on their secondary sources, but they must be able to speak about these challenging texts in a thoughtful manner for the context of our course. 
 
@@ -28,7 +28,7 @@ Presenters must generate thought-provoking questions intended to make their assi
 
 
 <h3>Slides & Handout</h3>
-<h4>Post slides & handout to our course management site 24-hours AFTER your presentation (Canvas -> Resources -> Artifact #1 -> Artifact #1 Presentations -> Appropriate Section # [A4, B7, HP2]). Please make a folder for your materials (title with the date and theme of your presentation. For example: "9-8 Imperial Gothic") and be sure that the file titles include the last names of your team members</h4>
+<h4>Post slides & handout to our course management site 24-hours AFTER your presentation (Canvas -> Files -> Artifact #1 -> Artifact #1 Presentations -> Appropriate Section # [A4, B7, HP2]). Please make a folder for your materials (title with the date and theme of your presentation. For example: "2-7 The New Woman") and be sure that the file titles include the last names of your team members</h4>
 
 Presentations must include a digital slide presentation (Google Slides, Power Point, Keynote) that will inspire and guide your audience. Groups must also design a handout that summarizes the assigned secondary source in a concise and clear manner, relates the source to overarching course themes and texts, and lists at least three questions they identify as emerging from the text. Be sure to print enough copies for the class.
 
@@ -51,10 +51,9 @@ This assignment challenges students in three ways:
 
 <h3>Reflection</h3>
 
-* Reflect upon your strengths and weaknesses in completing the project.
-* What part of this project did you enjoy most and least?
-* What was the most challenging aspect of completing Artifact #1.
-* What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
-* What modes does your artifact incorporate? Does one take precedence over the others?
+* What were the main intellectual goals of the assignment? Please situate these goals in terms of the course theme and in terms of the communication strategies you were to learn or practice.
+* What is your argument or purpose? How did you make the argument or purpose visible and persuasive in your artifact?
+* Who is the intended audience for your artifact? Why is this an appropriate audience? How is your choice of audience reflected in your artifact?
+* What are the defining features of the genre or media that you are using in this project? How do you makeuse of these features?
 * If you had more time for revision, what would you change and why?
 * What was your role or title in this group assignment? How did you contribute to completing this project? What could you have done better to support your team? Do you want to share anything about your experience working in this group?

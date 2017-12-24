@@ -5,7 +5,7 @@
 
 <a href="https://kholterhoff.github.io/S18_ENG_1102/Victorian_Digital_Humanities">Calendar</a>  |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-Students will create and justify illustrations and data sets to accompany one novel by H. Rider Haggard. To complete this artifact students will select one of Haggard’s novels from the list below to read outside of class. They will then write descriptive metadata for each of the images associated with this novel archived on <a href="www.visualhaggard.org">Visual Haggard: The Illustration Archive</a>. These tags must conform to the standards and conventions established during class discussion, and in secondary sources like the Library of Congress Subject Headings; the J. Paul Getty Trust’s Categories for the Description of Works of Art and the Visual Resources Association. Students will then use this dataset create a new illustration. Finally, students will write a statement (1,000 words) reflecting on the assignment and explaining what quantitative data sets reveal to be the most compelling, surprising, and/ or historically significant argument that their data reveals.
+Students will create and justify illustrations and data sets to accompany one novel by H. Rider Haggard. To complete this artifact students will select one of Haggard’s novels from the list below to read outside of class. They will then write descriptive metadata for each of the images associated with this novel archived on <a href="www.visualhaggard.org">Visual Haggard: The Illustration Archive</a>. These tags must conform to the standards and conventions established during class discussion, and in secondary sources like <a href="http://id.loc.gov/authorities/subjects.html">the Library of Congress Subject Headings</a>; <a href="http://www.getty.edu/research/publications/electronic_publications/cdwa/">the J. Paul Getty Trust’s Categories for the Description of Works of Art</a>, and <a href="http://vraweb.org/">the Visual Resources Association</a>. Students will then use this dataset create a new illustration. Finally, students will write a statement (1,000 words) reflecting on the assignment and explaining what quantitative data sets reveal to be the most compelling, surprising, and/ or historically significant argument that their data reveals.
 
 
 <h2>Goals</h2>
@@ -13,7 +13,7 @@ Students will create and justify illustrations and data sets to accompany one no
 This assignment challenges students in three ways:
 
 * First, it asks students to understand and use the conventions of metadata creation for images.
-* Second, it asks students to think and write critically about the categorization and visualization of large datasets.
+* Second, it asks students to think and write critically about the categorization and significance of large datasets.
 * Third, it asks students to apply course themes to the analysis of fiction.
 
 

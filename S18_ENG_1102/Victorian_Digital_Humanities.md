@@ -54,3 +54,6 @@
 ||Friday, April 20 | Multimedia Portfolios|
 |**Week 15**|Monday, April 23 | Last Day |
 |**Exam Week**|Monday, April 26 - May 3| |
+||Friday, April 27 8:00 AM ‐ 10:50 AM| Section A4 |
+||Friday, April 27 11:30 AM ‐ 2:20 PM| Section B7 |
+||Wednesday, May 2 11:30 AM ‐ 2:20 PM| Section HP2 |

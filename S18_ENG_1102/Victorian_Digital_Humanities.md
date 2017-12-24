@@ -21,19 +21,19 @@
 |**Week 4**|Monday, January 29 | _She_  Chapters 10-15 |
 ||Wednesday, January 31 | _She_ Appendix C |
 ||Friday, February 2 | _She_ Chapters 16-18 |
-|**Week 5**|Monday, February 5 | _She_ Chapters 19-24 |
+|**Week 5**|Monday, February 5 | _She_ Chapters 19-23 |
 ||Wednesday, February 7 | _She_ Appendix D |
-||Friday, February 9 | _She_ Chapters 25-28 | 
-|**Week 6**|Monday, February 12 | |
-||Wednesday, February 14 |  | 
-||Friday, February 16 |  |
+||Friday, February 9 | _She_ Chapters 24-25 | 
+|**Week 6**|Monday, February 12 | _She_ Chapters 26-28 |
+||Wednesday, February 14 |  |
+||Friday, February 16 | _Nemo: Heart of Ice_ |
 |**Week 7**|Monday, February 19 |  |
-||Wednesday, February 21 |  | 
+||Wednesday, February 21 | _The Rundown_ (Canvas) | 
 ||Friday, February 23 |  |
-|**Week 8**|Monday, February 26	| |
+|**Week 8**|Monday, February 26	|  |
 ||Wednesday, February 28 |  |
 ||Friday, March 2 | |
-|**Week 9**|Monday, March 5 | |
+|**Week 9**|Monday, March 5 | **Artifact #2 Due** |
 ||Wednesday, March 7 |  | 
 ||Friday, March 9 |  |
 |**Week 10**|Monday, March 12 |  |
@@ -48,7 +48,7 @@
 ||Friday, April 6 |  |
 |**Week 13**|Monday, April 9 |  |
 ||Wednesday, April 11 |	|
-||Friday, April 13 |	|
+||Friday, April 13 |	**Artifact #3 Due** |
 |**Week 14**|Monday, April 16	 | Introduce Multimedia Portfolios|
 ||Wednesday, April 18 | Multimedia Portfolios| 
 ||Friday, April 20 | Multimedia Portfolios|

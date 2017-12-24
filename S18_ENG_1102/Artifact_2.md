@@ -5,9 +5,7 @@
 
 <a href="https://kholterhoff.github.io/S18_ENG_1102/Victorian_Digital_Humanities">Calendar</a>  |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-Students will create and justify data sets and a collage and paper circuit illustration to accompany one novel by H. Rider Haggard. To complete this artifact students will not only write datasets they will design and create an illustration best fitted to convey the significance of their findings. This project has three parts: 1) a data set, 2) a collage and paper circuit illustration, 3) a supporting statement.
-
-Students will select one of Haggard’s novels from the list below to read outside of class. They will then write descriptive metadata for each of the images associated with this novel archived on <a href="www.visualhaggard.org">Visual Haggard: The Illustration Archive</a>. These tags must conform to the standards and conventions established during class discussion, and in secondary sources like the Library of Congress Subject Headings; the J. Paul Getty Trust’s Categories for the Description of Works of Art and the Visual Resources Association. Students will then use this dataset create a new illustration. Finally, students will write a statement (1,000 words) reflecting on the assignment and explaining what quantitative data sets reveal to be the most compelling, surprising, and/ or historically significant argument that their data reveals.
+Students will create and justify illustrations and data sets to accompany one novel by H. Rider Haggard. To complete this artifact students will select one of Haggard’s novels from the list below to read outside of class. They will then write descriptive metadata for each of the images associated with this novel archived on <a href="www.visualhaggard.org">Visual Haggard: The Illustration Archive</a>. These tags must conform to the standards and conventions established during class discussion, and in secondary sources like the Library of Congress Subject Headings; the J. Paul Getty Trust’s Categories for the Description of Works of Art and the Visual Resources Association. Students will then use this dataset create a new illustration. Finally, students will write a statement (1,000 words) reflecting on the assignment and explaining what quantitative data sets reveal to be the most compelling, surprising, and/ or historically significant argument that their data reveals.
 
 
 <h2>Goals</h2>
@@ -72,7 +70,7 @@ Using Microsoft Excel or <a href="https://www.google.com/sheets/about/">Google S
 
 <h3>Collage and Paper Circuit Illustration</h3>
 
-Students will create visual interpretations of a selection of text (within 3 pages). These illustrations should reimagine and push-back on Haggard’s text and possibly an illustrator’s interpretation of it (Satire, Remix). You should not simply copy the illustration, but rather reinvent it. The best projects will demonstrate 1) planning, 2) time, and 3) an interesting and thoughtful intervention in Haggard’s text.
+Students will create visual interpretations of a selection of text based on a pattern identified in their data sets. Using Open Refine students will identify patterns in the datasets they write. These might include the number times a male protagonist appears in a standing position compared to the female protagonist. These illustrations should reimagine and push-back on Haggard’s text and possibly an illustrator’s interpretation of it (Satire, Remix). For instance, a re-mix might reverse the gender roles depicted in the nineteenth-century illustrations by showing the female characters in a standing position. You should not simply copy an existing illustration, but rather reinvent it. The best projects will demonstrate 1) planning, 2) time, and 3) an interesting and thoughtful intervention in Haggard’s text.
 
 Before beginning your design, decide what elements must be included in this illustration (characters, plot, scenery). How should these elements be arranged? Could you illustrate this scene in order to make a political statement? What strategies might you use to critique Haggard’s attitudes in regards to race, gender, religion, etc.? How could you update the scene for the modern-day? Illustrations can be as realistic or abstract and even non-objective as you choose. You should sketch out your plan before Friday, 4/7, so that you can devote the entire class period to making the illustration. In fact, you may wish to print out images to add to your collage.
 
@@ -88,10 +86,10 @@ Reflect on the process of creating your visualizations in a 2-3 page (1,000 word
 
 <h3>Timeline</h3>
 
-* Wednesday TBD: In-Design Tutorial. Meet in Homer Rice Room.
+* TBD: Open Refine Tutorial. Meet in Homer Rice Room.
 * Friday TBD: Pick your Victorian text <a href="">Section A4</a>; <a href="">Section B7</a>; <a href="">Section HP2</a>.
 * Monday TBD during class: Have your spreadsheet list of illustration tags completed for class.
-* Wednesday TBD during class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally.
+* Wednesday
 * Friday TBD: Complete Project due.
 
 

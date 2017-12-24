@@ -5,10 +5,10 @@
 
 <a href="https://kholterhoff.github.io/S18_ENG_1102/Victorian_Digital_Humanities">Calendar</a>  |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-Students will create and justify data visualizations about illustrations created to accompany H.Rider Haggard’s novels. To complete this artifact students will not only write datasets, they will curate the visualization best fitted to convey the significance of their findings. This project has three parts—1) a data set, 2) 3 data visualizations, 3) a supporting statement—which must be completed and submitted in a dossier.
+Students in groups of 4 or 5 will formulate a research question and create a data visualization using an assigned periodical on <a href="https://www.hathitrust.org/">HathiTrust</a> to. 
 
-8-literaryorganism-v2
-Stefanie Posavec, “Literary Organism”
+about illustrations created to accompany H.Rider Haggard’s novels. To complete this artifact students will not only write datasets, they will curate the visualization best fitted to convey the significance of their findings. This project has three parts—1) a data set, 2) 3 data visualizations, 3) a supporting statement—which must be completed and submitted in a dossier.
+
 Students in groups of 4 or 5 will read one of Haggard’s fifty novels outside of class. Groups will then write descriptive metadata for each of the images associated with this novel archived on Visual Haggard: The Illustration Archive. These tags must conform to the standards and conventions established during class discussion, and in secondary sources like the Library of Congress Subject Headings; the J. Paul Getty Trust’s Categories for the Description of Works of Art and the Visual Resources Association. Groups will use this dataset to create at least three visualizations that make an argument about that data. Finally, students will write a statement (1,000 words) reflecting on the assignment and explaining which of these visualizations reveals the most compelling, surprising, and/ or historically significant argument about their data.
 
 
@@ -67,34 +67,21 @@ Legend stating pertinent explanatory information; the data’s source (Visual Ha
 As a group, reflect on the process of creating your visualizations in a 2-3 page (1,000 word) supporting statement. How did your teammates decide which visualization reveals the most interesting argument? What did your group notice about the dataset? What were the major differences between your several visualizations? What argument does this dataset allow you to make about the illustrations created to accompany Haggard’s novel? What patterns do you notice in these illustrations?
 
 
-<h3>List of Books</h3>
+<h3>List of Periodicals</h3>
 
-* _Allan and the Holy Flower_
-* _Allan Quatermain_
-* _Allan’s Wife_
-* _Beatrice_
-* _Benita_
-* _Black Heart and White Heart and Other Stories_
-* _The Brethren_
-* _Cleopatra_
-* _Dawn_
-* _Eric Brighteyes_
-* _Fair Margaret_
-* _The Heart of the World_
-* _Jess_
-* _Joan Haste_
-* _Lysbeth, A Tale of the Dutch_
-* _Maiwa’s Revenge_
-* _Marie_
-* _Montezuma’s Daughter_
-* _Mr. Meeson’s Will_
-* _Nada the Lilly_
-* _Pearl Maiden: A Tale of the Fall of Jerusalem_
-* _The People of the Mist_
-* _Swallow_
-* _The Witch’s Head_
-* _The Wizard_
-* _The World’s Desire_
+* <a href="https://catalog.hathitrust.org/Record/000600035">_Pall Mall Magazine_</a>
+* <a href="https://catalog.hathitrust.org/Record/000642318">_The Strand_</a>
+* <a href="https://catalog.hathitrust.org/Record/100615477">_The Windsor Magazine"_</a>
+* <a href="https://catalog.hathitrust.org/Record/000535554">_Longman's Magazine_</a>
+* <a href="https://catalog.hathitrust.org/Record/000520935">_Illustrated London News_</a>
+* <a href="https://catalog.hathitrust.org/Record/009368685">_Lady's Realm_</a>
+* <a href="https://catalog.hathitrust.org/Record/000522322">_The Cornhill Magazine_</a>
+* <a href="https://catalog.hathitrust.org/Record/000495191">_Pearson's Magazine_</a>
+* <a href="https://catalog.hathitrust.org/Record/008696269">_Nash's Pall Mall Magazine_</a>
+* <a href="https://catalog.hathitrust.org/Record/008882609">_Fortnightly Review_</a>
+* <a href="https://catalog.hathitrust.org/Record/000527329">_The Quarterly Review_</a>
+* <a href="https://catalog.hathitrust.org/Record/006061853">_The Monthly Review_</a>
+* <a href="https://catalog.hathitrust.org/Record/000525129">_The Contemporary Review_</a>
 
 
 <h3>Timeline</h3>
@@ -108,9 +95,8 @@ As a group, reflect on the process of creating your visualizations in a 2-3 page
 
 <h3>Reflection</h3>
 
-* Reflect upon your strengths and weaknesses in completing the project.
-* Describe the methods and modes that were the focus of your communicative work in the project.
-* Articulate areas and strategies you would like to focus on for continued improvement.
-* What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
-* Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
-* What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?
+* What were the main intellectual goals of the assignment? Please situate these goals in terms of the course theme and in terms of the communication strategies you were to learn or practice.
+* What is your argument or purpose? How did you make the argument or purpose visible and persuasive in your artifact?
+* Who is the intended audience for your artifact? Why is this an appropriate audience? How is your choice of audience reflected in your artifact?
+* What are the defining features of the genre or media that you are using in this project? How do you makeuse of these features?
+* If you had more time for revision, what would you change and why?

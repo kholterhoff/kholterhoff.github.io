@@ -66,7 +66,7 @@ Groups will submit a 800-1,000 word <a href="http://www.meaning.ca/archives/arch
 **The methods you will employ:** After practicing extracting data from HathiTrust, and massaging this data using OpenRefine, groups should have some idea about what steps they will take to conduct this research. Explain in a step-by-step manner the methods your group will use to complete this part of the assignment.
 
 
-<h3>Visualization</h3>
+<h3>Data Visualization</h3>
 
 Once groups collect their data sets from Hathitrust, and organize their findings in order to answer their questions they will use their findings to create a visualization. I suggest students review visualization types and options using Douglas Armstrong’s <a href="https://github.com/d3/d3/wiki/Gallery">D3 Gallery on Github</a>, <a href="http://www.visualisingdata.com/">Andy Kirk’s Visualising Data</a>, and <a href="http://www.visual-literacy.org/periodic_table/periodic_table.html">A Periodic Table of Visualization Methods</a>. 
 

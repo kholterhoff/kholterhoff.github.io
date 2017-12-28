@@ -26,7 +26,7 @@ This assignment challenges students in four ways:
 
 &nbsp;&nbsp;**“Judge a man by his questions rather than by his answers.” ― Voltaire**
 
-Writing a good question will be the most difficult part of this assignment. Groups will select a periodical from the list below (one group per periodical). Using this corpus, students will formulate a research question that querying this massive data set using <a href="http://openrefine.org/">Open Refine</a> will permit them to answer. Students will likely need to formulate and debate several questions before selecting one that can be answered. 
+Writing a good question will be the most difficult part of this assignment. Groups will select a periodical from the list below (one group per periodical). Using this corpus, students will formulate a research question that querying this massive data set using <a href="http://openrefine.org/">OpenRefine</a> will permit them to answer. Students will likely need to formulate and debate several questions before selecting one that can be answered. 
 
 Students should conduct some preliminary research into the history and significance of their periodical. Some of these periodicals specialize in politics, others in literature. Some are illustrated, others are not. Some are politically conservative, others liberal. Some began early in the 19th century, others appeared in later. Some are high-brow, others low-brow. Some are newspapers, others are magazines. The type of periodical you select will determine the kind of questions you may ask.
 

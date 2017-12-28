@@ -40,7 +40,7 @@
 ||Wednesday, March 14 |  | 
 ||Friday, March 16 | |
 |**Spring Break**| | |
-|**Week 11**|Monday, March 26 | |
+|**Week 11**|Monday, March 26 | **Artifact #3 Research Proposal Due** |
 ||Wednesday, March 28 | | 
 ||Friday, March 30	 |	|
 |**Week 12**|Monday, April 2 | |
@@ -48,7 +48,7 @@
 ||Friday, April 6 |  |
 |**Week 13**|Monday, April 9 |  |
 ||Wednesday, April 11 |	|
-||Friday, April 13 |	**Artifact #3 Due** |
+||Friday, April 13 |	**Artifact #3 Data Visualization Due** |
 |**Week 14**|Monday, April 16	 | Introduce Multimedia Portfolios|
 ||Wednesday, April 18 | Multimedia Portfolios| 
 ||Friday, April 20 | Multimedia Portfolios|

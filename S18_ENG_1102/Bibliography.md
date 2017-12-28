@@ -82,7 +82,7 @@ Auerbach, Nina. Woman and the Demon: The Life of a Victorian Myth. Cambridge, Ma
 
 Chrisman, Laura. “The Imperial Unconscious? Representations of Imperial Discourse.” Critical Quarterly 32 (1990): 38-58. Wiley Online Library. Web. 5 June 2015.
 
-Di Piazza, Elio. “Colonial Geographies in Two Novels by H. Rider Haggard.” Literary Landscapes, Landscape in Literature. Eds. Michele Bottalico, Maria Teresa Chialant, Eleonora Rao. Rome: Carocci, 2007. 88-98. Print.
+Di Piazza, Elio. “Colonial Geographies in Two Novels by H. Rider Haggard.” _Literary Landscapes, Landscape in Literature_. Eds. Michele Bottalico, Maria Teresa Chialant, Eleonora Rao. Rome: Carocci, 2007. 88-98. Print.
 
 Fischer, Pascal. “The Graphic She: Text and Image in Rider Haggard’s Imperial Romance.” Anglia 125.2 (2007): 266-87.
 
@@ -90,7 +90,7 @@ Fisher, Judith L.. “Image versus Text in the Illustrated Novels of William Mak
 
 Gilbert, Sandra M. and Susan Gubar. “Heart of Darkness: The Agon of the Femme Fatale.” No Man’s Land: The Place of Women Writers in the Twentieth Century. Vol. 2: Sexchanges. New Haven: Yale, 1989. 3-46. Print.
 
-Reid, Julia. “Gladstone Bags, Shooting Boots, and Bryant & May’s Matches: Empire, Commerce, and the Imperial Romance in the Graphic‘s Serialization of H. Rider Haggard’s She.” Studies in the Novel 43.2 (2011): 152-78. Jstor. Web. 11 Aug 2014.
+Reid, Julia. “Gladstone Bags, Shooting Boots, and Bryant & May’s Matches: Empire, Commerce, and the Imperial Romance in the _Graphic_‘s Serialization of H. Rider Haggard’s _She_.” _Studies in the Novel_ 43.2 (2011): 152-78. _Jstor_. Web. 11 Aug 2014.
 
 Stiebel, Lindy. Imagining Africa: Landscape in H. Rider Haggard’s African Romances. Westport, Conn.: Greenwood, 2001. Print.
 
@@ -103,5 +103,3 @@ Libby, Andrew. “Revisiting the Sublime; Terrible Women and the Aesthetics of M
 Murphy, Patricia. “The Gendering of History in She.” Studies in English Literature, 1500-1900 39.4 (1999): 747-72. Jstor. Web. 30 May 2015.
 
 Pocock Tom. Rider Haggard and the Lost Empire. London: Weidenfeld and Nicolson, 1993. Print.
-Edit "Working Bibliography"
-Powered by WordPress.com.

@@ -22,7 +22,8 @@ Price, Kenneth M. and Ray Siemens, eds. Literary Studies in the Digital Age: An 
 Price, Daniel, Rex Koontz, and Lauren Lovings. “Curating Digital Spaces, Making Visual Arguments: A Case Study in New Media Presentations of Ancient Objects.” Digital Humanities Quarterly 7.2 (2013). DHQ. Web. 14 July 2014.
 
 Poole, Alex H.. “Now is the Future Now? The Urgency of Digital Curation in the Digital Humanities.” Digital Humanities Quarterly 7.2 (2013). DHQ. Web. 14 July 2014.
-Visual Culture & Illustration Studies
+
+<h3>Visual Culture & Illustration Studies</h3>
 
 Brake, Laurel. Print in Transition, 1850-1910 : Studies in Media and Book History. Gordonsville, VA: Macmillan, 2001. Print.
 
@@ -69,7 +70,8 @@ Thomas, Julia. Pictorial Victorians: the inscription of values in word and image
 Tucker, Amy. The Illustration of the Master: Henry James and the Magazine Revolution. Stanford: Stanford UP, 2010. Print.
 
 Weitenkampf, Frank. The Illustrated Book. Cambridge, MA: Harvard UP, 1938. Print
-Victorian Literature & Culture
+
+<h3>Victorian Literature & Culture</h3>
 
 Brantlinger, Patrick. Rule of Darkness: British Literature and Imperialism, 1830-1914. New York: Cornell UP, 1988. Print.
 

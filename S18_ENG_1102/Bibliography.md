@@ -10,9 +10,9 @@ This bibliography is broken up into three sections 1) Digital Humanities and Arc
 
 <h3>1) Digital Humanities and Archives</h3>
 
-Haskins, Ekaterina. “Between Archive and Participation: Public Memory in a Digital Age.” _Rhetoric Society Quarterly_ 37 (2007): 401-22.
-
 Felluga, Dino Franco. “Addressed to the Nines: The Victorian Archive and the Disappearance of the Book.” _Victorian Studies_ 48.2 (Winter 2006): 305-19.
+
+Haskins, Ekaterina. “Between Archive and Participation: Public Memory in a Digital Age.” _Rhetoric Society Quarterly_ 37 (2007): 401-22.
 
 Keene, Suzanne. “Becoming Digital.” _Museum Management and Curatorship_ 15.3 (1997): 299-313.
 
@@ -84,10 +84,6 @@ Fisher, Judith L. “Image versus Text in the Illustrated Novels of William Make
 
 Gilbert, Sandra M. and Susan Gubar. “Heart of Darkness: The Agon of the Femme Fatale.” _No Man’s Land: The Place of Women Writers in the Twentieth Century_. Vol. 2: Sexchanges. New Haven: Yale, 1989. 3-46.
 
-Reid, Julia. “Gladstone Bags, Shooting Boots, and Bryant & May’s Matches: Empire, Commerce, and the Imperial Romance in the _Graphic_‘s Serialization of H. Rider Haggard’s _She_.” _Studies in the Novel_ 43.2 (2011): 152-78.
-
-Stiebel, Lindy. _Imagining Africa: Landscape in H. Rider Haggard’s African Romances_. Westport, Conn.: Greenwood, 2001.
-
 Haggard, H. Rider. _The Days of My Life, An Autobiography_. 2 Vols. London: Longmans, Green and Co., 1926.
 
 Katz, Wendy. _R. Rider Haggard and the Fiction of Empire. A Critical Study of British Imperial Fiction_. Cambridge: Cambridge UP, 1987.
@@ -97,3 +93,7 @@ Libby, Andrew. “Revisiting the Sublime; Terrible Women and the Aesthetics of M
 Murphy, Patricia. “The Gendering of History in _She_.” _Studies in English Literature, 1500-1900_ 39.4 (1999): 747-72.
 
 Pocock Tom. _Rider Haggard and the Lost Empire_. London: Weidenfeld and Nicolson, 1993.
+
+Reid, Julia. “Gladstone Bags, Shooting Boots, and Bryant & May’s Matches: Empire, Commerce, and the Imperial Romance in the _Graphic_‘s Serialization of H. Rider Haggard’s _She_.” _Studies in the Novel_ 43.2 (2011): 152-78.
+
+Stiebel, Lindy. _Imagining Africa: Landscape in H. Rider Haggard’s African Romances_. Westport, Conn.: Greenwood, 2001.

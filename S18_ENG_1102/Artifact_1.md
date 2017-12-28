@@ -51,9 +51,9 @@ This assignment challenges students in three ways:
 
 <h3>Reflection</h3>
 
-* What were the main intellectual goals of the assignment? Please situate these goals in terms of the course theme and in terms of the communication strategies you were to learn or practice.
-* What is your argument or purpose? How did you make the argument or purpose visible and persuasive in your artifact?
-* Who is the intended audience for your artifact? Why is this an appropriate audience? How is your choice of audience reflected in your artifact?
-* What are the defining features of the genre or media that you are using in this project? How do you makeuse of these features?
-* If you had more time for revision, what would you change and why?
-* What was your role or title in this group assignment? How did you contribute to completing this project? What could you have done better to support your team? Do you want to share anything about your experience working in this group?
+* Reflect upon your strengths and weaknesses in completing the project.
+* Describe the methods and modes that were the focus of your communicative work in the project.
+* Articulate areas and strategies you would like to focus on for continued improvement.
+* What is your argument or purpose, and how did you make the argument or purpose visible in your artifact?
+* Who is the intended audience for your artifact, and why? How is your choice of audience reflected in your artifact?
+* What are the defining features of the genre or media that you are using in this project, and how do you make use of these features?

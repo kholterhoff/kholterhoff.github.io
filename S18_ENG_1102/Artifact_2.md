@@ -27,6 +27,8 @@ Students will select and read novels written by H. Rider Haggard. The text of th
 
 Using Microsoft Excel or <a href="https://www.google.com/sheets/about/">Google Sheets</a>, students will create a spreadsheet listing all the illustrations available on _Visual Haggard_ for their assigned novel. Students will write descriptive tags for each of these illustrations.
 
+Although this is an individual assignment, if student pairs reading the same Haggard text wish to collaborate on the data set, and submit this set together for their grade, I encourage you to do so. Please let me know if you choose to work with a peer on this portion of the project.
+
 
 <h4>Information to Include in Tags:</h4>
 

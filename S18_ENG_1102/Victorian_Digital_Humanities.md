@@ -15,7 +15,7 @@
 |**Week 2**|Monday, January 15 | No Class: MLK Day **Common First Week Assignment Due** |
 ||Wednesday, January 17 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) |
 ||Friday, January 19 | _She_ Introduction & Chapters 1-3 |
-|**Week 3**|Monday, January 22	 |	_She_ Chapters 4-6 |
+|**Week 3**|Monday, January 22	 |	_Jumanji: Welcome to the Jungle_(2017); _She_ Chapters 4-6 |
 ||Wednesday, January 24 | _She_ Appendix B |
 ||Friday, January 26 | _She_ Chapters 7-9 |
 |**Week 4**|Monday, January 29 | _She_  Chapters 10-15 |

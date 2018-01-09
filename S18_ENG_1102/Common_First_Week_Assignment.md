@@ -20,7 +20,7 @@ IMPORTANT: If you completed a similar video in a previous class (ENGL 1101 or EN
 
 <h3>Timeline</h3>
 
-Monday 1/15 at 9:00 AM: Assignment due on Canvas
+Monday 1/17 at 9:00 AM: Assignment due on Canvas
 
 
 <h3>Reflection</h3>

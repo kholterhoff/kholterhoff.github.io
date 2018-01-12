@@ -11,11 +11,11 @@
 |----|--------------|----------------------------------------------|
 |**Week 1**|Monday, January 8 | |
 ||Wednesday, January 10 |  Review syllabus. Sign and return syllabus form. Review _WOVENText_ "Part 2: How Can I Use WOVEN Communication?" 29-83. |
-||Friday, January 12 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). |
+||Friday, January 12 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). <a href="https://www.npr.org/sections/health-shots/2018/01/10/577046624/a-scientists-gender-can-skew-research-results">In-Class Activity</a>|
 |**Week 2**|Monday, January 15 | No Class: MLK Day |
 ||Wednesday, January 17 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) **Common First Week Assignment Due**|
 ||Friday, January 19 | _She_ Introduction & Chapters 1-3 |
-|**Week 3**|Monday, January 22	 |	_Jumanji: Welcome to the Jungle_ (2017); _She_ Chapters 4-6 |
+|**Week 3**|Monday, January 22	 |	Watch _Jumanji: Welcome to the Jungle_ (2017) by classtime; <a href="https://kholterhoff.github.io/S18_ENG_1102/Jumanji">Tweet a response to at least 1 discussion question</a> ; _She_ Chapters 4-6 |
 ||Wednesday, January 24 | _She_ Appendix B |
 ||Friday, January 26 | _She_ Chapters 7-9 |
 |**Week 4**|Monday, January 29 | _She_  Chapters 10-15 |
@@ -31,11 +31,11 @@
 ||Wednesday, February 21 | _The Rundown_ (Canvas) | 
 ||Friday, February 23 |  |
 |**Week 8**|Monday, February 26	|  |
-||Wednesday, February 28 |  |
+||Wednesday, February 28 | Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |
 ||Friday, March 2 | |
-|**Week 9**|Monday, March 5 | **Artifact #2 Due** |
+|**Week 9**|Monday, March 5 | **Artifact #2 Due**  |
 ||Wednesday, March 7 |  | 
-||Friday, March 9 |  |
+||Friday, March 9 | |
 |**Week 10**|Monday, March 12 |  |
 ||Wednesday, March 14 |  | 
 ||Friday, March 16 | |

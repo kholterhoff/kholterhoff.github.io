@@ -11,7 +11,7 @@
 |----|--------------|----------------------------------------------|
 |**Week 1**|Monday, January 8 | |
 ||Wednesday, January 10 |  Review syllabus. Sign and return syllabus form. Review _WOVENText_ "Part 2: How Can I Use WOVEN Communication?" 29-83. |
-||Friday, January 12 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). <a href="https://www.npr.org/sections/health-shots/2018/01/10/577046624/a-scientists-gender-can-skew-research-results">In-Class Activity</a> |
+||Friday, January 12 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). |
 |**Week 2**|Monday, January 15 | No Class: MLK Day |
 ||Wednesday, January 17 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) **Common First Week Assignment Due**|
 ||Friday, January 19 | _She_ Introduction & Chapters 1-3 |

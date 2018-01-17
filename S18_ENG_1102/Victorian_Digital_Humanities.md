@@ -9,42 +9,42 @@
 
 |Week|Date| Homework (Due that day)|
 |----|--------------|----------------------------------------------|
-|**Week 1**|Monday, January 8 | |
+|**Week 1**|Monday, January 8 | No Class: Snow Day |
 ||Wednesday, January 10 |  Review syllabus. Sign and return syllabus form. Review _WOVENText_ "Part 2: How Can I Use WOVEN Communication?" 29-83. |
 ||Friday, January 12 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). |
 |**Week 2**|Monday, January 15 | No Class: MLK Day |
-||Wednesday, January 17 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) **Common First Week Assignment Due**|
-||Friday, January 19 | _She_ Introduction & Chapters 1-3 |
-|**Week 3**|Monday, January 22	 |	Watch _Jumanji: Welcome to the Jungle_ (2017) by classtime; <a href="https://kholterhoff.github.io/S18_ENG_1102/Jumanji">Tweet a response to at least 1 discussion question</a> ; _She_ Chapters 4-6 |
-||Wednesday, January 24 | _She_ Chapters 7-9 |
-||Friday, January 26 | _She_ Appendix B |
-|**Week 4**|Monday, January 29 | _She_  Chapters 10-15 |
-||Wednesday, January 31 | _She_ Appendix C |
-||Friday, February 2 | _She_ Chapters 16-18 |
-|**Week 5**|Monday, February 5 | _She_ Chapters 19-23 |
-||Wednesday, February 7 | _She_ Appendix D |
-||Friday, February 9 | _She_ Chapters 24-25 | 
-|**Week 6**|Monday, February 12 | _She_ Chapters 26-28 |
-||Wednesday, February 14 |  |
-||Friday, February 16 | _Nemo: Heart of Ice_ |
-|**Week 7**|Monday, February 19 |  |
-||Wednesday, February 21 | _The Rundown_ (Canvas) | 
+||Wednesday, January 17 | No Class: Snow Day **Common First Week Assignment Due**|
+||Friday, January 19 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) |
+|**Week 3**|Monday, January 22	 | Watch _Jumanji: Welcome to the Jungle_ (2017) by classtime; <a href="https://kholterhoff.github.io/S18_ENG_1102/Jumanji">Tweet a response to at least 1 discussion question</a> |
+||Wednesday, January 24 | _She_ Introduction & Chapters 1-3|
+||Friday, January 26 | _She_ Chapters 4-6 |
+|**Week 4**|Monday, January 29 | _She_ Appendix B; In class: Victorian Archaeology: Mummies and Lost Cities Presentation |
+||Wednesday, January 31 | _She_ Chapters 7-9  |
+||Friday, February 2 | _She_ Appendix C In class: Race and Empire Presentation |
+|**Week 5**|Monday, February 5 | _She_  Chapters 10-15  |
+||Wednesday, February 7 | _ She_ Chapters 16-18  |
+||Friday, February 9 | _She_ Appendix D In class: The New Woman Presentation | 
+|**Week 6**|Monday, February 12 | _She_ Chapters 19-23 |
+||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press  |
+||Friday, February 16 | _She_ Chapters 24-25 |
+|**Week 7**|Monday, February 19 | _She_ Chapters 26-28 |
+||Wednesday, February 21 | _The Rundown_ (Canvas); In class: Adaptation Presentation | 
 ||Friday, February 23 |  |
-|**Week 8**|Monday, February 26	|  |
-||Wednesday, February 28 | Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |
-||Friday, March 2 | |
-|**Week 9**|Monday, March 5 | **Artifact #2 Due**  |
-||Wednesday, March 7 |  | 
-||Friday, March 9 | |
-|**Week 10**|Monday, March 12 |  |
-||Wednesday, March 14 |  | 
-||Friday, March 16 | |
+|**Week 8**|Monday, February 26	| _Nemo: Heart of Ice_ (Canvas) |
+||Wednesday, February 28 | In class: Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |
+||Friday, March 2 | In class: Illustration Presentation |
+|**Week 9**|Monday, March 5 | **Artifact #2 Due**; In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
+||Wednesday, March 7 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
+||Friday, March 9 | In class: Digital Humanities Presentation |
+|**Week 10**|Monday, March 12 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
+||Wednesday, March 14 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
+||Friday, March 16 | In class: Book History Presentation |
 |**Spring Break**| | |
 |**Week 11**|Monday, March 26 | **Artifact #3 Research Proposal Due** |
 ||Wednesday, March 28 | | 
 ||Friday, March 30	 |	|
-|**Week 12**|Monday, April 2 | |
-||Wednesday, April 4 | | 
+|**Week 12**|Monday, April 2 | Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
+||Wednesday, April 4 | Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
 ||Friday, April 6 |  |
 |**Week 13**|Monday, April 9 |  |
 ||Wednesday, April 11 |	|

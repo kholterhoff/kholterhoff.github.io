@@ -22,7 +22,7 @@
 ||Wednesday, January 31 | _She_ Chapters 7-9  |
 ||Friday, February 2 | _She_ Appendix C In class: Race and Empire Presentation |
 |**Week 5**|Monday, February 5 | _She_  Chapters 10-15  |
-||Wednesday, February 7 | _ She_ Chapters 16-18  |
+||Wednesday, February 7 | _She_ Chapters 16-18  |
 ||Friday, February 9 | _She_ Appendix D In class: The New Woman Presentation | 
 |**Week 6**|Monday, February 12 | _She_ Chapters 19-23 |
 ||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press  |

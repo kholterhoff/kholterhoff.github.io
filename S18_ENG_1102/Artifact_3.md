@@ -68,7 +68,7 @@ Groups will submit a 800-1,000 word <a href="http://www.meaning.ca/archives/arch
 
 <h3>Data Visualization</h3>
 
-Once groups collect their data sets from Hathitrust, and organize their findings in order to answer their questions they will use their findings to create a visualization. I suggest students review visualization types and options using Douglas Armstrong’s <a href="https://github.com/d3/d3/wiki/Gallery">D3 Gallery on Github</a>, <a href="http://www.visualisingdata.com/">Andy Kirk’s Visualising Data</a>, and <a href="http://www.visual-literacy.org/periodic_table/periodic_table.html">A Periodic Table of Visualization Methods</a>. 
+Once groups collect their data sets from Hathitrust, and organize their findings in order to answer their questions they will use their findings to create a visualization. I suggest students review visualization types and options using Douglas Armstrong’s <a href="https://github.com/d3/d3/wiki/Gallery">D3 Gallery on Github</a>, <a href="http://www.visualisingdata.com/">Andy Kirk’s Visualising Data</a>, and <a href="http://www.visual-literacy.org/periodic_table/periodic_table.html">A Periodic Table of Visualization Methods</a>. We will use the tools <a href="https://www.tableau.com/">Tableau</a> and <a href="https://plot.ly/">Plotly</a> to create our visualizations.
 
 In class we will use your data sets from Artifact #2 to practice creating data visualizations. I will offer extra credit for any student that submits a polished visualization of these practice visualizations for inclusion in <a href="http://scalar.usc.edu/works/visualizing-visual-haggard/index">Visualizing Visual Haggard</a>.
 
@@ -85,7 +85,6 @@ Visualizations are arguments about datasets. For this reason visualizations must
 
 <h3>Timeline</h3>
 
-* TBD: OpenRefine Tutorial.
 * Friday, March 9: Pick your Victorian periodical by midnight. **Form released at 2:00 pm. <a href="">Section A4</a>; <a href="">Section B7</a>; <a href="">Section HP2</a>.**
 * Monday, March 26 at midnight: Submit Research Proposal
 * Monday, April 9 during class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally.

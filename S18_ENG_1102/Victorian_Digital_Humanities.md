@@ -14,7 +14,7 @@
 ||Friday, January 12 | Review _WOVENText_ pages about portfolio/Mahara (Ch. 7, pp. 151-158). |
 |**Week 2**|Monday, January 15 | No Class: MLK Day |
 ||Wednesday, January 17 | No Class: Snow Day **Common First Week Assignment Due**|
-||Friday, January 19 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) Class Notes <a href="https://docs.google.com/document/d/1-PaGcRXpzZ3rJSk6cUf3HpSoABczAzkVqxXRHRA3LdY/edit?usp=sharing">Section A4</a>; <a href="https://docs.google.com/document/d/1-PaGcRXpzZ3rJSk6cUf3HpSoABczAzkVqxXRHRA3LdY/edit?usp=sharing">Section B7</a>; Section <a href="https://docs.google.com/document/d/1-PaGcRXpzZ3rJSk6cUf3HpSoABczAzkVqxXRHRA3LdY/edit?usp=sharing">HP2</a> |
+||Friday, January 19 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) Class Notes <a href="https://docs.google.com/document/d/1-PaGcRXpzZ3rJSk6cUf3HpSoABczAzkVqxXRHRA3LdY/edit?usp=sharing">Section A4</a>; <a href="https://docs.google.com/document/d/1FS8fo9oBNhwzj8uGvpghfuyZ81N9gKSb5UvP3J_Athw/edit?usp=sharing">Section B7</a>; Section <a href="https://docs.google.com/document/d/1-PaGcRXpzZ3rJSk6cUf3HpSoABczAzkVqxXRHRA3LdY/edit?usp=sharing">HP2</a> |
 |**Week 3**|Monday, January 22	 | Watch _Jumanji: Welcome to the Jungle_ (2017) by classtime; <a href="https://kholterhoff.github.io/S18_ENG_1102/Jumanji">Tweet a response to at least 1 discussion question</a> |
 ||Wednesday, January 24 | _She_ Introduction & Chapters 1-3|
 ||Friday, January 26 | _She_ Chapters 4-6 |

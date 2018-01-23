@@ -28,7 +28,7 @@
 ||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press  |
 ||Friday, February 16 | _She_ Chapters 24-25 |
 |**Week 7**|Monday, February 19 | _She_ Chapters 26-28 |
-||Wednesday, February 21 | _The Rundown_ (Canvas); In class: Adaptation Presentation | 
+||Wednesday, February 21 | _She_ (Canvas); In class: Adaptation Presentation | 
 ||Friday, February 23 |  |
 |**Week 8**|Monday, February 26	| _Nemo: Heart of Ice_ (Canvas) |
 ||Wednesday, February 28 | In class: Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |

@@ -3,6 +3,6 @@
 
 <h1>Quiz</h1>
 
-<a href="https://kholterhoff.github.io/S18_ENG_1102/Victorians_In_Cyberspace">Calendar</a>  |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
+<a href="https://kholterhoff.github.io/S18_ENG_1102/Victorian_Digital_Humanities">Calendar</a>  |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Common_First_Week_Assignment">Common First Week Assignment</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_1">Artifact #1</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_2">Artifact #2</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Artifact_3">Artifact #3</a> |  <a href="https://kholterhoff.github.io/S18_ENG_1102/Twitter">Twitter</a> | <a href="https://kholterhoff.github.io/S18_ENG_1102/Multimedia_Portfolio">Multimedia Portfolio</a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdUl5oDxaC_3Y5F9zm4vGEWS9iLbkYTaG15WywPdZ8CJKRGpw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc7PcxfjoApOV3nQovh1MvwGjT-T1ds8JrEt0lzSUiA0pk2Yg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

@@ -16,7 +16,7 @@
 ||Wednesday, January 17 | No Class: Snow Day **Common First Week Assignment Due**|
 ||Friday, January 19 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) |
 |**Week 3**|Monday, January 22	 | Watch _Jumanji: Welcome to the Jungle_ (2017) by classtime; <a href="https://kholterhoff.github.io/S18_ENG_1102/Jumanji">Tweet a response to at least 1 discussion question</a> |
-||Wednesday, January 24 | _She_ Haggard's Introduction (not the editor's Intro) & Chapters 1-3|
+||Wednesday, January 24 | _She_ Haggard's Introduction (not the editor's Intro) & Chapters 1-3; <a href"https://kholterhoff.github.io/S18_ENG_1102/Quiz">Quiz</a>|
 ||Friday, January 26 | _She_ Chapters 4-6 |
 |**Week 4**|Monday, January 29 | _She_ Appendix B; In class: Victorian Archaeology: Mummies and Lost Cities Presentation |
 ||Wednesday, January 31 | _She_ Chapters 7-9  |

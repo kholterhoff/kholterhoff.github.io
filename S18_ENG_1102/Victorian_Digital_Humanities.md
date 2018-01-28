@@ -18,7 +18,7 @@
 |**Week 3**|Monday, January 22	 | Watch _Jumanji: Welcome to the Jungle_ (2017) by classtime; <a href="https://kholterhoff.github.io/S18_ENG_1102/Jumanji">Tweet a response to at least 1 discussion question</a> |
 ||Wednesday, January 24 | _She_ Haggard's Introduction (not the editor's Intro) & Chapters 1-3; <a href="https://kholterhoff.github.io/S18_ENG_1102/Quiz">Quiz</a>|
 ||Friday, January 26 | _She_ Chapters 4-6 |
-|**Week 4**|Monday, January 29 | _She_ Appendix B; In class: Victorian Archaeology: Mummies and Lost Cities Presentation |
+|**Week 4**|Monday, January 29 | _She_ Appendix B (pp. 302-319); In class: Victorian Archaeology: Mummies and Lost Cities Presentation |
 ||Wednesday, January 31 | _She_ Chapters 7-9  |
 ||Friday, February 2 | _She_ Appendix C; In class: Race and Empire Presentation |
 |**Week 5**|Monday, February 5 | _She_  Chapters 10-15  |

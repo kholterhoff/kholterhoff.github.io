@@ -20,8 +20,7 @@
 ||Friday, January 26 | _She_ Chapters 4-6 |
 |**Week 4**|Monday, January 29 | _She_ Appendix B (pp. 302-319); In class: Victorian Archaeology: Mummies and Lost Cities Presentation |
 ||Wednesday, January 31 | _She_ Chapters 7-9  |
-||Friday, February 2 | _She_ Appendix C; In class: Race and Empire Presentation; <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVyAageVGNwLActo14fjDhJY4wpeVSdF0DdpfgOK8L3RLzFw/viewform?c=0&w=1&usp=mail_form_link
-">link for Section HP2</a> |
+||Friday, February 2 | _She_ Appendix C; In class: Race and Empire Presentation; <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVyAageVGNwLActo14fjDhJY4wpeVSdF0DdpfgOK8L3RLzFw/viewform?c=0&w=1&usp=mail_form_link">link for Section HP2</a> |
 |**Week 5**|Monday, February 5 | _She_  Chapters 10-15;  Beginning at 9:00 AM select a Haggard text <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-XJhCCw6f50SQh6OawU_405XRw642HpTD-78KZ5hOJ4ywzQ/viewform?usp=sf_link">Section A4</a>; <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwCl2u8YA3uwix8J6fG77I9yTddnbERzXoM53qXmAj_AxOjA/viewform?usp=sf_link">Section B7</a>; <a href="https://docs.google.com/forms/d/e/1FAIpQLScHjcemFT1qFvRUX8QZW7ceF95Ea0mxuWoM9vHGG7j1MYt8EQ/viewform?usp=sf_link">Section HP2</a>  |
 ||Wednesday, February 7 | _She_ Chapters 16-18  |
 ||Friday, February 9 | _She_ Appendix D; In class: The New Woman Presentation | 

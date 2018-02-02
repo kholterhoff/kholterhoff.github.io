@@ -65,7 +65,7 @@ Reflect on the process of creating your data set and illustration in a 500-word 
 
 <h3>Timeline</h3>
 
-* Monday, February 5 at 9:00 AM: Selection form for Haggard text released <a href="">Section A4</a>; <a href="">Section B7</a>; <a href="">Section HP2</a>.
+* Monday, February 5 at 9:00 AM: Selection form for Haggard text released <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-XJhCCw6f50SQh6OawU_405XRw642HpTD-78KZ5hOJ4ywzQ/viewform?usp=sf_link">Section A4</a>; <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwCl2u8YA3uwix8J6fG77I9yTddnbERzXoM53qXmAj_AxOjA/viewform?usp=sf_link">Section B7</a>; <a href="https://docs.google.com/forms/d/e/1FAIpQLScHjcemFT1qFvRUX8QZW7ceF95Ea0mxuWoM9vHGG7j1MYt8EQ/viewform?usp=sf_link">Section HP2</a>.
 * Friday, February 23 In class: Bring in a design of your illustration to critique 
 * Wednesday, February 28 In class: Paper Circuit Tutorial with Ashley Schick (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>)
 * Monday, March 5: Complete Project Due. 1) Physical illustration (and digital scans or photo of illustration); 2) Spread sheet; 3) Supporting document.

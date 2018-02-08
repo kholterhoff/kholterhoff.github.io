@@ -21,14 +21,14 @@
 |**Week 4**|Monday, January 29 | _She_ Appendix B (pp. 302-319); In class: Victorian Archaeology: Mummies and Lost Cities Presentation |
 ||Wednesday, January 31 | _She_ Chapters 7-9  |
 ||Friday, February 2 | _She_ Appendix C; In class: Race and Empire Presentation; <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVyAageVGNwLActo14fjDhJY4wpeVSdF0DdpfgOK8L3RLzFw/viewform?c=0&w=1&usp=mail_form_link">link for Section HP2</a> |
-|**Week 5**|Monday, February 5 | _She_  Chapters 10-15;  Beginning at 9:00 AM select a Haggard text <a href="https://docs.google.com/forms/d/e/1FAIpQLSd-XJhCCw6f50SQh6OawU_405XRw642HpTD-78KZ5hOJ4ywzQ/viewform?usp=sf_link">Section A4</a>; <a href="https://docs.google.com/forms/d/e/1FAIpQLSdwCl2u8YA3uwix8J6fG77I9yTddnbERzXoM53qXmAj_AxOjA/viewform?usp=sf_link">Section B7</a>; <a href="https://docs.google.com/forms/d/e/1FAIpQLScHjcemFT1qFvRUX8QZW7ceF95Ea0mxuWoM9vHGG7j1MYt8EQ/viewform?usp=sf_link">Section HP2</a>  |
+|**Week 5**|Monday, February 5 | _She_  Chapters 10-15;  Beginning at 9:00 AM select a Haggard text <a href="https://docs.google.com/spreadsheets/d/1NXUeytqczWhs0lQlDKndy1pAug2vs9LjlJh-gmakV0Y/edit?usp=sharing">Section A4</a>; <a href="https://docs.google.com/spreadsheets/d/1HkA2nY2ijlp7B2mIeJCScwm9X0qA4dWhGqivKELOWKo/edit?usp=sharing">Section B7</a>; <a href="https://docs.google.com/spreadsheets/d/1UwvK36zROo6qmU6_k_VjLcR1yyEgOMcOejwDSKNRmfc/edit?usp=sharing">Section HP2</a>  |
 ||Wednesday, February 7 | _She_ Chapters 16-18  |
 ||Friday, February 9 | _She_ Appendix D; In class: The New Woman Presentation | 
 |**Week 6**|Monday, February 12 | _She_ Chapters 19-23 |
 ||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press  |
 ||Friday, February 16 | _She_ Chapters 24-25 |
 |**Week 7**|Monday, February 19 | _She_ Chapters 26-28 |
-||Wednesday, February 21 | _She_ (Canvas); In class: Adaptation Presentation | 
+||Wednesday, February 21 | _She_(1965) film (Canvas); In class: Adaptation Presentation | 
 ||Friday, February 23 |  |
 |**Week 8**|Monday, February 26	| _Nemo: Heart of Ice_ (Canvas) |
 ||Wednesday, February 28 | In class: Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |

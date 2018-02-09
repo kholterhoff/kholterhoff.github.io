@@ -16,14 +16,14 @@
 ||Wednesday, January 17 | No Class: Snow Day **Common First Week Assignment Due**|
 ||Friday, January 19 | Stephen Ramsay's "The Hermeneutics of Screwing Around; or What You Do with a Million Books" (Canvas -> Files) |
 |**Week 3**|Monday, January 22	 | Watch _Jumanji: Welcome to the Jungle_ (2017) by classtime; <a href="https://kholterhoff.github.io/S18_ENG_1102/Jumanji">Tweet a response to at least 1 discussion question</a> |
-||Wednesday, January 24 | _She_ Haggard's Introduction (not the editor's Intro) & Chapters 1-3; <a href="https://kholterhoff.github.io/S18_ENG_1102/Quiz">Quiz</a>|
+||Wednesday, January 24 | _She_ Haggard's Introduction (not the editor's Intro) & Chapters 1-3 |
 ||Friday, January 26 | _She_ Chapters 4-6 |
 |**Week 4**|Monday, January 29 | _She_ Appendix B (pp. 302-319); In class: Victorian Archaeology: Mummies and Lost Cities Presentation |
 ||Wednesday, January 31 | _She_ Chapters 7-9  |
 ||Friday, February 2 | _She_ Appendix C; In class: Race and Empire Presentation; <a href="https://docs.google.com/forms/d/e/1FAIpQLSdVyAageVGNwLActo14fjDhJY4wpeVSdF0DdpfgOK8L3RLzFw/viewform?c=0&w=1&usp=mail_form_link">link for Section HP2</a> |
 |**Week 5**|Monday, February 5 | _She_  Chapters 10-15;  Beginning at 9:00 AM select a Haggard text <a href="https://docs.google.com/spreadsheets/d/1NXUeytqczWhs0lQlDKndy1pAug2vs9LjlJh-gmakV0Y/edit?usp=sharing">Section A4</a>; <a href="https://docs.google.com/spreadsheets/d/1HkA2nY2ijlp7B2mIeJCScwm9X0qA4dWhGqivKELOWKo/edit?usp=sharing">Section B7</a>; <a href="https://docs.google.com/spreadsheets/d/1UwvK36zROo6qmU6_k_VjLcR1yyEgOMcOejwDSKNRmfc/edit?usp=sharing">Section HP2</a>  |
 ||Wednesday, February 7 | _She_ Chapters 16-18  |
-||Friday, February 9 | _She_ Appendix D; In class: The New Woman Presentation | 
+||Friday, February 9 | _She_ Appendix D; In class: The New Woman Presentation; ; <a href="https://kholterhoff.github.io/S18_ENG_1102/Quiz">Quiz</a> | 
 |**Week 6**|Monday, February 12 | _She_ Chapters 19-23 |
 ||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press  |
 ||Friday, February 16 | _She_ Chapters 24-25 |

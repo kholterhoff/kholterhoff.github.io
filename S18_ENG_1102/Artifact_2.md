@@ -36,15 +36,17 @@ Using Microsoft Excel or <a href="https://www.google.com/sheets/about/">Google S
 Although this is an individual assignment, if student pairs reading the same Haggard text wish to collaborate on the data set, and submit this set together for their grade, I encourage you to do so. Please let me know if you choose to work with a peer on this portion of the project.
 
 
-<h4>Information to Include in Tags:</h4>
+<h4>Necessary Information to Include in Tags:</h4>
 
 * All objects in the illustration (window, horse, hat, tree)
 * Setting (Continent, Country, House, Forest)
 * Full names of characters depicted
 * Posture and expression of characters
+* Number of human figures (e.g. 1 figure, 3 figures, crowd)
+
+<h5>Optional Information to Include in Tags:</h5>
 * Critical themes: Race, Gender, Religion
 * Style of art
-* Number of human figures (e.g. 1 figure, 3 figures, crowd)
 
 
 <h3>Collage and Paper Circuit Illustration</h3>

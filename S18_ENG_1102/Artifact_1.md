@@ -28,7 +28,7 @@ Presenters must generate thought-provoking questions intended to make their assi
 
 
 <h3>Slides & Handout</h3>
-<h4>Post slides & handout to our course management site 24-hours AFTER your presentation (Canvas -> Files -> Artifact #1 -> Artifact #1 Presentations -> Appropriate Section # [A4, B7, HP2]). Please make a folder for your materials (title with the date and theme of your presentation. For example: "2-7 The New Woman") and be sure that the file titles include the last names of your team members</h4>
+Within 24 hours of your presentation, please upload your slides & handout to Canvas in the Artifact #1 Assignment field. Only one student per group needs to upload these files.
 
 Presentations must include a digital slide presentation (Google Slides, Power Point, Keynote) that will inspire and guide your audience. Groups must also design a handout that summarizes the assigned secondary source in a concise and clear manner, relates the source to overarching course themes and texts, and lists at least three questions they identify as emerging from the text. Be sure to print enough copies for the class.
 

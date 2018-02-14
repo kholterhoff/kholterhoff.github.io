@@ -28,9 +28,9 @@
 ||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press; <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXqc_NNTKKeDULYabEeEIqXCMX-AF5fc7W6NsuOjiAif8vrw/viewform">DH Awards</a>; <a href="https://goo.gl/forms/kyVHNYcI3oPwuVb62">Section HP2</a>  |
 ||Friday, February 16 | _She_ Chapters 24-25 |
 |**Week 7**|Monday, February 19 | _She_ Chapters 26-28 |
-||Wednesday, February 21 | _She_(1965) film (Canvas); In class: Adaptation Presentation | 
+||Wednesday, February 21 | _She_ (1965) film (Canvas); In class: Adaptation Presentation | 
 ||Friday, February 23 |  |
-|**Week 8**|Monday, February 26	| _Nemo: Heart of Ice_ (Canvas) |
+|**Week 8**|Monday, February 26	| _Nemo: Heart of Ice_ (Canvas) Optional: <a href="http://gutenberg.net.au/ebooks06/0600031h.html">H. P. Lovecraft _The Mountain of Madness_</a> |
 ||Wednesday, February 28 | In class: Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |
 ||Friday, March 2 | In class: Illustration Presentation |
 |**Week 9**|Monday, March 5 | **Artifact #2 Due**; In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |

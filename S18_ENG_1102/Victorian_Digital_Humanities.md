@@ -25,7 +25,7 @@
 ||Wednesday, February 7 | _She_ Chapters 16-18  |
 ||Friday, February 9 | _She_ Appendix D; In class: The New Woman Presentation; <a href="https://kholterhoff.github.io/S18_ENG_1102/Quiz">Quiz</a> | 
 |**Week 6**|Monday, February 12 | _She_ Chapters 19-23; <a href="https://docs.google.com/spreadsheets/d/1KzAwd8QeZi_unER4XpdmdLEURGsPcITSOjmKQY0KoTg/edit?usp=sharing">In Class Activity</a> |
-||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press  |
+||Wednesday, February 14 | In class: Presentation Commercialization and the Periodical Press; <a hreh="https://docs.google.com/forms/d/e/1FAIpQLSfXqc_NNTKKeDULYabEeEIqXCMX-AF5fc7W6NsuOjiAif8vrw/viewform">DH Awards</a>; <a href="https://goo.gl/forms/kyVHNYcI3oPwuVb62">Section HP2</a>  |
 ||Friday, February 16 | _She_ Chapters 24-25 |
 |**Week 7**|Monday, February 19 | _She_ Chapters 26-28 |
 ||Wednesday, February 21 | _She_(1965) film (Canvas); In class: Adaptation Presentation | 

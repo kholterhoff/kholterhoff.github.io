@@ -25,7 +25,7 @@ Students will select and read novels written by H. Rider Haggard. The text of th
 
 <h2>Descriptive Metadata Tags</h2>
 
-Using Microsoft Excel or <a href="https://www.google.com/sheets/about/">Google Sheets</a>, students will create a spreadsheet listing all the illustrations available on _Visual Haggard_ for their assigned novel. Students will write descriptive tags for each of these illustrations. Be sure to include a column identifying the image ID, and please hyperlink this ID to the appropriate webpage. 
+Using Microsoft Excel or <a href="https://www.google.com/sheets/about/">Google Sheets</a>, students will create a spreadsheet listing all the illustrations available on _Visual Haggard_ for their assigned novel. Students will write descriptive tags for each of these illustrations. Be sure to include a column identifying the image ID, and please hyperlink this ID to the appropriate webpage. If the same illustration appears in multiple Illustration IDs on _Visual Haggard_, you only need to write the metadata for it once. Just copy and paste the tags for all relevant Illustration IDs in your spreadsheet to the corresponding IDs. In other words, all illustration IDs for your Haggard novel must appear in your spreadsheet; however, the metadata you compose may be redundant for multiple objects.
 
 
 <img src="http://www.chronicle.com/blogs/profhacker/files/2017/09/Figure-1.jpg"

@@ -11,7 +11,9 @@ This assignment is an exercise in **Distant Reading**, a phrase coined by Franco
 
 >"the trouble with close reading (in all of its incarnations, from the new criticism to deconstruction) is that it necessarily depends on an extremely small canon...you invest so much in individual texts only if you think that very few of them really matter...Distant reading: where distance, let me repeat it, _is a condition of knowledge_: it allows you to focus on units that are much smaller or much larger than the text: devices, themes, tropes—or genres and systems. And if, between the very small and the very large, the text itself disappears, well, it is one of those cases when one can justifiably say, Less is more. If we want to understand the system in its entirety, we must accept losing something."
 
-For this artifact, students will demonstrate their ability to use large sets of data to ask specific and focused questions. They will then share their findings using data visualizations. **But what is Data Visualization?** According to Andy Kirk’s <a href="http://seeingdata.org/wp-content/uploads/2015/03/what-is-data-visualisation-transcript.pdf">Seeing Data</a>, "Visualisations aim to help people make sense of and explore data. Experts believe representing data in visual ways can help communicate what the data means. It can also allow people the opportunity to analyse and examine large datasets, which would otherwise be difficult to understand."
+For this artifact, students will demonstrate their ability to use large sets of data to ask specific and focused questions. They will then share their findings using data visualizations. **But what is Data Visualization?** According to Andy Kirk’s <a href="http://seeingdata.org/wp-content/uploads/2015/03/what-is-data-visualisation-transcript.pdf">Seeing Data</a>:
+
+>"Visualisations aim to help people make sense of and explore data. Experts believe representing data in visual ways can help communicate what the data means. It can also allow people the opportunity to analyse and examine large datasets, which would otherwise be difficult to understand."
 
 
 <h3>Goals</h3>

@@ -32,7 +32,7 @@
 ||Friday, February 23 |  |
 |**Week 8**|Monday, February 26	| _Nemo: Heart of Ice_ (Canvas); Optional textual supplements: <a href="http://jessnevins.com/annotations/heartofice.html">Annotations to League of Extraordinary Gentlemen: Nemo’s Heart of Ice</a>; <a href="http://gutenberg.net.au/ebooks06/0600031h.html">H. P. Lovecraft's _The Mountain of Madness_</a> |
 ||Wednesday, February 28 | In class: Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |
-||Friday, March 2 | In class: Illustration Presentation |
+||Friday, March 2 | In class: Illustration Presentation, <a href="https://docs.google.com/forms/d/e/1FAIpQLScVbtFvu0q6SFxGVOc9J6ShMEJ_MzhF3Tg3N0FnQlWH6s2t1Q/viewform?usp=sf_link">HP2</a> |
 |**Week 9**|Monday, March 5 | **Artifact #2 Due**; In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
 ||Wednesday, March 7 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
 ||Friday, March 9 | In class: Digital Humanities Presentation |

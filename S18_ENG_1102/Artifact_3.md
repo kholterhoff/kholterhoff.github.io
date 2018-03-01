@@ -45,7 +45,7 @@ Keep the "So What" of your research question in mind. Why does answering your re
 
 * <a href="https://catalog.hathitrust.org/Record/000600035">_Pall Mall Magazine_</a>
 * <a href="https://catalog.hathitrust.org/Record/000642318">_The Strand_</a>
-* <a href="https://catalog.hathitrust.org/Record/100615477">_The Windsor Magazine"_</a>
+* <a href="https://catalog.hathitrust.org/Record/100615477">_The Windsor Magazine_</a>
 * <a href="https://catalog.hathitrust.org/Record/000535554">_Longman's Magazine_</a>
 * <a href="https://catalog.hathitrust.org/Record/000520935">_Illustrated London News_</a>
 * <a href="https://catalog.hathitrust.org/Record/009368685">_Lady's Realm_</a>
@@ -65,7 +65,7 @@ Groups will submit a 800-1,000 word <a href="http://www.meaning.ca/archives/arch
 
 **What your group plans to accomplish:** All groups will submit a visualization summarizing their results which limits the type of questions you can ask. For instance, "Yes"/"No" questions do not translate into visualizations well. Questions should be specific and complex enough that you can generate a well designed visualization to show audiences what you discovered about this topic.
 
-**Why this research matters:"** Explain the "So What" of your project. Why will answering this question matter? Groups will conduct research to address this portion of the research proposal. For instance, if your research question concerns the role of women journalists in the _Illustrated London News_, you may want to cite <a href="http://www.palgrave.com/us/book/9780333683781">Barbara Onslow's _Women of the Press in Nineteenth-Century Britain_ (Palgrave, 2000)</a>. Proposals must cite a minimum of three academic secondary sources to demonstrate the value of your project.
+**Why this research matters:** Explain the "So What" of your project. Why will answering this question matter? Groups will conduct research to address this portion of the research proposal. For instance, if your research question concerns the role of women journalists in the _Illustrated London News_, you may want to cite <a href="http://www.palgrave.com/us/book/9780333683781">Barbara Onslow's _Women of the Press in Nineteenth-Century Britain_ (Palgrave, 2000)</a>. Proposals must cite a minimum of three academic secondary sources to demonstrate the value of your project.
 
 **The methods you will employ:** After practicing extracting data from HathiTrust, and massaging this data using OpenRefine, groups should have some idea about what steps they will take to conduct this research. Explain in a step-by-step manner the methods your group will use to complete this part of the assignment.
 

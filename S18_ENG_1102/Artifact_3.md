@@ -30,7 +30,7 @@ This assignment challenges students in four ways:
 
 &nbsp;&nbsp;**“Judge a man by his questions rather than by his answers.” ― Voltaire**
 
-Writing a good question will be the most difficult part of this assignment. Groups will select a periodical from the list below (one group per periodical). Using this corpus, students will formulate a research question that querying this massive data set using <a href="http://openrefine.org/">OpenRefine</a> will permit them to answer. Students will likely need to formulate and debate several questions before selecting one that can be answered. 
+Writing a good question will be the most difficult part of this assignment. Groups will select a periodical from the list below (one group per periodical). Using this corpus, students will formulate a research question that querying this massive data set will permit them to answer. Students will likely need to formulate and debate several questions before selecting one that can be answered. 
 
 Students should conduct some preliminary research into the history and significance of their periodical. Some of these periodicals specialize in politics, others in literature. Some are illustrated, others are not. Some are politically conservative, others liberal. Some began early in the 19th century, others appeared in later. Some are high-brow, others low-brow. Some are newspapers, others are magazines. The type of periodical you select will determine the kind of questions you may ask.
 
@@ -67,7 +67,7 @@ Groups will submit a 800-1,000 word <a href="http://www.meaning.ca/archives/arch
 
 **Why this research matters:** Explain the "So What" of your project. Why will answering this question matter? Groups will conduct research to address this portion of the research proposal. For instance, if your research question concerns the role of women journalists in the _Illustrated London News_, you may want to cite <a href="http://www.palgrave.com/us/book/9780333683781">Barbara Onslow's _Women of the Press in Nineteenth-Century Britain_ (Palgrave, 2000)</a>. Proposals must cite a minimum of three academic secondary sources to demonstrate the value of your project.
 
-**The methods you will employ:** After practicing extracting data from HathiTrust, and massaging this data using OpenRefine, groups should have some idea about what steps they will take to conduct this research. Explain in a step-by-step manner the methods your group will use to complete this part of the assignment.
+**The methods you will employ:** After practicing extracting data from HathiTrust, and massaging this data, groups should have some idea about what steps they will take to conduct this research. Explain in a step-by-step manner the methods your group will use to complete this part of the assignment.
 
 
 <h3>Data Visualization</h3>

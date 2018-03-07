@@ -34,7 +34,7 @@
 ||Wednesday, February 28 | In class: Paper Circuit Tutorial with <a href="https://www.ashleylschick.com/">Ashley Schick</a> (Meet in <a href="https://multimediagt.wordpress.com/">Homer Rice Room</a>) |
 ||Friday, March 2 | In class: Illustration Presentation, <a href="https://docs.google.com/forms/d/e/1FAIpQLScVbtFvu0q6SFxGVOc9J6ShMEJ_MzhF3Tg3N0FnQlWH6s2t1Q/viewform?usp=sf_link">HP2</a> |
 |**Week 9**|Monday, March 5 | **Artifact #2 Due**; In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
-||Wednesday, March 7 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
+||Wednesday, March 7 | Meet in <a href="https://multimediagt.wordpress.com/">Wilby Room</a> for In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
 ||Friday, March 9 | In class: Digital Humanities Presentation |
 |**Week 10**|Monday, March 12 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
 ||Wednesday, March 14 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 

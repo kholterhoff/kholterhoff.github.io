@@ -40,9 +40,9 @@
 ||Wednesday, March 14 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
 ||Friday, March 16 | In class: Book History Presentation |
 |**Spring Break**| | |
-|**Week 11**|Monday, March 26 | **Artifact #3 Research Proposal Due** |
+|**Week 11**|Monday, March 26 | |
 ||Wednesday, March 28 | | 
-||Friday, March 30	 |	|
+||Friday, March 30	 |	**Artifact #3 Research Proposal Due** |
 |**Week 12**|Monday, April 2 | Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
 ||Wednesday, April 4 | Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
 ||Friday, April 6 |  |

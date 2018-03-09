@@ -35,7 +35,7 @@
 ||Friday, March 2 | In class: Illustration Presentation, <a href="https://docs.google.com/forms/d/e/1FAIpQLScVbtFvu0q6SFxGVOc9J6ShMEJ_MzhF3Tg3N0FnQlWH6s2t1Q/viewform?usp=sf_link">HP2</a> |
 |**Week 9**|Monday, March 5 | **Artifact #2 Due**; In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
 ||Wednesday, March 7 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
-||Friday, March 9 | In class: Digital Humanities Presentation |
+||Friday, March 9 | In class: Digital Humanities Presentation <a hreh="https://docs.google.com/forms/d/e/1FAIpQLSeyn0Yjypq8goX3p1ZwrTk2f_Qh3-3LykiUS5yenRAM-TmaJg/viewform?usp=sf_link">HP2</a>|
 |**Week 10**|Monday, March 12 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> |
 ||Wednesday, March 14 | In class: Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
 ||Friday, March 16 | In class: Book History Presentation |

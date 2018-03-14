@@ -57,7 +57,7 @@ Keep the "So What" of your research question in mind. Why does answering your re
 * <a href="https://catalog.hathitrust.org/Record/006061853">_The Monthly Review_</a>
 * <a href="https://catalog.hathitrust.org/Record/000525129">_The Contemporary Review_</a>
 
-**<a href="https://docs.google.com/forms/d/1iypJBvQBCG14CfK6y7juwVj2oNLoar1ktClFT4bJEWw/edit#responses">Select your periodical here</a>**
+**<a href="https://docs.google.com/spreadsheets/d/1ZTKcYqwgphpx654KGPhh9neT41_RcZr8idjZSHPHMpU/edit?usp=sharing">Selected Periodicals</a>**
 
 <h3>Research Proposal</h3>
 
@@ -89,7 +89,7 @@ Visualizations are arguments about datasets. For this reason visualizations must
 
 <h3>Timeline</h3>
 
-* Sunday, March 11: Pick your Victorian periodical by midnight. **<a href="https://docs.google.com/forms/d/1iypJBvQBCG14CfK6y7juwVj2oNLoar1ktClFT4bJEWw/edit#responses">Form released at 8:30 AM.</a>**
+* Sunday, March 11: Pick your Victorian periodical by midnight. **<a href="https://docs.google.com/spreadsheets/d/1ZTKcYqwgphpx654KGPhh9neT41_RcZr8idjZSHPHMpU/edit?usp=sharing">Form released at 8:30 AM.</a>**
 * Friday, March 30 at midnight: Submit Research Proposal
 * Monday, April 9 during class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally.
 * Friday, April 13: Complete Project due at midnight.

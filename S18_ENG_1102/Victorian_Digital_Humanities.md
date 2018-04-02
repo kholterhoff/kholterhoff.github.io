@@ -43,7 +43,7 @@
 |**Week 11**|Monday, March 26 | |
 ||Wednesday, March 28 | | 
 ||Friday, March 30	 |	**Artifact #3 Research Proposal Due** |
-|**Week 12**|Monday, April 2 | Need data set for Wednesday: <a href="https://wiki.htrc.illinois.edu/display/COM/HTRC+Data+Capsule+Tutorial">In-class instructions from Ximin Mi: “If any of them get some interesting results in Voyant, they need to save that content in secure_volume folder for output (already written in my instruction), they can move along to try take content out of Hathitrust. More instruction about taking the results out of Hathitrust is on their website as step 13</a> |
+|**Week 12**|Monday, April 2 | In-class prepare data set for Wednesday: <a href="https://wiki.htrc.illinois.edu/display/COM/HTRC+Data+Capsule+Tutorial">“If any of them get some interesting results in Voyant, they need to save that content in secure_volume folder for output (already written in my instruction), they can move along to try take content out of Hathitrust. More instruction about taking the results out of Hathitrust is on their website as step 13</a>; <a href="github.com/GTLibraryDataVisualization">Ximin’s Github Data Visualization Materials</a> |
 ||Wednesday, April 4 | Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
 ||Friday, April 6 |  |
 |**Week 13**|Monday, April 9 |  |

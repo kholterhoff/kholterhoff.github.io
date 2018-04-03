@@ -51,7 +51,7 @@
 ||Friday, April 13 |	**Artifact #3 Data Visualization Due** |
 |**Week 14**|Monday, April 16	 | Introduce Multimedia Portfolios|
 ||Wednesday, April 18 | Multimedia Portfolios| 
-||Friday, April 20 | Multimedia Portfolios|
+||Friday, April 20 | No Class: Work Day |
 |**Week 15**|Monday, April 23 | Last Day |
 |**Exam Week**|Monday, April 26 - May 3| |
 ||Friday, April 27 8:00 AM ‐ 10:50 AM| Section A4 |

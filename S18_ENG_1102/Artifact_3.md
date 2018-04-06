@@ -85,6 +85,7 @@ Visualizations are arguments about datasets. For this reason visualizations must
 
 * Header (mention illustration, title of book, and possibly Haggard and the illustrator’s name)
 * Legend stating pertinent explanatory information; the data’s source (HathiTrust, others?); and creators (names of group members)
+* Decide whether or not to include your team's names because these will be public. If you do not wish to be publicaly identifiable, sign your data visualization "Created by Georgia Tech students enrolled in Dr. Kate Holterhoff's Spring 2018 English 1102 course."
 
 
 <h3>Timeline</h3>

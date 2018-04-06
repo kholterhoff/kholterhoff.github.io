@@ -92,7 +92,7 @@ Visualizations are arguments about datasets. For this reason visualizations must
 
 * Sunday, March 11: Pick your Victorian periodical by midnight. **<a href="https://docs.google.com/spreadsheets/d/1ZTKcYqwgphpx654KGPhh9neT41_RcZr8idjZSHPHMpU/edit?usp=sharing">Form released at 8:30 AM.</a>**
 * Friday, March 30 at midnight: Submit Research Proposal
-* Monday, April 9 during class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally.
+* Wednesday, April 11 during class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally.
 * Friday, April 13: Complete Project due at midnight.
 
 

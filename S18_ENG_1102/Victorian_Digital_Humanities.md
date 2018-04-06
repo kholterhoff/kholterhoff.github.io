@@ -45,8 +45,8 @@
 ||Friday, March 30	 |	**Artifact #3 Research Proposal Due** |
 |**Week 12**|Monday, April 2 | In-class prepare data set for Wednesday: <a href="https://wiki.htrc.illinois.edu/display/COM/HTRC+Data+Capsule+Tutorial">“If any of them get some interesting results in Voyant, they need to save that content in secure_volume folder for output (already written in my instruction), they can move along to try take content out of Hathitrust. More instruction about taking the results out of Hathitrust is on their website as step 13</a>; <a href="github.com/GTLibraryDataVisualization">Ximin’s Github Data Visualization Materials</a> |
 ||Wednesday, April 4 | Tutorial with <a href="http://libguides.gatech.edu/prf.php?account_id=139382">Ximin Mi</a> | 
-||Friday, April 6 |  |
-|**Week 13**|Monday, April 9 |  |
+||Friday, April 6 | <a href="https://www.tableau.com/academic/students#form">Download Tableau</a> |
+|**Week 13**|Monday, April 9 | In Class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally. |
 ||Wednesday, April 11 |	|
 ||Friday, April 13 |	**Artifact #3 Data Visualization Due** |
 |**Week 14**|Monday, April 16	 | Introduce Multimedia Portfolios|

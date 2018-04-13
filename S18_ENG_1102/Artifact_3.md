@@ -93,7 +93,7 @@ Visualizations are arguments about datasets. For this reason visualizations must
 * Sunday, March 11: Pick your Victorian periodical by midnight. **<a href="https://docs.google.com/spreadsheets/d/1ZTKcYqwgphpx654KGPhh9neT41_RcZr8idjZSHPHMpU/edit?usp=sharing">Form released at 8:30 AM.</a>**
 * Friday, March 30 at midnight: Submit Research Proposal
 * Wednesday, April 11 during class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally.
-* Friday, April 13: Complete Project due at midnight. Keep in mind that these documents may be published, so decide whether or not your group wishes to have their names attached to the final document. If you want to stay anonymous, include the "Created by" statement above. WHAT TO UPLOAD TO CANVAS: 1) Data Visualization (high resolution); 2) Your data set (spread sheets, txt files, etcetera); 3) Revised Research Proposal.
+* Friday, April 13: Complete Project due at midnight. Keep in mind that these documents may be published, so decide whether or not your group wishes to have their names attached to the final document. If you want to stay anonymous, include the "Created by" statement above. WHAT TO UPLOAD TO CANVAS: 1) Data Visualization (high resolution, Share your visualization with <a href="mailto:kate.holterhoff@gmail.com">kate.holterhoff@gmail.com</a> through Tableau, publish your visualization on Tableau); 2) Your data set (spread sheets, txt files, etcetera); 3) Revised Research Proposal.
 
 
 <h3>Reflection</h3>

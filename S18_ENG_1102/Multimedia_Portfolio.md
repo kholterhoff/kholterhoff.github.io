@@ -14,4 +14,6 @@
 
 1. State in the first paragraph, preferably the first sentence, whether the assignment was an Individual or a Group project.
 
-2. Contain Process Documents (with the exception of the Common First Week Assignment). The more of these documents you provide, the better. Process documents might include informal sketches, rough drafts, planning documents, or brain storming notes.
+2. Contain Process Documents (probably 2 per page minimum). The more of these documents you provide, the better. Process documents might include informal sketches, rough drafts, planning documents, or brain storming notes.
+
+3. Include at least one hyperlink to a website.

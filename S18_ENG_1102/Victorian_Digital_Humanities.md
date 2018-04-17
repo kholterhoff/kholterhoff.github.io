@@ -50,7 +50,7 @@
 ||Wednesday, April 11 |	In Class: Bring a digital copy of at least one data visualization to project on the screen, and discuss with the class. Samples should be as complete as possible (include header, scale, color, etc.). Teams will explain the decisions they made in creating this data visualization verbally. |
 ||Friday, April 13 |	**Artifact #3 Data Visualization Due** |
 |**Week 14**|Monday, April 16	 | Introduce Multimedia Portfolios|
-||Wednesday, April 18 | Multimedia Portfolios| 
+||Wednesday, April 18 | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpUlCs86-p-eJySjkmJAZnNwi3zTh-lZ5xfe4io4PYnah59Q/viewform?usp=sf_link">Participation Form</a>; Multimedia Portfolios| 
 ||Friday, April 20 | No Class: Work Day |
 |**Week 15**|Monday, April 23 | Last Day |
 |**Exam Week**|Monday, April 26 - May 3| |

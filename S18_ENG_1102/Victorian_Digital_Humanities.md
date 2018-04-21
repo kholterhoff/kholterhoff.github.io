@@ -52,7 +52,7 @@
 |**Week 14**|Monday, April 16	 | Introduce Multimedia Portfolios|
 ||Wednesday, April 18 | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpUlCs86-p-eJySjkmJAZnNwi3zTh-lZ5xfe4io4PYnah59Q/viewform?usp=sf_link">Participation Form</a>; Multimedia Portfolios| 
 ||Friday, April 20 | No Class: Work Day |
-|**Week 15**|Monday, April 23 | Last Day |
+|**Week 15**|Monday, April 23 | <a href="https://gatech.co1.qualtrics.com/jfe/form/SV_0p5lemn1L2v7nr7">Library Questionnaire</a>; CIOS; Peer Review Reflective Essay |
 |**Exam Week**|Monday, April 26 - May 3| |
 ||Friday, April 27 8:00 AM ‐ 10:50 AM| Section A4 |
 ||Friday, April 27 11:30 AM ‐ 2:20 PM| Section B7 |

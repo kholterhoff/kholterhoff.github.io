@@ -8,7 +8,7 @@
 <h2>Teaching Areas</h2>
 
 19th Century   -    British Literature   -   Visual Culture   -   Digital Humanities  -
-Archives   -   Multimodal Communication   -   History of Science   -
+Archives   -   Multimodal & Technical Communication   -   History of Science   -
 Gender, Race, and Class Studies   -   Critical Theory
 
 <h2>Courses</h2>

@@ -16,6 +16,7 @@ Gender, Race, and Class Studies   -   Critical Theory
 <h3>Georgia Institute of Technology</h3>
   
   |-----|--------------------------------------------------|----:|
+  CS 3311/LMC 3432 | <a href="https://docs.google.com/document/d/1Y8hcGB7fK9Kq7NcljnrApaXI1SAhwvvNm78yIy06D3I/edit?usp=sharing">Junior Design: Project Design andTechnical Communication Strategies</a> | 2018
   ENGL 1102 | <a href="https://kholterhoff.github.io/S18_ENG_1102/Victorian_Digital_Humanities">Victorian Digital Humanities</a> | 2018
   ENGL 1102 | <a href="https://kholterhoff.github.io/F17_ENG_1102/Victorians_In_Cyberspace">Victorians in Cyberspace</a> | 2017
   ENGL 1102 | <a href="http://1102vcdahrh.wordpress.com/">Visual Culture, Digital Archives and H. Rider Haggard</a> | 2017
